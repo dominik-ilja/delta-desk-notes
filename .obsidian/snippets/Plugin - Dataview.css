@@ -1,0 +1,67 @@
+.dataview.inline-field {
+  border-radius: 4px;
+
+  br {
+    display: none;
+  }
+}
+
+.dataview.inline-field > * {
+  font-family: var(--font-text);
+}
+
+.dataview.inline-field {
+  border-radius: 9999px;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: middle;
+}
+
+.dataview .inline-field-key,
+.dataview .inline-field-value,
+.dataview .inline-field-standalone-value {
+  font-size: var(--tag-size);
+  padding-block: var(--tag-padding-y);
+}
+
+.dataview .inline-field-standalone-value {
+  padding-inline: 8px;
+}
+
+.dataview .inline-field-key {
+  padding-inline: var(--tag-padding-x) 2px;
+}
+
+.dataview .inline-field-key::after {
+  content: ":";
+}
+
+.dataview .inline-field-value {
+  padding-inline: 2px var(--tag-padding-x);
+}
+
+.dataview .table-view-th {
+  font-size: 1rem;
+}
+
+.dataview td {
+  padding: 1rem 0.25rem;
+}
+
+.block-language-dataviewjs h4 {
+  font-size: 1rem;
+  margin-left: 0.5rem;
+}
+
+.dataview.inline-field-key,
+.dataview.inline-field-value,
+.dataview.inline-field-standalone-value {
+  --checklist-done-decoration: none;
+  background-color: var(--color-base-25);
+  color: var(--text-normal);
+  text-decoration: var(--checklist-done-decoration);
+}
+
+.block-language-dataviewjs br {
+  display: none;
+}

@@ -1,0 +1,1 @@
+<time><%tp.date.now("dddd, MMMM D, YYYY")%></time>

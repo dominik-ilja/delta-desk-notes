@@ -1,0 +1,32 @@
+/*
+  Utility classes for use when working with raw HTML
+*/
+
+.text-center {
+  text-align: center;
+}
+
+/* Foreground Colors */
+
+.text-muted,
+.tm {
+  color: var(--text-muted);
+}
+
+.text-faint,
+.tf {
+  color: var(--text-faint);
+}
+
+.placeholder,
+.ph {
+  color: var(--text-faint);
+  font-style: italic;
+}
+
+/* Images */
+img[alt*="center"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

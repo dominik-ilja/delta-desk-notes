@@ -1,0 +1,38 @@
+/*
+Related CSS variables:
+
+--text-highlight-bg-rgb    The base highlight color
+--text-highlight-bg        Uses the base highlight and adds opacity to it
+
+The <mark> element will add a highlight by default
+*/
+
+mark {
+  --opacity: 0.4;
+  background-color: rgba(var(--text-highlight-bg-rgb, var(--opacity)));
+
+  &.blue {
+    background-color: rgba(var(--color-blue-rgb), var(--opacity));
+  }
+  &.cyan {
+    background-color: rgba(var(--color-cyan-rgb), var(--opacity));
+  }
+  &.green {
+    background-color: rgba(var(--color-green-rgb), var(--opacity));
+  }
+  &.orange {
+    background-color: rgba(var(--color-orange-rgb), var(--opacity));
+  }
+  &.pink {
+    background-color: rgba(var(--color-pink-rgb), var(--opacity));
+  }
+  &.purple {
+    background-color: rgba(var(--color-purple-rgb), var(--opacity));
+  }
+  &.red {
+    background-color: rgba(var(--color-red-rgb), var(--opacity));
+  }
+  &.yellow {
+    background-color: rgba(var(--color-yellow-rgb), var(--opacity));
+  }
+}

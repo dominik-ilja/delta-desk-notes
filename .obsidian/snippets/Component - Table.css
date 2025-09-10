@@ -1,0 +1,33 @@
+/* table {
+  width: 100%;
+} */
+
+/* * + .cm-embed-block.cm-table-widget {
+  padding-bottom: 1rem;
+} */
+
+.markdown-rendered :is(td, th) {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.no-wrap-col-1 td:first-child .table-cell-wrapper {
+  white-space: nowrap;
+}
+
+.table-scroll {
+  tr> :first-child {
+    position: sticky !important;
+    z-index: 1;
+    left: 0;
+
+    .table-cell-wrapper {
+      background-color: var(--background-primary);
+    }
+  }
+
+  .table-cell-wrapper {
+    white-space: nowrap;
+  }
+
+}

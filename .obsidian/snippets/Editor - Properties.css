@@ -1,0 +1,19 @@
+@container (width > 350px) {
+  .metadata-property-key {
+    min-width: min-content;
+  }
+  .metadata-property-key-input {
+    width: min-content;
+  }
+  .metadata-properties:has(
+      :is(
+          [aria-label="DataSeers Actual Design Hours"],
+          [aria-label="DataSeers Estimated Design Hours"],
+          [aria-label="DataSeers Estimated Design Start Date"],
+          [aria-label="DataSeers Actual Design Hours"]
+        )
+    )
+    .metadata-property-key-input {
+    width: 18.75rem !important;
+  }
+}

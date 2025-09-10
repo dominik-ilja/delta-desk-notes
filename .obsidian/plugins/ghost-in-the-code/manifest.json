@@ -1,0 +1,11 @@
+{
+  "id": "ghost-in-the-code",
+  "name": "Ghost in the Code",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Offers utilities for manipulating note frontmatter",
+  "author": "Dominik Ilja",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}

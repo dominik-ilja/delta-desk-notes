@@ -1,0 +1,1602 @@
+{
+  "workspaces": {
+    "Today": {
+      "main": {
+        "id": "c5fee91b40f9f9d3",
+        "type": "split",
+        "children": [
+          {
+            "id": "0568752c39e0fb81",
+            "type": "tabs",
+            "dimension": 46.422628951747086,
+            "children": [
+              {
+                "id": "d8574e4758e1687c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Daily/2025-09-09 - Tuesday.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-09-09 - Tuesday"
+                }
+              },
+              {
+                "id": "59681f113d7081fa",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "Contacts.base",
+                    "viewName": "Table"
+                  },
+                  "icon": "lucide-table",
+                  "title": "Contacts"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5ffa0860c798b172",
+            "type": "tabs",
+            "dimension": 53.57737104825291,
+            "children": [
+              {
+                "id": "ba10a679d2e0ba26",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tasks/Dashboards/Main Dashboard.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Main Dashboard"
+                }
+              },
+              {
+                "id": "61b4fbac971c767d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tasks/Lists/Task List.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Task List"
+                }
+              },
+              {
+                "id": "4544a72ab54dbe18",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Agenda/Daily/2025-09-09 - Tuesday.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-09-09 - Tuesday"
+                }
+              },
+              {
+                "id": "a031ee9c58bf6778",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Git - How to delete a commit.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Git - How to delete a commit"
+                }
+              },
+              {
+                "id": "ebdb6283df5f5368",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Git - HEAD.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Git - HEAD"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "35ecc913854d3f80",
+        "type": "split",
+        "children": [
+          {
+            "id": "eee998b7c4bb6bdf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "221e327906bd4012",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "980d5f268cc23e98",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Todo",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "97cd48c6949d8a98",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 298.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "5beeb383e9f6f6b8",
+        "type": "split",
+        "children": [
+          {
+            "id": "59525e51d6ee8ee3",
+            "type": "tabs",
+            "dimension": 47.57142857142857,
+            "children": [
+              {
+                "id": "b0e1251cf497eb39",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Agenda/Daily/2025-09-04 - Thursday.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for 2025-08-12 - Tuesday"
+                }
+              },
+              {
+                "id": "b4d2507032b50c9d",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-google-calendar",
+                  "state": {},
+                  "icon": "lucide-calendar",
+                  "title": "Google Calendar"
+                }
+              },
+              {
+                "id": "5684304d91c51e68",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Dataview/Unfinished tasks in note.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Unfinished tasks in note"
+                }
+              },
+              {
+                "id": "778131103ac97a03",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Dataview/Topics.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Topics"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "bb3515cb27a68804",
+            "type": "tabs",
+            "dimension": 32.35714285714286,
+            "children": [
+              {
+                "id": "2c381be1674b5801",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Agenda/Daily/2025-09-09 - Tuesday.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-09-09 - Tuesday"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d00dfa0430909c65",
+            "type": "tabs",
+            "dimension": 20.07142857142857,
+            "children": [
+              {
+                "id": "7e2e19d521bdbcb8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "6502466cd265a798",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "9ae7a8d6e3e0746e",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Arbejdskraft/DataSeers/Notes/Daily/2025-06-17 - Tuesday.md"
+                  },
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "72c6daff3a986617",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Agenda/Daily/2025-08-07 - Thursday.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-08-07 - Thursday"
+                }
+              },
+              {
+                "id": "6152dbdc3ca34bd9",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "NuGet Package Manager.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from NuGet Package Manager"
+                }
+              },
+              {
+                "id": "ef08a1998cd5e123",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 327.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "oz-clear-unused-images:Clear Unused Images": false,
+          "bases:Create new base": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-custom-frames:Open Google Calendar": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "command-palette:Open command palette": true,
+          "markdown-importer:Open format converter": true,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "4544a72ab54dbe18",
+      "mtime": "2025-09-09T12:07:01-04:00"
+    },
+    "DataSeers": {
+      "main": {
+        "id": "c5fee91b40f9f9d3",
+        "type": "split",
+        "children": [
+          {
+            "id": "22115c636af812da",
+            "type": "tabs",
+            "dimension": 59.2326139088729,
+            "children": [
+              {
+                "id": "f4693cc7e109b3aa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Arbejdskraft/DataSeers/Tasks/DataSeers Dashboard.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "DataSeers Dashboard"
+                }
+              },
+              {
+                "id": "e5546c195f563284",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Arbejdskraft/DataSeers/Tasks/Sprints/DataSeers Sprints - September 2025.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "DataSeers Sprints - September 2025"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "0ab16f31e166d61b",
+            "type": "tabs",
+            "dimension": 40.7673860911271,
+            "children": [
+              {
+                "id": "1b5bae1eaecfa553",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Arbejdskraft/DataSeers/Notes/Daily/2025-08-27 - Wednesday.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-08-27 - Wednesday"
+                }
+              },
+              {
+                "id": "c100443f10421c17",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Daily/2025-08-27 - Wednesday.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-08-27 - Wednesday"
+                }
+              },
+              {
+                "id": "c57627ded12e6e8a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Arbejdskraft/DataSeers/Meetings/2025/UI-UX/2025-09-04 - UI-UX Meeting.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-09-04 - UI-UX Meeting"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "35ecc913854d3f80",
+        "type": "split",
+        "children": [
+          {
+            "id": "eee998b7c4bb6bdf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "221e327906bd4012",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "980d5f268cc23e98",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "97cd48c6949d8a98",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 258.5
+      },
+      "right": {
+        "id": "5beeb383e9f6f6b8",
+        "type": "split",
+        "children": [
+          {
+            "id": "59525e51d6ee8ee3",
+            "type": "tabs",
+            "dimension": 44.651830581478826,
+            "children": [
+              {
+                "id": "b0e1251cf497eb39",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Arbejdskraft/DataSeers/Notes/Daily/2025-07-23 - Wednesday.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for 2025-07-23 - Wednesday"
+                }
+              },
+              {
+                "id": "45b7b9065b9171ec",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-google-calendar",
+                  "state": {},
+                  "icon": "lucide-calendar",
+                  "title": "Google Calendar"
+                }
+              },
+              {
+                "id": "5684304d91c51e68",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Dataview/Unfinished tasks in note.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Unfinished tasks in note"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "bb3515cb27a68804",
+            "type": "tabs",
+            "dimension": 31.29935391241924,
+            "children": [
+              {
+                "id": "2c381be1674b5801",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Arbejdskraft/DataSeers/Tasks/Sprints/DataSeers Sprints - September 2025.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of DataSeers Sprints - September 2025"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d00dfa0430909c65",
+            "type": "tabs",
+            "dimension": 24.04881550610194,
+            "children": [
+              {
+                "id": "7e2e19d521bdbcb8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "6502466cd265a798",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "9ae7a8d6e3e0746e",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Arbejdskraft/DataSeers/Notes/Daily/2025-06-17 - Tuesday.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "72c6daff3a986617",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Agenda/Daily/2025-06-11 - Wednesday.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-06-11 - Wednesday"
+                }
+              },
+              {
+                "id": "6152dbdc3ca34bd9",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Notes/Daily/2025-06-07 - Saturday.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2025-06-07 - Saturday"
+                }
+              },
+              {
+                "id": "52d9c407848fa87c",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 285.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-custom-frames:Open Google Calendar": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "command-palette:Open command palette": true,
+          "markdown-importer:Open format converter": true,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "e5546c195f563284",
+      "mtime": "2025-08-27T16:29:23-04:00"
+    },
+    "Dashboards": {
+      "main": {
+        "id": "c5fee91b40f9f9d3",
+        "type": "split",
+        "children": [
+          {
+            "id": "37e27c16e8eb017e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d3648bcdd54464ee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tasks/Dashboards/Main Dashboard.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Main Dashboard"
+                }
+              },
+              {
+                "id": "0dd95f03bab089f5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tasks/Lists/Task List.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Task List"
+                }
+              },
+              {
+                "id": "903c02fc7abe3a9c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Arbejdskraft/DataSeers/Tasks/DataSeers Dashboard.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "DataSeers Dashboard"
+                }
+              },
+              {
+                "id": "73f1d2ec5c95ab23",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tasks/Dashboards/Complete Dashboard.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Complete Dashboard"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "35ecc913854d3f80",
+        "type": "split",
+        "children": [
+          {
+            "id": "eee998b7c4bb6bdf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "221e327906bd4012",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "980d5f268cc23e98",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "\"Due::\"",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "97cd48c6949d8a98",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 271.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "5beeb383e9f6f6b8",
+        "type": "split",
+        "children": [
+          {
+            "id": "59525e51d6ee8ee3",
+            "type": "tabs",
+            "dimension": 44.651830581478826,
+            "children": [
+              {
+                "id": "b0e1251cf497eb39",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Tasks/Dashboards/Main Dashboard.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Main Dashboard"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bb3515cb27a68804",
+            "type": "tabs",
+            "dimension": 31.29935391241924,
+            "children": [
+              {
+                "id": "2c381be1674b5801",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Tasks/Dashboards/Main Dashboard.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Main Dashboard"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d00dfa0430909c65",
+            "type": "tabs",
+            "dimension": 24.04881550610194,
+            "children": [
+              {
+                "id": "7e2e19d521bdbcb8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "6502466cd265a798",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "9ae7a8d6e3e0746e",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Tasks/Dashboards/Main Dashboard.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "72c6daff3a986617",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Agenda/Daily/2025-06-11 - Wednesday.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-06-11 - Wednesday"
+                }
+              },
+              {
+                "id": "6152dbdc3ca34bd9",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Notes/Daily/2025-06-07 - Saturday.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2025-06-07 - Saturday"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 269.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "command-palette:Open command palette": true,
+          "markdown-importer:Open format converter": true,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "d3648bcdd54464ee",
+      "mtime": "2025-07-10T08:28:24-04:00"
+    },
+    "Planning": {
+      "main": {
+        "id": "c5fee91b40f9f9d3",
+        "type": "split",
+        "children": [
+          {
+            "id": "b1946974d493b3d2",
+            "type": "tabs",
+            "dimension": 63.09644670050761,
+            "children": [
+              {
+                "id": "7d11ce18aa19adad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tasks/Dashboards/Main Dashboard.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Main Dashboard"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d735e0724bc31613",
+            "type": "split",
+            "dimension": 36.90355329949239,
+            "children": [
+              {
+                "id": "2b9ddb21e9153e47",
+                "type": "tabs",
+                "dimension": 68.67816091954023,
+                "children": [
+                  {
+                    "id": "7b8b6bf8b5832f4d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Agenda/Yearly/2025.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025"
+                    }
+                  },
+                  {
+                    "id": "128031bf54cfbbe1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Agenda/Quarterly/2025 - Q3.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025 - Q3"
+                    }
+                  },
+                  {
+                    "id": "fedca17ee0dda12c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Agenda/Monthly/2025 - July.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025 - July"
+                    }
+                  },
+                  {
+                    "id": "d8416d6e10133d2c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Agenda/Weekly/2025 - Week 28.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025 - Week 28"
+                    }
+                  },
+                  {
+                    "id": "d4ab2519078791c1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Agenda/Daily/2025-07-10 - Thursday.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-07-10 - Thursday"
+                    }
+                  }
+                ],
+                "currentTab": 4
+              },
+              {
+                "id": "75ab9b09ec47a73a",
+                "type": "tabs",
+                "dimension": 31.321839080459768,
+                "children": [
+                  {
+                    "id": "b6dffb0ed84753bf",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes/Daily/2025-07-10 - Thursday.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-07-10 - Thursday"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "35ecc913854d3f80",
+        "type": "split",
+        "children": [
+          {
+            "id": "eee998b7c4bb6bdf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "221e327906bd4012",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "980d5f268cc23e98",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "97cd48c6949d8a98",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 307.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "5beeb383e9f6f6b8",
+        "type": "split",
+        "children": [
+          {
+            "id": "59525e51d6ee8ee3",
+            "type": "tabs",
+            "dimension": 43.60632183908046,
+            "children": [
+              {
+                "id": "b0e1251cf497eb39",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Tasks/Dashboards/Main Dashboard.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Main Dashboard"
+                }
+              },
+              {
+                "id": "5684304d91c51e68",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Dataview/Unfinished tasks in note.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Unfinished tasks in note"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bb3515cb27a68804",
+            "type": "tabs",
+            "dimension": 30.89080459770115,
+            "children": [
+              {
+                "id": "2c381be1674b5801",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Tasks/Dashboards/Main Dashboard.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Main Dashboard"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d00dfa0430909c65",
+            "type": "tabs",
+            "dimension": 25.502873563218394,
+            "children": [
+              {
+                "id": "7e2e19d521bdbcb8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "6502466cd265a798",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "9ae7a8d6e3e0746e",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Arbejdskraft/DataSeers/Notes/Daily/2025-06-17 - Tuesday.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "72c6daff3a986617",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Agenda/Daily/2025-07-08 - Tuesday.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-07-08 - Tuesday"
+                }
+              },
+              {
+                "id": "6152dbdc3ca34bd9",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "NuGet Package Manager.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from NuGet Package Manager"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 239.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "command-palette:Open command palette": true,
+          "markdown-importer:Open format converter": true,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "7d11ce18aa19adad",
+      "mtime": "2025-07-09T21:58:32-04:00"
+    },
+    "Clean": {
+      "main": {
+        "id": "c5fee91b40f9f9d3",
+        "type": "split",
+        "children": [
+          {
+            "id": "3c00a1f9366c99b1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c0411a89628c1e6",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "35ecc913854d3f80",
+        "type": "split",
+        "children": [
+          {
+            "id": "eee998b7c4bb6bdf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "221e327906bd4012",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "980d5f268cc23e98",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Todo",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "97cd48c6949d8a98",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 357.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "5beeb383e9f6f6b8",
+        "type": "split",
+        "children": [
+          {
+            "id": "59525e51d6ee8ee3",
+            "type": "tabs",
+            "dimension": 43.606321839080444,
+            "children": [
+              {
+                "id": "b0e1251cf497eb39",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Agenda/Daily/2025-07-29 - Tuesday.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for 2025-07-29 - Tuesday"
+                }
+              },
+              {
+                "id": "b4d2507032b50c9d",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-google-calendar",
+                  "state": {},
+                  "icon": "lucide-calendar",
+                  "title": "Google Calendar"
+                }
+              },
+              {
+                "id": "5684304d91c51e68",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Dataview/Unfinished tasks in note.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Unfinished tasks in note"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "bb3515cb27a68804",
+            "type": "tabs",
+            "dimension": 36.350574712643684,
+            "children": [
+              {
+                "id": "2c381be1674b5801",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d00dfa0430909c65",
+            "type": "tabs",
+            "dimension": 20.043103448275865,
+            "children": [
+              {
+                "id": "7e2e19d521bdbcb8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "6502466cd265a798",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "9ae7a8d6e3e0746e",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Arbejdskraft/DataSeers/Notes/Daily/2025-06-17 - Tuesday.md"
+                  },
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "72c6daff3a986617",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "6152dbdc3ca34bd9",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "NuGet Package Manager.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from NuGet Package Manager"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 329.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-custom-frames:Open Google Calendar": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "command-palette:Open command palette": true,
+          "markdown-importer:Open format converter": true,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "3c0411a89628c1e6",
+      "mtime": "2025-08-07T06:52:10-04:00"
+    }
+  },
+  "active": "Today"
+}

@@ -1,0 +1,31 @@
+input[type="checkbox"] {
+  cursor: pointer;
+}
+
+body {
+  /* --checklist-done-decoration: line-through; */
+  --checklist-done-decoration: none;
+}
+
+.theme-dark {
+  --checklist-done-color: hsl(0, 0%, 28%);
+}
+
+.theme-light {
+  --checklist-done-color: hsl(0, 0%, 88%);
+}
+
+.HyperMD-task-line[data-task="x" i] :is(.cm-inline-code, .dataview.inline-field>*),
+.task-list-item.is-checked :is(code, .dataview.inline-field>*) {
+  background-color: var(--color-base-20) !important;
+  color: var(--checklist-done-color) !important;
+}
+
+.dataview.inline-field>* {
+  padding: 0 4px;
+}
+
+.HyperMD-task-line[data-task*="x" i] :is(.cm-link, .cm-url, .cm-hmd-internal-link),
+.task-list-item.is-checked :is(a, .internal-link) {
+  opacity: 0.5;
+}

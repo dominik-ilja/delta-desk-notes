@@ -1,0 +1,1 @@
+<span class="placeholder">No completed tasks</span>

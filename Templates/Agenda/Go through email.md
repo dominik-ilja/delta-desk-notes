@@ -1,0 +1,7 @@
+- [ ] Go through email
+    - [ ] Go through Master email
+    - [ ] Go through Personal email
+    - [ ] Go through Developer email
+    - [ ] Go through Shop email
+    - [ ] Go through Social email
+    - [ ] Go through Work email

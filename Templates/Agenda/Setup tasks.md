@@ -1,0 +1,12 @@
+- [ ] Setup tasks for the `x`
+    - [ ] General
+    - [ ] Career
+    - [ ] Contribution
+    - [ ] Education
+    - [ ] Financial
+    - [ ] Lifestyle
+    - [ ] Personal
+    - [ ] Relationships
+    - [ ] Spiritual
+    - [ ] Vitality
+    - [ ] Kayla

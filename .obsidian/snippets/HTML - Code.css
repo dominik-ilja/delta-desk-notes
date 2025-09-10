@@ -1,0 +1,4 @@
+.cm-s-obsidian span.cm-inline-code,
+.markdown-rendered code {
+  background-color: var(--color-base-25);
+}

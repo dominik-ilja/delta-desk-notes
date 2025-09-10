@@ -1,0 +1,11 @@
+/*
+CSS snippets for Bases plugin
+*/
+
+.query-toolbar-menu:has(.input-row-status) {
+  min-width: 600px;
+
+  .bases-toolbar-menu-container {
+    max-width: unset;
+  }
+}

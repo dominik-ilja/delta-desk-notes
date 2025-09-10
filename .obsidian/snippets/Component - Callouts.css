@@ -1,0 +1,45 @@
+.callout {
+  --icon-size: 24px;
+}
+
+.callout-title {
+  align-items: center;
+  gap: var(--size-4-2);
+}
+
+.callout[data-callout="date"] {
+  --callout-color: var(--color-cyan-rgb);
+  --callout-icon: lucide-calendar-days;
+}
+
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+  --callout-icon: lucide-check-circle;
+}
+
+.callout[data-callout="danger"] {
+  --callout-icon: lucide-alert-triangle;
+}
+
+.callout:is([data-callout="noicon"]) {
+  background-color: var(--color-base-20);
+}
+
+.callout:is([data-callout="noicon"]) .callout-icon {
+  display: none;
+}
+
+.callout:is([data-callout="noicon"]) .callout-title-inner {
+  flex: 1;
+}
+
+.callout:is([data-callout="noicon"]) .callout-title-inner,
+.callout:is([data-callout="noicon"]) .callout-fold {
+  /* font-size: 1rem; */
+  color: var(--color-base-100);
+}
+
+.callout.is-collapsible .callout-title {
+  cursor: pointer;
+}

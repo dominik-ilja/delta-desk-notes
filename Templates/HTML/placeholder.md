@@ -1,0 +1,1 @@
+<span class="placeholder"><% tp.file.cursor(1) %></span>

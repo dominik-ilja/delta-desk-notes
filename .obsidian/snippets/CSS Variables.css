@@ -1,0 +1,166 @@
+/*
+Obsidian CSS variable reference: https://docs.obsidian.md/Reference/CSS+variables/CSS+variables
+
+The majority of the CSS variables will be contained in the `body {}` selector.
+The theme overrides will be contained in the .theme-light and .theme-dark selectors.
+
+Variables postfixed with "-rgb" can be used in rgba() formulas to add opacity to colors.
+For example: rgba(var(--color-red-rgb), 0.2)
+*/
+
+/* prettier-ignore */
+body {
+  --bold-weight: var(--font-bold);
+  --heading-weight: var(--font-black);
+
+  /* #region - Bases */
+  --bases-table-row-background-hover: var(--background-modifier-hover);
+  /*
+  --bases-cards-background: var(--background-primary);
+  --bases-cards-border-width: 1px;
+  --bases-cards-container-background: transparent;
+  --bases-cards-cover-background: var(--background-primary-alt);
+  --bases-cards-group-padding: var(--size-4-3);
+  --bases-cards-line-height: 24px;
+  --bases-cards-scale: 1;
+  --bases-cards-shadow-hover: 0 0 0 1px var(--background-modifier-border-hover);
+  --bases-cards-shadow: 0 0 0 1px var(--background-modifier-border);
+  --bases-cards-text-size: var(--font-smaller);
+  --bases-embed-border-color: var(--background-modifier-border);
+  --bases-embed-border-radius: var(--radius-s);
+  --bases-embed-border-width: 0px;
+  --bases-filter-menu-width: 520px;
+  --bases-header-border-width: 0 0 1px 0;
+  --bases-header-height: 40px;
+  --bases-header-padding-end: 2px;
+  --bases-header-padding-start: 2px;
+  --bases-table-border-color: var(--table-border-color);
+  --bases-table-cell-background-active: var(--background-primary);
+  --bases-table-cell-background-disabled: var(--background-primary-alt);
+  --bases-table-cell-radius-active: 2px;
+  --bases-table-cell-shadow-active: 0 0 0 2px var(--interactive-accent);
+  --bases-table-column-border-width: 1px;
+  --bases-table-column-max-width: 300;
+  --bases-table-column-min-width: 40;
+  --bases-table-container-border-radius: var(--radius-s);
+  --bases-table-container-border-width: 1px;
+  --bases-table-header-background-hover: var(--background-modifier-hover);
+  --bases-table-header-background: var(--background-primary);
+  --bases-table-header-color: var(--text-muted);
+  --bases-table-header-icon-display: flex;
+  --bases-table-header-sort-mask: linear-gradient(to left, transparent var(--size-4-6), black var(--size-4-6));
+  --bases-table-header-weight: var(--font-weight);
+  --bases-table-row-border-width: 1px;
+  --bases-table-row-height: 30px;
+  --bases-table-text-size: var(--font-smaller);
+  --bases-toolbar-badge-display: none;
+  --bases-toolbar-label-display: block;
+  */
+  /* #endregion - Bases */
+
+  /*
+  Headings
+
+  Each heading level has the same variables prefixed with h{level}:
+
+  - color
+  - line-height
+  - size
+  - style
+  - variant
+  - weight
+  */
+
+  --h1-weight: var(--heading-weight);
+  --h2-weight: var(--heading-weight);
+  --h3-weight: var(--heading-weight);
+  --h4-weight: var(--heading-weight);
+  --h5-weight: var(--heading-weight);
+  --h6-weight: var(--heading-weight);
+}
+
+.theme-light {
+  /* --color-base-00: #ffffff;
+  --color-base-05: #f8fafc;
+  --color-base-10: #f1f6f9;
+  --color-base-20: #e7eef3;
+  --color-base-25: #e3e3e3;
+  --color-base-30: #e0e0e0;
+  --color-base-35: #d4d4d4;
+  --color-base-40: #bdbdbd;
+  --color-base-50: #ababab;
+  --color-base-60: #707070;
+  --color-base-70: #5c5c5c;
+  --color-base-100: #222222; */
+
+  /* --color-blue-rgb: 8, 109, 221;
+  --color-blue: #086ddd;
+  --color-cyan-rgb: 0, 191, 188;
+  --color-cyan: #00bfbc;
+  --color-green-rgb: 8, 185, 78;
+  --color-green: #08b94e;
+  --color-orange-rgb: 236, 117, 0;
+  --color-orange: #ec7500;
+  --color-pink-rgb: 213, 57, 132;
+  --color-pink: #d53984;
+  --color-purple-rgb: 120, 82, 238;
+  --color-purple: #7852ee;
+  --color-red-rgb: 233, 49, 71;
+  --color-red: #e93147;
+  --color-yellow-rgb: 224, 172, 0;
+  --color-yellow: #e0ac00; */
+
+  --background-secondary-alt: var(--color-base-05);
+  --background-primary: var(--color-base-00);
+  --background-primary-alt: var(--color-base-10);
+  --background-secondary: var(--color-base-20);
+  --background-modifier-hover: rgba(var(--mono-rgb-100), 0.067);
+  --background-modifier-active-hover: hsla(var(--interactive-accent-hsl), 0.1);
+  --background-modifier-border: var(--color-base-30);
+  --background-modifier-border-hover: var(--color-base-35);
+  --background-modifier-border-focus: var(--color-base-40);
+  --background-modifier-error-rgb: var(--color-red-rgb);
+  --background-modifier-error: var(--color-red);
+  --background-modifier-error-hover: var(--color-red);
+  --background-modifier-success-rgb: var(--color-green-rgb);
+  --background-modifier-success: var(--color-green);
+  --background-modifier-message: rgba(0, 0, 0, 0.9);
+
+  --text-normal: var(--color-base-100);
+  --text-muted: var(--color-base-70);
+  --text-faint: var(--color-base-50);
+  --text-on-accent: white;
+  --text-on-accent-inverted: black;
+  --text-error: var(--color-red);
+  --text-warning: var(--color-orange);
+  --text-success: var(--color-green);
+  --text-selection: hsla(var(--color-accent-hsl), 0.2);
+  --text-highlight-bg-rgb: 255, 208, 0;
+  --text-highlight-bg: rgba(var(--text-highlight-bg-rgb), 0.4);
+  --text-accent: var(--color-accent);
+  --text-accent-hover: var(--color-accent-2);
+  --interactive-normal: var(--color-base-00);
+  --interactive-hover: var(--color-base-10);
+  --interactive-accent-hsl: var(--color-accent-hsl);
+  --interactive-accent: var(--color-accent-1);
+  --interactive-accent-hover: var(--color-accent-2);
+}
+
+/* .theme-dark {
+  --color-blue-rgb: 2, 122, 255;
+  --color-blue: #027aff;
+  --color-cyan-rgb: 83, 223, 221;
+  --color-cyan: #53dfdd;
+  --color-green-rgb: 68, 207, 110;
+  --color-green: #44cf6e;
+  --color-orange-rgb: 233, 151, 63;
+  --color-orange: rgb(233, 151, 63);
+  --color-pink-rgb: 250, 153, 205;
+  --color-pink: #fa99cd;
+  --color-purple-rgb: 168, 130, 255;
+  --color-purple: #a882ff;
+  --color-red-rgb: 251, 70, 76;
+  --color-red: rgb(251, 70, 76);
+  --color-yellow-rgb: 224, 222, 113;
+  --color-yellow: #e0de71;
+} */

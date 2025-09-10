@@ -1,0 +1,12 @@
+/*
+  These classes are used in the "cssclasses" frontmatter to adjust the maxium viewport width.
+*/
+.full_width {
+  --file-line-width: 100%;
+}
+.max-width-1280 {
+  --file-line-width: 1280px;
+}
+.max-width-1080 {
+  --file-line-width: 1080px;
+}
