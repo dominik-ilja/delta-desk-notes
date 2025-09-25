@@ -2,6 +2,7 @@
 aliases:
 cssclasses:
   - full_width
+  - main-dashboard
 tags:
 Related:
   - "[[Complete Dashboard]]"
@@ -10,6 +11,82 @@ Sources: []
 Type: Dashboard
 ---
 # Main Dashboard
+## Events
+```dataviewjs
+// Get all list items that contain Event metadata
+const today = dv.date("today");
+const pastDateLimit = today.minus({ days: 7 });
+
+const events = dv.pages()
+  .flatMap(p => 
+    p.file.lists
+      .where(item => item.text && item.text.includes("Event::"))
+      .map(item => {
+        // Extract Event date from the specific list item text
+        const eventMatch = item.text.match(/\[Event::\s*([^\]]+)\]/);
+        const eventDate = eventMatch ? dv.date(eventMatch[1].trim()) : null;
+        
+        return {
+          ...item,
+          path: p.file.path,
+          Event: eventDate,
+          file: p.file
+        };
+      })
+  )
+  .where(e => {
+      console.log(e)
+      return e.Event && e.Event >= pastDateLimit
+  }) // Only include items where Event date was successfully parsed
+  .sort(e => e.Event, 'asc');
+
+const pastEvents = events.where(e => e.Event < today);
+const todayEvents = events.where(e => e.Event.equals(today));
+const futureEvents = events.where(e => e.Event > today);
+const headers = ["File", "Event Date", "Event"];
+const headingLevel = 3;
+
+console.log(pastEvents, todayEvents, futureEvents)
+
+function createRow(event) {
+    return [
+        event.blockId 
+            ? dv.blockLink(event.path, event.blockId)
+            : dv.fileLink(event.path),
+        event.Event,
+        event.text.replace(/\[Event::[^\]]*\]/gi, "").trim(), // Remove metadata from display
+    ];
+}
+
+if (todayEvents.length > 0) {
+  dv.header(headingLevel, "Today's Events");
+  dv.table(
+    headers,
+    todayEvents.map(createRow)
+  );
+}
+
+if (futureEvents.length > 0) {
+  dv.header(headingLevel, "Upcoming Events");
+  dv.table(
+    headers,
+    futureEvents.map(createRow)
+  );
+}
+
+if (pastEvents.length > 0) {
+  dv.header(headingLevel, "Past Events");
+  dv.table(
+    headers,
+    pastEvents.map(createRow)
+  );
+}
+
+if (events.length === 0) {
+  dv.paragraph("No events found.", {cls: "placeholder"});
+}
+```
+
 ## Due
 
 ### Tasks
@@ -86,7 +163,7 @@ if (futureTasks.length > 0) {
 }
 
 if (tasks.length === 0) {
-  dv.paragraph("No tasks with due dates found.");
+  dv.paragraph("No tasks with due dates found.", {cls: "placeholder"});
 }
 ```
 

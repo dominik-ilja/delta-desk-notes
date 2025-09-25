@@ -3,7 +3,7 @@ aliases:
 Address:
 Birthday:
 Company:
-  - "[[Sushchnosti/Organisasjon/Delta Desk|Delta Desk]]"
+  - "[[Sushchnosti/Organisasjon/Delta Desk/Delta Desk|Delta Desk]]"
 Positions:
 Previous Companies:
 Discord:
@@ -30,7 +30,7 @@ Contact Frequency: Every week
 Last Contacted: 2025-09-06
 Last Response: 2025-09-06
 Type: Mennesker
-Last Updated: September 7, 2025, at 5:53 AM
+Last Updated: September 10, 2025, at 5:43 PM
 Contact Types: Text
 Last Contact Type: In Person
 Last Response Type: In Person
@@ -46,6 +46,10 @@ He wants to grow his company. They've started working with a ton of team and hav
 He's been in software for 20+ years. Has been using templates for 10+ years. He's been on the business side of companies in programming.
 
 ## Topics to follow up on
+
+<span class="placeholder">Nothing to follow up on</span>
+
+### Archive
 
 - I bought the book, "When Genius Failed"
 - I also started watch the testing section.
@@ -98,9 +102,8 @@ Most of my experience lies in frontend development, but I'm completely open to g
 
 That being said, there are holes in my knowledge base. I don't know everything. There are I don't have much experience with building applications at scale.
 
-
-
 ---
+
 - My skills
     - Quickly learn and adapt
     - Take pride in the work that I produce
@@ -129,9 +132,6 @@ That being said, there are holes in my knowledge base. I don't know everything. 
         - Business requirements
         - Project management
 
-### Archive
-
-<span class="placeholder">No archived topics</span>
 
 ## Associates
 
@@ -179,17 +179,13 @@ We talked about a few things.
 
 - Nerd core (Music)
 - He used to live in a shifty 1-bedroom apartment in Queens, New York with his ex wife. The prices were expensive even back then.
-- he witnessed and went through a bunch of horrible things:
+- He witnessed and went through a bunch of horrible things:
     - Lady overdosing
     - Dude masturbating in the street
     - Almost getting robbed by four guys
     - People getting killed
-- 
-
 
 I received
-
-
 
 ### Sunday, August 24, 2025
 

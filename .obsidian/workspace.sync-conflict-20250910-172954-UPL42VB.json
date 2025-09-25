@@ -1,0 +1,431 @@
+{
+  "main": {
+    "id": "c5fee91b40f9f9d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f9b28c34b11dc5",
+        "type": "tabs",
+        "dimension": 50.5787037037037,
+        "children": [
+          {
+            "id": "6d6dfb306fccc213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/Clients/New York Methodist Hospital Federal Credit Union/New York Methodist Hospital Federal Credit Union.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "New York Methodist Hospital Federal Credit Union"
+            }
+          },
+          {
+            "id": "885b0a5e912975cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/Clients/Carrick Lane/Carrick Lane.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Carrick Lane"
+            }
+          },
+          {
+            "id": "439d923e46545eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/Clients/Carrick Lane/People/Andrew Costagliola.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Andrew Costagliola"
+            }
+          },
+          {
+            "id": "995e14c6dda16dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Dashboards/Main Dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Main Dashboard"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "8b721f2f9d46cd68",
+        "type": "tabs",
+        "dimension": 49.4212962962963,
+        "children": [
+          {
+            "id": "7192a9073540b667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Lists/Task List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Task List"
+            }
+          },
+          {
+            "id": "37c35e50e04d83fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/Organisasjon/Delta Desk/Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "559a6b551815f9e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/Organisasjon/Delta Desk/Delta Desk.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Delta Desk"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35ecc913854d3f80",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee998b7c4bb6bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "221e327906bd4012",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "980d5f268cc23e98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Todo",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "97cd48c6949d8a98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "5beeb383e9f6f6b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "59525e51d6ee8ee3",
+        "type": "tabs",
+        "dimension": 40.116279069767444,
+        "children": [
+          {
+            "id": "b0e1251cf497eb39",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Sushchnosti/Organisasjon/Delta Desk/Delta Desk.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Delta Desk"
+            }
+          },
+          {
+            "id": "b4d2507032b50c9d",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {},
+              "icon": "lucide-calendar",
+              "title": "Google Calendar"
+            }
+          },
+          {
+            "id": "5684304d91c51e68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Dataview/Unfinished tasks in note.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Unfinished tasks in note"
+            }
+          },
+          {
+            "id": "778131103ac97a03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Dataview/Topics.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Topics"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bb3515cb27a68804",
+        "type": "tabs",
+        "dimension": 19.379844961240313,
+        "children": [
+          {
+            "id": "2c381be1674b5801",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sushchnosti/Organisasjon/Delta Desk/Delta Desk.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Delta Desk"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d00dfa0430909c65",
+        "type": "tabs",
+        "dimension": 40.50387596899225,
+        "children": [
+          {
+            "id": "7e2e19d521bdbcb8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6502466cd265a798",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequencyReverse",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9ae7a8d6e3e0746e",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Arbejdskraft/DataSeers/Notes/Daily/2025-06-17 - Tuesday.md"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "72c6daff3a986617",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Agenda/Daily/2025-08-07 - Thursday.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-08-07 - Thursday"
+            }
+          },
+          {
+            "id": "6152dbdc3ca34bd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NuGet Package Manager.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NuGet Package Manager"
+            }
+          },
+          {
+            "id": "ef08a1998cd5e123",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "995e14c6dda16dbe",
+  "lastOpenFiles": [
+    "Tasks/Dashboards/Main Dashboard.sync-conflict-20250910-172934-UPL42VB.md",
+    "Tasks/Dashboards/~syncthing~Main Dashboard.sync-conflict-20250910-172934-UPL42VB.md.tmp",
+    "Tasks/Dashboards/Main Dashboard.sync-conflict-20250910-172634-UPL42VB.md",
+    "Tasks/Dashboards/~syncthing~Main Dashboard.sync-conflict-20250910-172634-UPL42VB.md.tmp",
+    "Sushchnosti/Organisasjon/Delta Desk/Delta Desk.md",
+    "Sushchnosti/Organisasjon/Delta Desk/Delta Desk.sync-conflict-20250910-172414-UPL42VB.md",
+    "Sushchnosti/Organisasjon/Delta Desk/~syncthing~Delta Desk.sync-conflict-20250910-172414-UPL42VB.md.tmp",
+    "Sushchnosti/Organisasjon/Delta Desk/Delta Desk.sync-conflict-20250910-172354-UPL42VB.md",
+    "Sushchnosti/Organisasjon/Delta Desk/~syncthing~Delta Desk.sync-conflict-20250910-172354-UPL42VB.md.tmp",
+    "Tasks/Dashboards/Main Dashboard.sync-conflict-20250910-172224-UPL42VB.md",
+    "Tasks/Dashboards/~syncthing~Main Dashboard.sync-conflict-20250910-172224-UPL42VB.md.tmp",
+    "Tasks/Dashboards/Main Dashboard.md",
+    "Tasks/Dashboards/Main Dashboard.sync-conflict-20250910-172114-UPL42VB.md",
+    "Tasks/Dashboards/~syncthing~Main Dashboard.sync-conflict-20250910-172114-UPL42VB.md.tmp",
+    "Tasks/Dashboards/Main Dashboard.sync-conflict-20250910-172044-UPL42VB.md",
+    "Tasks/Dashboards/~syncthing~Main Dashboard.sync-conflict-20250910-172044-UPL42VB.md.tmp",
+    "Tasks/Dashboards/Main Dashboard.sync-conflict-20250910-171804-UPL42VB.md",
+    "Tasks/Dashboards/~syncthing~Main Dashboard.sync-conflict-20250910-171804-UPL42VB.md.tmp",
+    "Sushchnosti/Organisasjon/Delta Desk.sync-conflict-20250910-171734-UPL42VB.md",
+    "Sushchnosti/Organisasjon/~syncthing~Delta Desk.sync-conflict-20250910-171734-UPL42VB.md.tmp",
+    "Tasks/Dashboards/Main Dashboard.sync-conflict-20250910-171714-UPL42VB.md",
+    "Tasks/Dashboards/~syncthing~Main Dashboard.sync-conflict-20250910-171714-UPL42VB.md.tmp",
+    "Tasks/Dashboards/Main Dashboard.sync-conflict-20250910-171336-UPL42VB.md",
+    "Tasks/Lists/Task List.md",
+    "Sushchnosti/Organisasjon/Delta Desk/Notes.md",
+    "Sushchnosti/Clients/FIN Searches/People/Gar Chung.md",
+    "Sushchnosti/Clients/FIN Searches/People/Matt McCue.md",
+    "Sushchnosti/Clients/FIN Searches/People/Matt Poremba.md",
+    "Sushchnosti/Clients/FIN Searches/People/Rob Regan.md",
+    "Sushchnosti/Clients/FIN Searches/FIN Searches.md",
+    "Sushchnosti/Clients/FIN Searches/Meetings/2025-09-05 - Friday.md",
+    "Sushchnosti/Organisasjon/Delta Desk/Improvements.md",
+    "Sushchnosti/Clients/Carrick Lane/Carrick Lane.md",
+    "Task - Build 5 sites that we like.md",
+    "Services/ConnectWise/ConnectWise.md",
+    "Notes/Daily/2025-09-10 - Wednesday.md",
+    "Attachments/Pasted image 20250910142631.png",
+    "Attachments/Pasted image 20250910142204.png",
+    "Attachments/Pasted image 20250910142037.png",
+    "Attachments/Pasted image 20250910140750.png",
+    "Attachments/Pasted image 20250909100754.png",
+    "Attachments/Pasted image 20250904155229.png",
+    "Attachments/Pasted image 20250904062108.png",
+    "Attachments/Pasted image 20250902195346.png",
+    "Attachments/Pasted image 20250902195318.png",
+    "Attachments/Pasted image 20250902194051.png"
+  ]
+}

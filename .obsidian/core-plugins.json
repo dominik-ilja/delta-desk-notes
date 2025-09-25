@@ -5,7 +5,7 @@
   "bookmarks": true,
   "canvas": true,
   "command-palette": true,
-  "daily-notes": false,
+  "daily-notes": true,
   "editor-status": true,
   "file-explorer": true,
   "file-recovery": true,

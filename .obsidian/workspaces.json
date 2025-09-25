@@ -6,62 +6,32 @@
         "type": "split",
         "children": [
           {
-            "id": "0568752c39e0fb81",
+            "id": "d5a05c5fc886feb9",
             "type": "tabs",
-            "dimension": 46.422628951747086,
             "children": [
               {
-                "id": "d8574e4758e1687c",
+                "id": "220ab925e62e5e5a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/Daily/2025-09-09 - Tuesday.md",
+                    "file": "Notes/Daily/2025-09-11 - Thursday.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "2025-09-09 - Tuesday"
-                }
-              },
-              {
-                "id": "59681f113d7081fa",
-                "type": "leaf",
-                "state": {
-                  "type": "bases",
-                  "state": {
-                    "file": "Contacts.base",
-                    "viewName": "Table"
-                  },
-                  "icon": "lucide-table",
-                  "title": "Contacts"
+                  "title": "2025-09-11 - Thursday"
                 }
               }
             ]
           },
           {
-            "id": "5ffa0860c798b172",
+            "id": "8b721f2f9d46cd68",
             "type": "tabs",
-            "dimension": 53.57737104825291,
             "children": [
               {
-                "id": "ba10a679d2e0ba26",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tasks/Dashboards/Main Dashboard.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Main Dashboard"
-                }
-              },
-              {
-                "id": "61b4fbac971c767d",
+                "id": "7192a9073540b667",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -76,48 +46,33 @@
                 }
               },
               {
-                "id": "4544a72ab54dbe18",
+                "id": "995e14c6dda16dbe",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Agenda/Daily/2025-09-09 - Tuesday.md",
+                    "file": "Tasks/Dashboards/Main Dashboard.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "2025-09-09 - Tuesday"
+                  "title": "Main Dashboard"
                 }
               },
               {
-                "id": "a031ee9c58bf6778",
+                "id": "a61f0cbcb36c9b46",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Git - How to delete a commit.md",
+                    "file": "Agenda/Daily/2025-09-11 - Thursday.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Git - How to delete a commit"
-                }
-              },
-              {
-                "id": "ebdb6283df5f5368",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Git - HEAD.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Git - HEAD"
+                  "title": "2025-09-11 - Thursday"
                 }
               }
             ],
@@ -178,7 +133,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 298.5,
+        "width": 217.5,
         "collapsed": true
       },
       "right": {
@@ -188,7 +143,7 @@
           {
             "id": "59525e51d6ee8ee3",
             "type": "tabs",
-            "dimension": 47.57142857142857,
+            "dimension": 40.116279069767444,
             "children": [
               {
                 "id": "b0e1251cf497eb39",
@@ -196,10 +151,10 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "Agenda/Daily/2025-09-04 - Thursday.md"
+                    "file": "Sushchnosti/Organisasjon/Delta Desk/Delta Desk.md"
                   },
                   "icon": "lucide-info",
-                  "title": "File properties for 2025-08-12 - Tuesday"
+                  "title": "File properties for Delta Desk"
                 }
               },
               {
@@ -242,13 +197,12 @@
                   "title": "Topics"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
             "id": "bb3515cb27a68804",
             "type": "tabs",
-            "dimension": 32.35714285714286,
+            "dimension": 19.379844961240313,
             "children": [
               {
                 "id": "2c381be1674b5801",
@@ -256,13 +210,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Agenda/Daily/2025-09-09 - Tuesday.md",
+                    "file": "Sushchnosti/Organisasjon/Delta Desk/Delta Desk.md",
                     "followCursor": true,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of 2025-09-09 - Tuesday"
+                  "title": "Outline of Delta Desk"
                 }
               }
             ]
@@ -270,7 +224,7 @@
           {
             "id": "d00dfa0430909c65",
             "type": "tabs",
-            "dimension": 20.07142857142857,
+            "dimension": 40.50387596899225,
             "children": [
               {
                 "id": "7e2e19d521bdbcb8",
@@ -293,7 +247,7 @@
                 "state": {
                   "type": "all-properties",
                   "state": {
-                    "sortOrder": "alphabetical",
+                    "sortOrder": "frequencyReverse",
                     "showSearch": false,
                     "searchQuery": ""
                   },
@@ -352,8 +306,8 @@
                 "state": {
                   "type": "advanced-tables-toolbar",
                   "state": {},
-                  "icon": "spreadsheet",
-                  "title": "Advanced Tables"
+                  "icon": "lucide-ghost",
+                  "title": "advanced-tables-toolbar"
                 }
               }
             ],
@@ -361,25 +315,27 @@
           }
         ],
         "direction": "horizontal",
-        "width": 327.5
+        "width": 327.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
-          "oz-clear-unused-images:Clear Unused Images": false,
           "bases:Create new base": false,
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "obsidian-custom-frames:Open Google Calendar": false,
           "workspaces:Manage workspace layouts": false,
           "switcher:Open quick switcher": true,
           "graph:Open graph view": true,
           "canvas:Create new canvas": true,
           "command-palette:Open command palette": true,
           "markdown-importer:Open format converter": true,
-          "templater-obsidian:Templater": false
+          "templater-obsidian:Templater": false,
+          "obsidian-custom-frames:Open Google Calendar": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "oz-clear-unused-images:Clear Unused Images": false,
+          "daily-notes:Open today's daily note": false
         }
       },
-      "active": "4544a72ab54dbe18",
-      "mtime": "2025-09-09T12:07:01-04:00"
+      "active": "a61f0cbcb36c9b46",
+      "mtime": "2025-09-11T06:07:03-04:00"
     },
     "DataSeers": {
       "main": {

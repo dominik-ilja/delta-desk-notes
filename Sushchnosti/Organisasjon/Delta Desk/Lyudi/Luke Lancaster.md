@@ -3,7 +3,7 @@ aliases:
 Address:
 Birthday:
 Company:
-  - "[[Sushchnosti/Organisasjon/Delta Desk|Delta Desk]]"
+  - "[[Sushchnosti/Organisasjon/Delta Desk/Delta Desk|Delta Desk]]"
 Positions:
   - Delta Desk · Chief Operations Officer
 Previous Companies:

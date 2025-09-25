@@ -3,13 +3,12 @@ Complete:
 Status: 0 - Not Started
 State: 0 - Not Started
 Priority: 0 - None
-Life Category:
 tags:
 Due Date:
 Start Date:
 Date Completed:
 Date Created:
-Last Updated: September 10, 2025, at 10:27 AM
+Last Updated: September 25, 2025, at 11:39 AM
 Time Estimate:
 Time Tracked:
 Waiting On:
@@ -19,7 +18,7 @@ Lists:
 Related:
 Sources:
 Type: Task
-File Size: 806.00 Bytes
+File Size: 791.00 Bytes
 cssclasses:
   - full_width
 ---

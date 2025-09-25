@@ -1,0 +1,37 @@
+# Site Map
+
+- `/login`
+- `/dashboard`
+    - `/appointments` - The scheduled appointments for a user
+    - `/organizations` - 
+    - `/contacts` - 
+        - `/{id}` - The profile of a contact. It contains all the information relating to a contact.
+            - Profile - General information relating to the contact
+            - Workflow - The different workflows a contact has gone through
+            - Loans - 
+            - Services - 
+            - Notes - 
+            - Appointments - The appointments a contact has had
+            - Forms - 
+            - Files - 
+            - History - This is a log of the different things that have happened with the contact and what users have interacted with the contact.
+            - Tasks - 
+            - Recertification - 
+            - Accounting - 
+            - Communications - Log of the different contacts that occurred with the contact.
+                - Emails
+                - SMS
+                - Calls
+                - Call Recordings
+    - `/contact-statuses` - 
+    - `/payments`
+    - `/estimated-payments`
+    - `/reports` - Log of different contacts that meet a specific requirement. For example, expiring/missing credit cards and user activity
+    - `/forms-library`
+    - `/reminders`
+    - `/sms-calls-inbox`
+    - `/uploaded-fsa`
+    - `/settings`
+        - Email Template
+        - List Import
+        - System Automations

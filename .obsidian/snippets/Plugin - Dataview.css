@@ -48,11 +48,6 @@
   padding: 1rem 0.25rem;
 }
 
-.block-language-dataviewjs h4 {
-  font-size: 1rem;
-  margin-left: 0.5rem;
-}
-
 .dataview.inline-field-key,
 .dataview.inline-field-value,
 .dataview.inline-field-standalone-value {
@@ -64,4 +59,49 @@
 
 .block-language-dataviewjs br {
   display: none;
+}
+
+.dataview.table-view-table tr > th {
+  border-bottom: none;
+}
+.dataview.table-view-table tr > :is(th:not(:last-child), td:not(:last-child)) {
+  border-right: 1px solid var(--table-border-color);
+}
+.dataview.table-view-table tr > td {
+  border-top: 1px solid var(--table-border-color);
+}
+
+/* .table-view-table > tbody > tr > td {
+  border: 1px solid var(--table-border-color);
+} */
+
+.dataview.table-view-table {
+  border: 1px solid var(--table-border-color);
+
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: var(--bases-embed-border-radius);
+}
+.markdown-rendered .dataview {
+  margin-block-end: 0;
+  font-size: var(--font-text-size);
+}
+.dataview .table-view-th {
+  color: var(--bases-table-header-color);
+  font-size: var(--bases-table-text-size);
+  font-weight: 400;
+}
+.dataview .cm-html-embed td,
+.markdown-rendered .dataview td {
+  padding: var(--input-padding);
+  font-size: var(--bases-table-text-size);
+}
+.dataview.small-text {
+  font-size: var(--bases-table-text-size);
+}
+.main-dashboard .block-language-dataviewjs h4 {
+  font-size: var(--h4-size);
+}
+.main-dashboard.markdown-preview-view .block-language-dataviewjs :is(h3, h4) {
+  margin-top: 0;
 }

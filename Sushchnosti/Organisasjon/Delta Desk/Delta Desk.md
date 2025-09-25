@@ -7,7 +7,23 @@ Type: Organization
 ---
 # Delta Desk
 
-This is a company that was started by [[Josh Jennings]].
+This is a company that was started by [[Sushchnosti/Organisasjon/Delta Desk/Lyudi/Josh Jennings]].
+
+Around 900k in revenue
+
+Josh has worked with FIN Searches for 10~ years and Carrick Lane and Visdom for 13~ years.
+
+Developer who did the v1 version of FIN Searches was friends with Josh for 15~ years. There's jobs that run to keep the documents in sync between the old and new site.
+
+OCR is the process of extracting text from a PDF
+
+[Repositories](https://github.com/orgs/delta-desk/repositories)
+[Virtual Backgrounds](https://deltadesk.sharepoint.com/:f:/s/MSP/EnQv-YQtlSVDoZ3v-jmzvUMBoO9JiiV8LZWA3rvymKCiBA?e=0gHFHi)
+[Software Development - Documents - All Documents](https://deltadesk.sharepoint.com/sites/SoftwareDevelopment/Shared%20Documents/Forms/AllItems.aspx)
+
+## Services
+
+- IT Support Business
 
 ## Employees
 
@@ -62,4 +78,8 @@ views:
 - Mostofa Reza
 - Colin
 
-Eagles?
+## Events
+
+- Start of FIN Searches conference [Event:: 2025-09-15]
+- [[Sushchnosti/Organisasjon/Delta Desk/Lyudi/Luke Lancaster|Luke Lancaster]]'s last day [Event:: 2025-09-17T12:00:00]
+- End of FIN Searches conference [Event:: 2025-09-19]
