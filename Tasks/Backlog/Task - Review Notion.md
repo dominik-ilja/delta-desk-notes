@@ -8,7 +8,7 @@ Due Date:
 Start Date:
 Date Completed:
 Date Created:
-Last Updated: September 25, 2025, at 11:40 AM
+Last Updated: September 29, 2025, at 4:51 PM
 Time Estimate:
 Time Tracked:
 Waiting On:
@@ -18,12 +18,14 @@ Lists:
 Related:
 Sources:
 Type: Task
-File Size: 969.00 Bytes
+File Size: 1.01 KB
 cssclasses:
   - full_width
 Tasks: 2
 Tasks Remaining: 2
 Tasks Complete: 0
+ClickUp:
+  - https://app.clickup.com/t/86ac60yrp
 ---
 # Task - Review Notion
 

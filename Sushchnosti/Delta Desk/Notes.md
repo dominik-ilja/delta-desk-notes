@@ -1,0 +1,9 @@
+- Need to have a Delta Desk background
+- HVM is basically Visdom???
+- Azure and AWS is used for architecture
+- Keeping track of different clients that use Office 365
+- A central place for collaboration and engineering notes. Some ideas were ClickUp and Notion
+- SOC2 Compliance
+- 3 weeks of paternity leave
+- Some tasks that Josh undergoes requires a lot of things to consider all at once.
+- Josh feels that we aren't getting enough productivity out of our developers.

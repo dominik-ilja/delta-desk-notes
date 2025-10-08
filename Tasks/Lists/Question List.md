@@ -1,24 +1,22 @@
 ---
 Complete: false
-Tasks: 41
-Tasks Remaining: 31
+Tasks: 43
+Tasks Remaining: 33
 Tasks Complete: 10
 Date Completed:
 ---
 # Question List
-
 ## General
 
 - [ ] How would you place the developers? How do you feel about there skills and ability to work in a team?
 - [ ] What do you feel are the biggest things that we need to improve on as a company?
 - [ ] How could we create a system to allow the clients to see what we're currently working on.
-- [ ] What Vietnamese and Islamic holidays will the developers be taking time off for?
-- [ ] What is an Azure resource group?
-- [ ] What is Azure static web app?
 - [ ] What jobs could cause big problems if they don't run?
 - [ ] What are message queues?
 - [ ] What does serverless mean?
-- [ ] 
+- [ ] Who is Mark Marit?
+- [ ] What is ConnectWise?
+- [ ] What does the coalesce keyword mean in MS SQL Server?
 
 ### Completed
 
@@ -28,15 +26,24 @@ Date Completed:
 - [x] Something I noticed is that it seems like Zulqarnain and Vu aren't focusing on the tasks in the sprints. They seem to be deciding to work on any item assigned to them.
 - [x] Alternative wikis for our company. I've noticed that in ClickUp all documents are visible by everyone unless we upgrade. I'm wondering if it would be better to move our documentation to something like Notion. It would allow more fine grain permissions so that people who aren't supposed to see something won't
 
-## Clients
+## Groups
+### Delta Desk
+
+- [ ] [[Tasks/Backlog/Task - Remove Luke from all Delta Desk Items#^sc95v7]]
+
 ### FIN Searches
 
+- [86aaqaf9k – Missing CRD Numbers | to do | Mikhail](https://app.clickup.com/t/86aaqaf9k) - What do you want to do about this?
+- [86abvpy3k – Add ability to search for all allocators in geo-location | to do | Not assigned](https://app.clickup.com/t/86abvpy3k) - I need information on this
+- [86aamkf76 – Review IT Security | to do | Josh Jennings](https://app.clickup.com/t/86aamkf76) - What does this entail and is this something we still need to worry about?
 - [ ] https://app.clickup.com/t/86ab6jrfh - This task says that we need to add an "updated Manager Fund filter under each Manager status filter". I'm not sure what this is all about
 - [ ] What is a mandate?
 - [ ] What is the purpose of FIN Searches?
 - [ ] What are 990s and 5500s?
 - [ ] What is the selling point of FIN Searches?
 - [ ] Why did we decide for discussing improvements to LinkedIn: https://app.clickup.com/t/86abz64dk
+- [ ] How to spell Gene Dilinsky's name
+- [ ] What is Major/Minor style?
 
 #### Completed
 

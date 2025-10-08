@@ -28,7 +28,7 @@ Date Completed: 2025-09-11
 
 Okay, so in this section we're going to go through and compile our previous notes.
 
-- [x] Add video lessons to [[Sushchnosti/Clients/National Student Debt Forgiveness Center/National Student Debt Forgiveness Center|National Student Debt Forgiveness Center]] note [Completed:: 2025-09-10T13:07]
+- [x] Add video lessons to [[Sushchnosti/National Student Debt Forgiveness Center/National Student Debt Forgiveness Center|National Student Debt Forgiveness Center]] note [Completed:: 2025-09-10T13:07]
 - [x] Add the appropriate links to each client note [Completed:: 2025-09-10T13:33]
     - [x] National Student Debt Forgiveness Center [Completed:: 2025-09-10T13:17]
         - [x] Production site [Completed:: 2025-09-10T13:17]

@@ -8,7 +8,7 @@ Due Date:
 Start Date:
 Date Completed:
 Date Created:
-Last Updated: September 25, 2025, at 2:10 PM
+Last Updated: September 29, 2025, at 4:50 PM
 Time Estimate:
 Time Tracked:
 Waiting On:
@@ -18,12 +18,14 @@ Lists:
 Related:
 Sources:
 Type: Task
-File Size: 1.12 KB
+File Size: 1.17 KB
 cssclasses:
   - full_width
 Tasks: 7
 Tasks Remaining: 7
 Tasks Complete: 0
+ClickUp:
+  - https://app.clickup.com/t/86ac6119w
 ---
 # Task - Creating assets to share with clients for project progress
 

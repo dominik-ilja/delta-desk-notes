@@ -188,7 +188,7 @@ Okay, we're going to do some of the Internal QA
 
 Holdings refer to the investments that a firm (entity) currently have. 13F is a form that comes from the SEC. Entities are required to fill out and file. This information is publicly available.
 
-13F search is the `/firm-holding` page.
+13F search is the `/firm-holding` page. #FIN_Searches
 
 Luke explained the 13F and holdings to me.
 

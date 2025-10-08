@@ -11,21 +11,50 @@ _%>
 
 ## Meetings
 
-<span class="placeholder">No meetings</span>
-
-## Questions
-
-<span class="placeholder">No questions</span>
-
-## Tickets to Create
-
-<span class="placeholder">No tickets to create</span>
+- [ ] [[Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings|Josh Jennings Meetings]]
 
 ## Tasks
 
-[[Main Dashboard]] · [[Task List]]
+[[Task List]] · [[Tasks/Lists/Question List|Question List]]
+
+- [ ] Setup today
+- [ ] Response from designer
+
+### Groups
+#### Carrick Lane
+
+<span class="placeholder">No tasks</span>
+
+#### Delta Desk
+
+<span class="placeholder">No tasks</span>
+
+#### FIN Searches
+
+<span class="placeholder">No tasks</span>
+
+#### NEOS
+
+<span class="placeholder">No tasks</span>
+
+#### NSDFC
+
+<span class="placeholder">No tasks</span>
+
+#### Orical
+
+<span class="placeholder">No tasks</span>
+
+### Projects
+#### OMS
+
+<span class="placeholder">No tasks</span>
+
+### Repeating
 
 - [ ] Let the developers know I'm online in the morning
+- [ ] Create message of previous tasks, current tasks, and next tasks
+    - [ ] Send tasks in chat
 - [ ] Reach out to developers
     - [ ] Bao
     - [ ] Mikhail
@@ -34,33 +63,29 @@ _%>
     - [ ] Zulqarnain
 - [ ] Go through email
     - [ ] Go through inbox
+    - [ ] Go through NSDFC
     - [ ] Add requirements
     - [ ] Check if there's any tasks we moved to Tasks
     - [ ] Check emails with "Task" tag
 - [ ] Go through Slack
-    - [ ] Respond to messages
-    - [ ] Go through saved messages
-    - [ ] Check client channels
+    - [ ] Write out messages to respond to
+        - [ ] Check client channels
+    - [ ] Write out saved messages to review
 - [ ] Go through Teams
     - [ ] Respond to messages
     - [ ] Look for meetings
 - [ ] Go through ClickUp
-    - [ ] Respond to comments
-    - [ ] Review tasks that are in "Internal QA"
-    - [ ] Create additional tasks
-- [ ] Assign tasks to developers
+    - [ ] Write out notifications to review
+    - [ ] Write out tasks that are in "Internal QA"
+    - [ ] Write out tasks to create
 
-- [ ] Emails to handle
-    - [ ] 
-- [ ] Slack Tasks
-    - [ ] 
+- [ ] Emails to handle: 0
+- [ ] Slack Tasks: 0
 - [ ] ClickUp Tasks
-    - [ ] Items to review
-        - [ ] 
-    - [ ] Comments
-        - [ ] 
-
----
+    - [ ] Items to review: 0
+    - [ ] Items to add: 0
+    - [ ] Notifications: 0
+- [ ] Assign tasks to developers
 
 - [ ] Say goodbye to the developers as they wrap up for the day
     - [ ] Bao
@@ -69,6 +94,6 @@ _%>
     - [ ] Vu
     - [ ] Zulqarnain
 
-### Complete
+#### Complete
 
 <span class="placeholder">No completed tasks</span>

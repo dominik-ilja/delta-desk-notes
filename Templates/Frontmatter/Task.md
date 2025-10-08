@@ -1,5 +1,8 @@
 ---
 Complete:
+Tasks Complete:
+Tasks:
+Tasks Remaining:
 Status: 0 - Not Started
 State: 0 - Not Started
 Priority: 0 - None
@@ -8,7 +11,7 @@ Due Date:
 Start Date:
 Date Completed:
 Date Created:
-Last Updated: September 25, 2025, at 11:39 AM
+Last Updated: September 25, 2025, at 3:36 PM
 Time Estimate:
 Time Tracked:
 Waiting On:
@@ -17,8 +20,9 @@ GitHub:
 Lists:
 Related:
 Sources:
+ClickUp:
 Type: Task
-File Size: 791.00 Bytes
+File Size: 839.00 Bytes
 cssclasses:
   - full_width
 ---

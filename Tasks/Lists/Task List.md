@@ -16,6 +16,118 @@ Tasks Complete: 0
 Date Completed:
 ---
 # Task List
+## Due
+### Tasks
+
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!note["Due Date"].isEmpty()'
+        - Complete != true
+    order:
+      - file.name
+      - Due Date
+      - Complete
+    sort:
+      - property: Due Date
+        direction: ASC
+    columnSize:
+      file.name: 474
+      note.Due Date: 202
+
+```
+
+### Individual Tasks
+```dataviewjs
+const tasks = dv.pages()
+  .file.tasks
+  .where(t => !t.completed && t.Due)
+  .sort(t => t.Due, 'asc');
+
+const today = dv.date("today");
+const overdueTasks = tasks.where(t => t.Due < today);
+const todayTasks = tasks.where(t => {
+    console.log(t)
+    return t.Due.equals(today)
+});
+const futureTasks = tasks.where(t => t.Due > today);
+const headers = ["File", "Due Date", "Task"];
+const headingLevel = 3;
+
+console.log(overdueTasks, todayTasks, futureTasks)
+
+function createRow(task) {
+    return [
+        task.blockId 
+            ? dv.blockLink(task.path, task.blockId)
+            : dv.fileLink(task.path),
+        task.Due,
+        task.text
+            .replace(/\[Priority::\s*[^\]]+\]/g, '')
+            .replace(/\[Due::\s*[^\]]+\]/g, '')
+            .replace(/\s+/g, ' ')
+            .trim(),
+    ];
+}
+
+if (overdueTasks.length > 0) {
+  dv.header(headingLevel, "Overdue");
+  dv.table(
+    headers,
+    overdueTasks.map(createRow)
+  );
+}
+
+if (todayTasks.length > 0) {
+  dv.header(headingLevel, "Due Today");
+  dv.table(
+    headers,
+    todayTasks.map(createRow)
+  );
+}
+
+if (futureTasks.length > 0) {
+  dv.header(headingLevel, "Upcoming");
+  dv.table(
+    headers,
+    futureTasks.map(createRow)
+  );
+}
+
+if (tasks.length === 0) {
+  dv.paragraph("No tasks with due dates found.", {cls: "placeholder"});
+}
+```
+
+## Agenda
+
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("Agenda/Daily")
+    order:
+      - file.name
+      - Complete
+      - Tasks Remaining
+      - Tasks Complete
+      - Tasks
+      - File Size
+    sort:
+      - property: file.name
+        direction: DESC
+    limit: 7
+    columnSize:
+      file.name: 249
+      note.File Size: 103
+
+```
+
 ## Focus
 
 ```dataviewjs
@@ -27,20 +139,23 @@ const tasks = dv.pages()
 dv.taskList(tasks)
 ```
 
+## To Review
+
+
+
 ## Spillover
 
 <span class="placeholder">No tasks</span>
 
 ## General
 
-- [x] Add everything to our task list [Priority:: Urgent] [Completed:: 2025-09-25T14:18]
-- [ ] Go through remaining notes and capture anything else we might need #Focus
-- [ ] Go through and update the "Internal review needed" attributes before developers really start looking at them [Priority:: Urgent] #ClickUp 
----
-- [ ] Create system for sharing work with clients [Priority:: High]
-- [ ] Review Figma designs and give Josh feedback [Priority:: High] [Due:: 2025-09-26] #ClickUp 
-- [ ] Review what Zulqarnain sent [Priority:: High]
-- [ ] Add tasks to Vu's task for the admin permissions to show him how I'd like it done [Priority:: High]
+**Urgent:**
+
+<span class="placeholder">No tasks</span>
+
+**High:**
+
+- [ ] [[Tasks/Backlog/Task - Create system for sharing work with clients]] [Priority:: High]
 - [ ] Figure out how to answer these questions [Priority:: High]
     - [ ] "What are the developers working on?"
     - [ ] "What are the developers working on today?"
@@ -48,77 +163,194 @@ dv.taskList(tasks)
     - [ ] "What are the overarching projects that we are working on?" 
 - [ ] How am I going to keep track of the work completed in the week for a client? [Priority:: High]
 - [ ] How will I keep track of what each individual developer is working on [Priority:: High]
----
-- [ ] [[Tasks/Backlog/Task - Look into having an attribute for determining who should review the code|Task - Look into having an attribute for determining who should review the code]] [Priority:: Medium]
-- [ ] [[Tasks/Backlog/Task - Review Notion|Task - Review Notion]] [Priority:: Medium] #ClickUp 
-- [ ] Figure out how to manage different schedules of each developer [Priority:: Medium]
-- [ ] Create a Dataview script for displaying the tasks in this file sorted by due date then priority [Priority:: Medium]
-- [ ] [[Tasks/Backlog/Task - Creating assets to share with clients for project progress]] [Priority:: Medium] #ClickUp 
+
+**Medium:**
+
+- [ ] [[Tasks/Backlog/Task - Review Notion|Task - Review Notion]] [Priority:: Medium]
+- [ ] [[Tasks/Backlog/Task - Figure out how to manage different schedules of each developer]] [Priority:: Medium]
+- [ ] [[Tasks/Backlog/Task - Creating assets to share with clients for project progress]] [Priority:: Medium]
 - [ ] How to see if ClickUp task is private or not? [Priority:: Medium]
-- [ ] Get OBS on computer for recording meetings [Priority:: Medium]
-- [x] Create additional templates for Low, Medium, High, and Urgent priorities [Priority:: Medium] [Completed:: 2025-09-25T11:52]
----
+
+**Low:**
+
 - [ ] Josh will add me to his different subscriptions: Figma, V0, etc. [Priority:: Low]
----
-- [ ] Create documentation on how email signature should be done [Priority:: None]
+
+**None:**
+
+- [ ] Create documentation on how email signature should be done
+- [ ] Move documentation from ClickUp into Obsidian
+    - [x] Dominik's space [Completed:: 2025-09-30T19:25]
+    - [x] Delta Desk [Completed:: 2025-09-30]
+        - [x] Delta Desk - Wiki [Completed:: 2025-09-30]
+        - [x] Project Management [Completed:: 2025-09-30T19:45]
+        - [x] Software [Completed:: 2025-09-30T19:45]
+    - [x] FIN Searches - Wiki [Completed:: 2025-09-30T19:50]
+    - [ ] NSDFC - Wiki
+- [ ] We need to figure out a way to see what ClickUp items
+- [ ] Look into these shirts: https://www.charlestyrwhitt.com/us/mens-shirts/classic-fit+slim-fit/?prefn1=iron&prefv1=Yes&ppr=4&tib=TIB-text-shirts-ss23&isFiltersHidden=false
+- [ ] Get professional headshots taken
+- [ ] How to contact person on Fiverr
+- [ ] Re-create developer one-on-ones
+    - [ ] Monday - Vu
+    - [ ] Tuesday - Mostofa
+    - [ ] Wednesday - Zulqarnain
+    - [ ] Thursday - Mikhail
+    - [ ] Friday - Bao
+- [ ] How could we sync GitHub commits with ClickUp tasks
+- [ ] How could we start to standardize our components?
+    - [ ] What makes a good table?
+- [ ] Access to Fireflies
+- [ ] Updates to healthcare plan
+- [ ] Generate templates for ClickUp
+    - [ ] List View
+    - [ ] List
+    - [ ] Folder
+    - [ ] Space
+- [ ] How to filter out specific entries in ClickUp so that clients don't see them
+- [ ] Get access to the NSDFC Delta Desk Documents
 
 ## Groups
 ### Carrick Lane
 
-- [ ] Luke's spreadsheet for Carrick Lane? [Priority:: Medium] #ClickUp 
+<span class="placeholder">No tasks</span>
 
 ### Delta Desk
 
-- [ ] Remove Luke from admin on SendGrid [Priority:: Urgent] #ClickUp 
-- [ ] Figure out what the difference is between private/blob in the azure [Priority:: Urgent]
----
-- [ ] We currently have two Google Accounts. One is the corporate account and the other is under "support@deltadesk.com". There's things tied to the support account which Luke made. We need to make sure that is taken care of. Josh would like this done before he gets Luke's laptop. [Priority:: High]
----
-- [ ] Josh mentioned getting a credit card for me [Priority:: Low]
-- [ ] General phone number for Delta Desk. We could potentially get a virtual PBX and calls can be routed between Josh and I depending on the hours [Priority:: Low]
-- [ ] Create website to monitor different jobs we have. We would have an internal site that would contain all the jobs across all the different projects and sites for the jobs of individuals clients or projects [Priority:: Low]
-- [ ] Create list of Delta Desk expectations. Include this in our daily tasks [Priority:: Low]
-- [ ] Need to give Mikhail another Virtual Machine for automating button clicks for client [Priority:: High] #ClickUp 
-    - [ ] What client also needs automated? I believe the two clients are Carrick Lane and Visdom #Question
----
+**Urgent:**
 
+<span class="placeholder">No tasks</span>
+
+**High:**
+
+<span class="placeholder">No tasks</span>
+
+
+**Medium:**
+
+<span class="placeholder">No tasks</span>
+
+**Low:**
+
+- [ ] Add notes about Zoom login and email [Priority:: Low]
+- [ ] Bao would like me to review things another time when it is in production [Priority:: Low]
+
+**None:**
+
+- [ ] Setup calls with developers in morning. This would free up time for Josh to focus on other things.
 
 ### FIN Searches
 
-- [ ] Need to do internal reviews, so that deployment can be pushed [Priority:: Urgent]
-- [ ] Get the development environment from Bao to show them during our meeting [Priority:: Urgent] [Due:: 2025-09-26]
-- [ ] Adjust meeting time for FIN on Friday [Priority:: Urgent] [Due:: 2025-09-25]
-    - [ ] Who should have control of the reoccurring meeting.
-    - [ ] Re
-- [ ] Demo for application. Schedule for next week [Priority:: High]
+- [ ] Look into how we can take advantage of screen spacing at smaller sizes
+
+
+**Urgent:**
+
+<span class="placeholder">No tasks</span>
+
+
+**High:**
+
+<span class="placeholder">No tasks</span>
+
+**Medium:**
+
+<span class="placeholder">No tasks</span>
+
+**Low:**
+- [ ] Add process for sending update reports. Should be sent to Gar Chung, Gene Dilinsky, and Rob Regan [Priority:: Low]
+
+**None:**
+
+<span class="placeholder">No tasks</span>
+
 
 ### NEOS
 
-- [ ] Make sure NEOS files are private  [Priority:: Urgent] #ClickUp 
+**Urgent:**
+
+<span class="placeholder">No tasks</span>
+
+**High:**
+
+<span class="placeholder">No tasks</span>
+
+**Medium:**
+
+<span class="placeholder">No tasks</span>
+
+**Low:**
+
+<span class="placeholder">No tasks</span>
+
+**None:**
+
+<span class="placeholder">No tasks</span>
+
 
 ### NSDFC
 
-- [ ] In the notifications page, if we don't have a start or end date, the filter doesn't display anything [Priority:: High] #ClickUp 
+**Urgent:**
+
+<span class="placeholder">No tasks</span>
+
+**High:**
+
 - [ ] Setup meetings with NSDFC for maintenance meetings [Priority:: High]
-- [ ] Need to document how the different plans should be done. For example, consolidations can't be charged until the work is done while recertifications can be charged immediately. [Priority:: High] #ClickUp 
-- [ ] Demo for application. Schedule for next week [Priority:: High]
----
-- [ ] Add task for UI enhancements
-    - [ ] Hide estimated payments if there are none [Priority:: Medium]
-    - [ ] Add cards for recertifications to show outstanding balances [Priority:: Medium] #ClickUp 
-    - [ ] When sending an email, keep the action buttons always visible and only add a scrollbar once you've hit the full height #ClickUp 
-    - [ ] Add two action buttons in header: #ClickUp 
-        - [ ] Send email with email icon #ClickUp 
-        - [ ] Send SMS with icon #ClickUp 
-- [ ] Create task for adding permissions page for NSDFC if it doesn't exist [Priority:: Medium]
----
-- [ ] Ask Zulqarnain what would need to be done to add highlighting to sending emails [Priority:: Low]
+
+**Medium:**
+
+- [ ] [[Tasks/Backlog/Task - UI & UX enhancements]] ^cyvu77
+- [ ] Figure out what different services they provide [Priority:: Medium]
+
+**Low:**
+
+- [ ] Add process for sending update reports. Should be sent to Josef, Natalie, and Kathleen [Priority:: Low]
+
+**None:**
+
+- [ ] Add info about dropdowns that need added: https://app.clickup.com/t/86aby8dwn [Priority:: High]
 
 ### Orical
+
+**Urgent:**
+
+<span class="placeholder">No tasks</span>
+
+**High:**
+
+<span class="placeholder">No tasks</span>
+
+**Medium:**
+
+<span class="placeholder">No tasks</span>
+
+**Low:**
+
+<span class="placeholder">No tasks</span>
+
+**None:**
 
 <span class="placeholder">No tasks</span>
 
 ## Projects
 ### OMS
+
+**Urgent:**
+
+<span class="placeholder">No tasks</span>
+
+**High:**
+
+<span class="placeholder">No tasks</span>
+
+**Medium:**
+
+<span class="placeholder">No tasks</span>
+
+**Low:**
+
+- [ ] Follow-up with Mostofa to see if he needs a design [Due:: 2025-10-03]
+
+**None:**
 
 <span class="placeholder">No tasks</span>

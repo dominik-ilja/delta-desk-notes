@@ -1,0 +1,1 @@
+Was deceptive to [[Sushchnosti/Delta Desk/People/Luke Lancaster|Luke Lancaster]] and no longer works with Delta Desk.

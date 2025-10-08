@@ -1,0 +1,5 @@
+- Camera always needs to be on in calls
+- Respond promptly to emails. A response is better than no response.
+- No personal information should be kept on your work laptop. It is property to the company.
+- Make sure that developers are responded to as quickly as possible.
+- Ask Bao or another developer for assistance on assigning things to the correct people.

@@ -9,8 +9,9 @@
   "obsidian-custom-frames",
   "obsidian-copy-block-link",
   "obsidian-hider",
-  "obsidian-image-toolkit",
   "table-editor-obsidian",
   "hot-reload",
-  "oz-clear-unused-images"
+  "oz-clear-unused-images",
+  "notebook-navigator",
+  "obsidian-image-toolkit"
 ]
