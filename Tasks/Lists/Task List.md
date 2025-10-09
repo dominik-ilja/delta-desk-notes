@@ -296,6 +296,8 @@ dv.taskList(tasks)
 **High:**
 
 - [ ] Setup meetings with NSDFC for maintenance meetings [Priority:: High]
+- [ ] Demo for application. Schedule for next week [Priority:: High]
+- [ ] Look into what Blue Rock is: https://app.clickup.com/t/86ac3x9qq [Priority:: High]
 
 **Medium:**
 
@@ -309,7 +311,6 @@ dv.taskList(tasks)
 **None:**
 
 - [ ] Add info about dropdowns that need added: https://app.clickup.com/t/86aby8dwn [Priority:: High]
-
 ### Orical
 
 **Urgent:**

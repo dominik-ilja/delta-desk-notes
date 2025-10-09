@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a99980f03513aecc",
+        "id": "616f00884803d0d0",
         "type": "tabs",
         "children": [
           {
-            "id": "fa543d87070a4c02",
+            "id": "a8c3786490699973",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Outlook.md",
+                "file": "Notes/Daily/2025-10-09 - Thursday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Outlook"
+              "title": "2025-10-09 - Thursday"
+            }
+          },
+          {
+            "id": "fc7b7a1c91d86913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Lists/Task List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Task List"
             }
           }
         ]
@@ -89,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "5beeb383e9f6f6b8",
@@ -106,10 +122,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Customer Relationship Management.md"
+                "file": "Notes/Daily/2025-10-09 - Thursday.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Customer Relationship Management"
+              "title": "File properties for 2025-10-09 - Thursday"
             }
           },
           {
@@ -152,8 +168,7 @@
               "title": "Topics"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "bb3515cb27a68804",
@@ -166,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Customer Relationship Management.md",
+                "file": "Notes/Daily/2025-10-09 - Thursday.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Customer Relationship Management"
+              "title": "Outline of 2025-10-09 - Thursday"
             }
           }
         ]
@@ -290,34 +305,36 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "fa543d87070a4c02",
+  "active": "a8c3786490699973",
   "lastOpenFiles": [
+    "Tasks/Lists/Task List.md",
+    "Notes/Daily/2025-10-09 - Thursday.md",
+    "Notes/Daily/2025-10-08 - Wednesday.md",
+    "Notes/Daily/2025-10-07 - Tuesday.md",
+    "Notes/Daily/2025-10-06 - Monday.md",
+    "Agenda/Daily/2025-10-06 - Monday.md",
+    "Agenda/Daily/2025-10-03 - Friday.md",
+    "Agenda/Daily/2025-10-02 - Thursday.md",
+    "Software/Outlook.md",
+    "Computing/MS SQL Server/MS SQL Server.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Documentation.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Customer Relationship Management.md",
+    "Computing/MS SQL Server",
+    "Computing",
     "Sushchnosti/Delta Desk/Projects/OMS/OMS.md",
     "Sushchnosti/FIN Searches/FIN Searches.md",
     "Sushchnosti/FIN Searches/Projects/Web Application/Web Application.md",
     "Sushchnosti/National Student Debt Forgiveness Center/National Student Debt Forgiveness Center.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Release Notes.md",
-    "Agenda/Daily/2025-10-06 - Monday.md",
     "Agenda/Daily/2025-10-05 - Sunday.md",
     "Agenda/Daily/2025-10-04 - Saturday.md",
-    "Agenda/Daily/2025-10-03 - Friday.md",
     "Questions for Developers.md",
-    "Notes/Daily/2025-10-06 - Monday.md",
     "Notes/Daily/2025-10-05 - Sunday.md",
     "Notes/Daily/2025-10-04 - Saturday.md",
     "Notes/Daily/2025-10-03 - Friday.md",
     "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md",
-    "Tasks/Lists/Task List.md",
     "Sushchnosti/Delta Desk/Documentation/Internal/Release Notes.md",
     "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
-    "Notes/Daily/2025-10-02 - Thursday.md",
-    "Sushchnosti/NEOS/NEOS.md",
-    "Agenda/Daily/2025-10-02 - Thursday.md",
-    "Templates/Notes/Daily/Agenda.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Enhancements.md",
-    "Tasks/Lists/Question List.md",
     "Sushchnosti/Delta Desk/Documentation/Internal/Domain",
     "Attachments/Pasted image 20251002080159.png",
     "Software",
@@ -335,8 +352,6 @@
     "Attachments/Pasted image 20250930193151.png",
     "Sushchnosti/Delta Desk/Documentation/Internal",
     "Sushchnosti/Delta Desk/Documentation",
-    "Attachments/20250930-2103-06.2118763.mp4",
-    "Attachments/20250930-2054-39.9064496.mp4",
-    "Sushchnosti/Delta Desk/Projects/OMS"
+    "Attachments/20250930-2103-06.2118763.mp4"
   ]
 }
