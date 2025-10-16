@@ -1,8 +1,8 @@
 ---
 Complete: false
 Tasks: 43
-Tasks Remaining: 33
-Tasks Complete: 10
+Tasks Remaining: 31
+Tasks Complete: 12
 Date Completed:
 ---
 # Question List
@@ -42,12 +42,11 @@ Date Completed:
 - [ ] What are 990s and 5500s?
 - [ ] What is the selling point of FIN Searches?
 - [ ] Why did we decide for discussing improvements to LinkedIn: https://app.clickup.com/t/86abz64dk
-- [ ] How to spell Gene Dilinsky's name
 - [ ] What is Major/Minor style?
 
 #### Completed
 
-<span class="placeholder">No questions</span>
+- [x] How to spell Gene Dilinsky's name
 
 ### NEOS
 
@@ -61,7 +60,6 @@ Date Completed:
 
 - [ ] What are the different ways that a file can be created?
 - [ ] Cleaning up emails in NSDFC. How can I get access so, that I can start filtering out emails and creating rules?
-- [ ] How can we stop the forwarding of NSDFC emails from Luke's account?
 - [ ] There's more work than we originally expected with the CRM. Originally, we were trying to keep me not super concerned with the details. How do we want to approach this project moving forward? I still want to keep myself at a higher level, but now I want to get a better grasp on the different business requirements and how we're tackling everything.
 - [ ] How is a user setup?
 - [ ] Who are the users within this system? Is it just NSDFC or can people they're working with log into it as well?
@@ -77,6 +75,7 @@ Date Completed:
 
 #### Completed
 
+- [x] How can we stop the forwarding of NSDFC emails from Luke's account?
 - [x] **NOT A QUESTION FOR JOSH -** Is there a spot in the UI that allows someone to update permissions? [Completed:: 2025-09-24T10:03]
 
 ### Orical

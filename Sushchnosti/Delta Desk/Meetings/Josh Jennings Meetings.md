@@ -1,12 +1,54 @@
 ---
 Complete: false
-Tasks: 33
-Tasks Remaining: 12
-Tasks Complete: 21
+Tasks: 53
+Tasks Remaining: 16
+Tasks Complete: 37
 Date Completed:
 ---
 # Josh Jennings meetings
 ## Logs
+### Wednesday, October 15, 2025
+
+#### 12:30
+
+- [x] I need him to run SQL query to fix Kathleen's issue
+- [x] I need him to run SQL query to finish the workflow adjustments
+- [x] Guys, can we add a button on the payment profile that says request credit card information? It will send an email to the client with a link to the authorized net form for them to fill out. - Should it be shown if they already have a payment profile. --- ==Yes we should show this no matter what==
+- [ ] 3rd party authorizations
+    - [ ] I need him to answer the questions for Bao to do the 3rd party authorization forms
+    - [ ] How do we get the total amount due for a third party payer form?
+    - [ ] To populate the 3rd party payer form, we would use the name from the payment profile or is this incorrect?
+- [x] Let's talk about the field mappings for the form - A user has different quotes that they qualify for. When Natalie set the "Change of Repayment" and "Annual Recertification with PSLF" amounts to $0, they're charging $0 for their that service. It looks like they would pay this amount for the service. Would NSDFC be in charge of the loan then and make money off of the interest? I'm trying to understand their business model better. When we generate a form, it should be pulling the information of their debt, previous monthly payments, and the updated amounts. The updated amounts would be determined by the quote, correct? I guess how do the services and the programs work together?
+![[Attachments/Pasted image 20251015102740.png|300]]
+- [x] For the "Fee Directly Payable to Group Advantage Corp", this should be $0 based on Natalie overriding the amount. ==The only field to fix the "Estimated New Monthly Payment"==
+![[Attachments/Pasted image 20251015103232.png]]
+- [ ] https://outlook.office365.com/mail/nsdfc@deltadesk.com/inbox/id/AAQkADcxZTE1NjdmLTM4OTYtNDIwMy1iMjJkLWRjZmQzMDM1YWE4NAAQALPQkB%2BmUETbnLkUTEzGtJE%3D
+- [ ] https://outlook.office365.com/mail/nsdfc@deltadesk.com/
+- [x] Can we talk about the recertification page
+- [x] Mention that Zulqarnain is doing a good job
+- [x] Bring up Orical and the issues that come with Brevo. 
+
+
+
+### Monday, October 13, 2025
+#### Next
+
+- [x] Could you ask for NSDFC to send a PDF that can be filled out for the 3rd party authorization form - I'll ask Bao if Luke was doing this sort of thing
+- [x] Tell him about how I'm planning on laying out my day: [[Daily Outline]]
+- [x] How does a payment go from estimated to actual
+- [x] What is a sponsor within the NSDFC system?
+- [x] After talking with Bao, I learned that a third party payer form is generated for: "UTF Service Agreement", "Group Advantage Agreement", "NSDFC Loan Watch Agreement", and "Credit Card Authorization" when the payment profile is a third party payer. I also learned that they only send forms to the contact profile not the third party payer. For example, if the profile is 
+- [x] What's left to be done for NEOS?
+
+- The new third party authorization form has ACH as an option, but we don't currently support ACH.
+
+#### Covered
+
+Okay, so let's summarize our report for Josh:
+
+- The service price has been set to $0 which is the reason for the form populating as $0.
+
+
 ### Friday, October 3, 2025
 
 **Overdue tasks of Josh to Review:**
@@ -18,9 +60,9 @@ Date Completed:
 
 **Tasks Josh needs to review:**
 
-- [ ] [86ac3x9qq – Improve Bluerock Call Record Mapping | internal review | Bao Do Van, Mikhail](https://app.clickup.com/t/86ac3x9qq)
+- [x] [86ac3x9qq – Improve Bluerock Call Record Mapping | internal review | Bao Do Van, Mikhail](https://app.clickup.com/t/86ac3x9qq)
 - [ ] [86ac6k1t7 – ETF page | internal review | Zulqarnain Niazi](https://app.clickup.com/t/86ac6k1t7)
-- [ ] [86abzwf5t – Get rid of [UserToChatServUser] table | internal review | Mikhail, Bao Do Van](https://app.clickup.com/t/86abzwf5t)
+- [x] [86abzwf5t – Get rid of [UserToChatServUser] table | internal review | Mikhail, Bao Do Van](https://app.clickup.com/t/86abzwf5t)
 - [ ] [86ac6auq4 – Upload New Data page | internal review | Zulqarnain Niazi, Bao Do Van](https://app.clickup.com/t/86ac6auq4)
 - [ ] [86ac6auv6 – Upload Data section | internal review | Zulqarnain Niazi](https://app.clickup.com/t/86ac6auv6)
 - [ ] [86abxxjq9 – Universal Search - Speech to Text | internal review | Mostofa Reza, Mikhail, Bao Do Van](https://app.clickup.com/t/86abxxjq9)

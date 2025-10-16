@@ -17,6 +17,13 @@ Developer who did the v1 version of FIN Searches was friends with Josh for 15~ y
 
 OCR is the process of extracting text from a PDF
 
+- Protect our reputation
+- AI tools - V0 and Figma Make
+- The worst thing we can do is have a user not have confidence in the system
+- $10,000 for Aiden project
+- We take off NYSE stock exchange holidays - https://www.nyse.com/markets/hours-calendars
+- Price/Time/Quality - We want to have a high quality, be fast, and have a high price
+
 [Repositories](https://github.com/orgs/delta-desk/repositories)
 [Virtual Backgrounds](https://deltadesk.sharepoint.com/:f:/s/MSP/EnQv-YQtlSVDoZ3v-jmzvUMBoO9JiiV8LZWA3rvymKCiBA?e=0gHFHi)
 [Software Development - Documents - All Documents](https://deltadesk.sharepoint.com/sites/SoftwareDevelopment/Shared%20Documents/Forms/AllItems.aspx)

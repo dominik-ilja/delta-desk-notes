@@ -16,6 +16,16 @@ Tasks Complete: 0
 Date Completed:
 ---
 # Task List
+
+Project priority:
+
+- NEOS
+- OMS
+- FIN Searches
+- Our site
+- NSDFC
+- Aiden
+
 ## Due
 ### Tasks
 
@@ -189,13 +199,6 @@ dv.taskList(tasks)
 - [ ] We need to figure out a way to see what ClickUp items
 - [ ] Look into these shirts: https://www.charlestyrwhitt.com/us/mens-shirts/classic-fit+slim-fit/?prefn1=iron&prefv1=Yes&ppr=4&tib=TIB-text-shirts-ss23&isFiltersHidden=false
 - [ ] Get professional headshots taken
-- [ ] How to contact person on Fiverr
-- [ ] Re-create developer one-on-ones
-    - [ ] Monday - Vu
-    - [ ] Tuesday - Mostofa
-    - [ ] Wednesday - Zulqarnain
-    - [ ] Thursday - Mikhail
-    - [ ] Friday - Bao
 - [ ] How could we sync GitHub commits with ClickUp tasks
 - [ ] How could we start to standardize our components?
     - [ ] What makes a good table?
@@ -236,7 +239,7 @@ dv.taskList(tasks)
 
 **None:**
 
-- [ ] Setup calls with developers in morning. This would free up time for Josh to focus on other things.
+<span class="placeholder">No tasks</span>
 
 ### FIN Searches
 
@@ -350,7 +353,7 @@ dv.taskList(tasks)
 
 **Low:**
 
-- [ ] Follow-up with Mostofa to see if he needs a design [Due:: 2025-10-03]
+<span class="placeholder">No tasks</span>
 
 **None:**
 

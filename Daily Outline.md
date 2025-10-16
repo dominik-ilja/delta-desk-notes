@@ -1,0 +1,3 @@
+- In the morning, my focus will be the developers. I'll have calls, answer questions, update requirements, and assign tasks.
+- In the late morning/afternoon, my focus will be on client related things. I'll answer emails, have calls, etc. I'll be checking on developers periodically to see that they're doing good.
+- The last 2-3 hours of my day will be focused on planning/testing. What are the tasks the developers should be focusing on, what are the priorities of the client, what has been completed, creating tasks, process improvements, what needs to be tested, etc. These will all be things I need to have more focus on without interruptions.

@@ -1,0 +1,36 @@
+# Developer Overview
+## Vu
+
+[86acc1h7q – Failed Registration Attempt: Orical Fireside Chat Series | in progress | Vu Nguyen](https://app.clickup.com/t/86acc1h7q)
+[86acb7g9e – Changes to how editing notes is handled | internal review | Mikhail, Vu Nguyen, Zulqarnain Niazi](https://app.clickup.com/t/86acb7g9e)
+[86acg3b3q – Populating agreements - Mapping | ready to start | Vu Nguyen](https://app.clickup.com/t/86acg3b3q)
+[86aby3czj – All files should have an account workflow | to do | Vu Nguyen, Josh Jennings](https://app.clickup.com/t/86aby3czj)
+[86abvpwvu – Contacts created through LinkedIn are not showing on firm page | in progress | Vu Nguyen, Mikhail](https://app.clickup.com/t/86abvpwvu)
+[86abz4xv5 – Add admin controls/permissions | in progress | Vu Nguyen](https://app.clickup.com/t/86abz4xv5)
+[86acgfhmr – Contacts created through LinkedIn are not showing on firm page | in progress | Vu Nguyen, Mikhail](https://app.clickup.com/t/86acgfhmr)
+[86acgfhzu – Add admin controls/permissions | in progress | Vu Nguyen](https://app.clickup.com/t/86acgfhzu)
+[86ace85xp – Groups for Utilization Reports | to do | Vu Nguyen](https://app.clickup.com/t/86ace85xp)
+[86ac660mb – Allow Add/Edit Employee | in progress | Vu Nguyen](https://app.clickup.com/t/86ac660mb)
+[86acgfj63 – Allow Add/Edit Employee | in progress | Vu Nguyen](https://app.clickup.com/t/86acgfj63)
+[86ac21g1r – Endpoints | internal review | Vu Nguyen](https://app.clickup.com/t/86ac21g1r)
+[86ac2x71v – Implement Start LinkedIn Process in Firm details page | internal review | Vu Nguyen](https://app.clickup.com/t/86ac2x71v)
+[86ac9hh95 – Disable BlackListedTitles at the ria website | internal review | Vu Nguyen](https://app.clickup.com/t/86ac9hh95)
+[86acgfjx7 – Endpoints | internal review | Vu Nguyen](https://app.clickup.com/t/86acgfjx7)
+[86acgfjxw – Disable BlackListedTitles at the ria website | internal review | Vu Nguyen](https://app.clickup.com/t/86acgfjxw)
+[86ac53uzm – Implement "Merge Firm Office" feature | ready for deployment | Vu Nguyen](https://app.clickup.com/t/86ac53uzm)
+[86accqp07 – Allow Add/Edit/Delete Research Note on Contact Detail page | ready for deployment | Vu Nguyen](https://app.clickup.com/t/86accqp07)
+[86accqp42 – Add "Public" column to Research Note grid | ready for deployment | Vu Nguyen](https://app.clickup.com/t/86accqp42)
+[86acgfj3j – Implement "Merge Firm Office" feature | ready for deployment | Vu Nguyen](https://app.clickup.com/t/86acgfj3j)
+[86acgfjdd – Allow Add/Edit/Delete Research Note on Contact Detail page | ready for deployment | Vu Nguyen](https://app.clickup.com/t/86acgfjdd)
+[86acgfjdt – Add "Public" column to Research Note grid | ready for deployment | Vu Nguyen](https://app.clickup.com/t/86acgfjdt)
+[86ac211wa – Create Blocked Titles page on v3 site | to do | Vu Nguyen](https://app.clickup.com/t/86ac211wa)
+[86ac61aju – Phone number input improvements | to do | Vu Nguyen](https://app.clickup.com/t/86ac61aju)
+[86ac7gcuq – Backup Orical data | to do | Vu Nguyen](https://app.clickup.com/t/86ac7gcuq)
+[86ac7h55w – Review other headless content management systems | to do | Vu Nguyen](https://app.clickup.com/t/86ac7h55w)
+[86ab0nqmk – Give Ability For Users / Departments to Create Their Own Email Signatures | to do | Zulqarnain Niazi, Vu Nguyen, Bao Do Van](https://app.clickup.com/t/86ab0nqmk)
+[86ac3r065 – Reminders page date picker | to do | Vu Nguyen](https://app.clickup.com/t/86ac3r065)
+[86acg9zqq – Give ability to select "Sub-Organization" for pipeline report | to do | Vu Nguyen](https://app.clickup.com/t/86acg9zqq)
+[86acga00q – Update backend to support sponsor changes | to do | Vu Nguyen](https://app.clickup.com/t/86acga00q)
+
+## Zulqarnain
+

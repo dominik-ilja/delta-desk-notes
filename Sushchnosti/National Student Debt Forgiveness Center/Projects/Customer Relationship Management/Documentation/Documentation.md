@@ -10,10 +10,7 @@ Type: Documentation
 
 - What are the high level concepts we need to understand about the organization/project?
 
-## Workflows
-
-
-
+NSDFC makes money through performing various services for people. These services being offered is essentially them doing the paperwork for people to get into these programs.
 
 ## Automations
 
@@ -24,8 +21,9 @@ Type: Documentation
 
 ## Permissions
 
-- Bao's write up - https://docs.google.com/spreadsheets/d/1QvpHBCGTHMRLpt4NmaQZjlIJFBug2YxZAe9Axv9oqiM/edit?gid=0#gid=0
-
+```sql
+SELECT * FROM dbo.[Permissions];
+```
 
 | IdPermission | Permission Name              | Description                                                                                                                                                                   |
 | ------------ | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

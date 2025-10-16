@@ -1,2 +1,0 @@
-# Mikhail one-on-one
-
