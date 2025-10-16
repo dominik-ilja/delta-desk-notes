@@ -12,6 +12,29 @@ Tasks Complete: 1
 Date Completed:
 ---
 # Bao Notes
+## Thursday, October 16, 2025
+### Tasks
+
+ NSDFC:  
+
+- [[https://app.clickup.com/t/86acjrcvb](https://app.clickup.com/t/86acjrcvb)] Investigate the files without extension
+- [[https://app.clickup.com/t/86acj4dd0](https://app.clickup.com/t/86acj4dd0)] Profiles missing services sold
+- [[https://app.clickup.com/t/86abz61g3](https://app.clickup.com/t/86abz61g3)] Add ability to reschedule payment from Accounting table
+- [[https://app.clickup.com/t/86achu6me](https://app.clickup.com/t/86achu6me)] Adjust Contract Received logic - In Progress (Carry over 1)
+- [[https://app.clickup.com/t/86acjrdna](https://app.clickup.com/t/86acjrdna)] Check logic to log out the user when the token is expired - Todo
+
+  OMS:  
+
+- Implement missing api for Create Order page
+
+### Log
+
+NSDFC  
+- [[https://app.clickup.com/t/86achu6me](https://app.clickup.com/t/86achu6me)] Adjust Contract Received logic - ==I see that this is in progress. What's left to be done?==
+
+OMS  
+- Review the Create Order page - ==Did you get to review this?==
+
 ## Wednesday, October 15, 2025
 ### Tasks
 

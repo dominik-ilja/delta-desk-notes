@@ -7,6 +7,24 @@ Sources: []
 Type: Documentation
 ---
 # Mostofa Notes
+## Thursday, October 16, 2025
+### Tasks
+
+FIN:  
+
+- [[https://app.clickup.com/t/86accvkqg](https://app.clickup.com/t/86accvkqg)] Hide Terminated firm from users
+- [[https://app.clickup.com/t/86abz50q5](https://app.clickup.com/t/86abz50q5)] Application UI Updates - Responsiveness and Consistency [Review]
+- [[https://app.clickup.com/t/86ac7pr1x](https://app.clickup.com/t/86ac7pr1x)] Infinity search button
+- [[https://app.clickup.com/t/86abvbr3b](https://app.clickup.com/t/86abvbr3b)] Inconsistencies with Area codes
+
+OMS:  
+
+- [[https://app.clickup.com/t/86acapjzm](https://app.clickup.com/t/86acapjzm)] Edit Performance page
+
+### Log
+
+
+
 ## Wednesday, October 15, 2025
 ### Tasks
 

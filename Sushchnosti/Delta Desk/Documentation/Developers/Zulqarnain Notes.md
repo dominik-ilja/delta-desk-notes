@@ -7,6 +7,29 @@ Sources: []
 Type: Documentation
 ---
 # Zulqarnain Notes
+## Thursday, October 16, 2025
+### Tasks
+
+NSDFC:  
+
+- [[86acj1ztz]](https://app.clickup.com/t/86acj1ztz) Payment Amount doesn't seem to be saving
+- [[86acjq7kq]](https://app.clickup.com/t/86acjq7kq) Recertification default date
+- [[86ac61ndk]](https://app.clickup.com/t/86ac61ndk) Payment plan can be deleted, but the estimated payment plans do not automatically disappear
+- [[86abz61g3]](https://app.clickup.com/t/86abz61g3) Add ability to reschedule payment from Accounting table
+- [[86acj47zn]](https://app.clickup.com/t/86acj47zn) If status is cancelled, highlight the card in red
+- [[86acek88a]](https://app.clickup.com/t/86acek88a) Specify that the age of an item is days
+- [[86acejxth]](https://app.clickup.com/t/86acejxth) Format numbers with a comma between groups of three
+- [[86achgkkt]](https://app.clickup.com/t/86achgkkt) Only show forms for the department of the user
+- [[86acjrcg9]](https://app.clickup.com/t/86acjrcg9) Update color for Estimated tag
+
+NEOS:  
+
+- [[86ach2pkr]](https://app.clickup.com/t/86ach2pkr) Definitions stuff
+
+### Log
+
+
+
 ## Wednesday, October 15, 2025
 ### Tasks
 

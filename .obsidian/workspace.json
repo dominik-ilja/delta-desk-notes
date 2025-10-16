@@ -4,95 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "0cc9169724e8784b",
+        "id": "430bb1d0d972a273",
         "type": "tabs",
-        "dimension": 41.236586612161474,
         "children": [
           {
-            "id": "e612cf129509a402",
+            "id": "3af335e2693765bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Documentation/Concepts.md",
+                "file": "Sushchnosti/Delta Desk/Documentation/Developers/Bao Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Concepts"
+              "title": "Bao Notes"
             }
           },
           {
-            "id": "4c26df2bec3b51a1",
+            "id": "b21d576ce36dca53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily/2025-10-15 - Wednesday.md",
+                "file": "Sushchnosti/Delta Desk/Documentation/Developers/Mikhail Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-15 - Wednesday"
+              "title": "Mikhail Notes"
             }
           },
           {
-            "id": "08dac5ae24559f89",
+            "id": "a48159d7f7921af1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/ClickUp - Email Misc..md",
+                "file": "Sushchnosti/Delta Desk/Documentation/Developers/Mostofa Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ClickUp - Email Misc."
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "6b599c42cae7fa06",
-        "type": "tabs",
-        "dimension": 58.763413387838526,
-        "children": [
-          {
-            "id": "bf17de55d681f8bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Documentation/Application.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Application"
+              "title": "Mostofa Notes"
             }
           },
           {
-            "id": "5cba2a4d6e2f7c49",
+            "id": "97b8e2d021dc6059",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Documentation/Documentation.md",
+                "file": "Sushchnosti/Delta Desk/Documentation/Developers/Vu Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Documentation"
+              "title": "Vu Notes"
             }
           },
           {
-            "id": "7a3b6ff5c4901346",
+            "id": "06bd3d41a5696144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/Delta Desk/Documentation/Developers/Zulqarnain Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Zulqarnain Notes"
+            }
+          },
+          {
+            "id": "a8c3786490699973",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ClickUp",
+                "query": "hours",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -171,11 +162,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 602.5,
+    "width": 329.5,
     "collapsed": true
   },
   "right": {
@@ -185,7 +176,7 @@
       {
         "id": "59525e51d6ee8ee3",
         "type": "tabs",
-        "dimension": 23.15891472868217,
+        "dimension": 40.1062416998672,
         "children": [
           {
             "id": "b0e1251cf497eb39",
@@ -193,10 +184,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/ClickUp - Email Misc..md"
+                "file": "Notes/Daily/2025-10-14 - Tuesday.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ClickUp - Email Misc."
+              "title": "File properties for 2025-10-14 - Tuesday"
             }
           },
           {
@@ -244,7 +235,7 @@
       {
         "id": "bb3515cb27a68804",
         "type": "tabs",
-        "dimension": 50.2906976744186,
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "2c381be1674b5801",
@@ -252,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/ClickUp - Email Misc..md",
+                "file": "Notes/Daily/2025-10-14 - Tuesday.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ClickUp - Email Misc."
+              "title": "Outline of 2025-10-14 - Tuesday"
             }
           }
         ]
@@ -266,7 +257,7 @@
       {
         "id": "d00dfa0430909c65",
         "type": "tabs",
-        "dimension": 26.550387596899228,
+        "dimension": 26.560424966799463,
         "children": [
           {
             "id": "7e2e19d521bdbcb8",
@@ -356,7 +347,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 282.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -375,38 +367,38 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "08dac5ae24559f89",
+  "active": "b21d576ce36dca53",
   "lastOpenFiles": [
-    "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
-    "Notes/Daily/2025-10-15 - Wednesday.md",
-    "Notes/Daily/2025-10-14 - Tuesday.md",
+    "Sushchnosti/Delta Desk/Documentation/Developers/Bao Notes.md",
+    "Sushchnosti/Delta Desk/Documentation/Developers/Mostofa Notes.md",
+    "Sushchnosti/Delta Desk/Documentation/Developers/Zulqarnain Notes.md",
+    "Sushchnosti/Delta Desk/Documentation/Developers/Mikhail Notes.md",
+    "Sushchnosti/Delta Desk/Documentation/Developers/Vu Notes.md",
+    "Notes/Daily/2025-09-11 - Thursday.md",
     "Notes/Daily/2025-10-13 - Monday.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Documentation/Concepts.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Documentation/Documentation.md",
+    "Sushchnosti/Delta Desk/People/Bao Do.md",
+    "Daily Outline.md",
+    "Sushchnosti/Delta Desk/Documentation/Internal/Team Members.md",
+    "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
+    "Sushchnosti/Orical/Projects/Orical Website.md",
+    "Sushchnosti/Delta Desk/People/Vu Nguyen Tuan.md",
+    "Sushchnosti/Delta Desk/Delta Desk.md",
+    "Developer Overview.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Documentation/Application.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Documentation/Documentation.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Documentation/Concepts.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/National Student Debt Forgiveness Center.md",
+    "Notes/Daily/2025-10-15 - Wednesday.md",
+    "Templates/ClickUp - Email Misc..md",
+    "Notes/Daily/2025-10-14 - Tuesday.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Customer Relationship Management.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Documentation/Workflows and Statuses.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/National Student Debt Forgiveness Center.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Documentation",
     "Tasks/Lists/Question List.md",
-    "Developer Overview.md",
     "Attachments/Pasted image 20251015103232.png",
-    "Sushchnosti/Delta Desk/Documentation/Developers/Zulqarnain Notes.md",
-    "Sushchnosti/Delta Desk/Documentation/Developers/Bao Notes.md",
-    "Sushchnosti/Delta Desk/Documentation/Developers/Vu Notes.md",
-    "Sushchnosti/Delta Desk/Documentation/Developers/Mostofa Notes.md",
-    "Sushchnosti/Delta Desk/Documentation/Developers/Mikhail Notes.md",
-    "Templates/ClickUp - Email Misc..md",
     "Attachments/Pasted image 20251015102740.png",
     "Brevo.md",
-    "Agenda/Daily/2025-10-14 - Tuesday.md",
-    "Sushchnosti/Delta Desk/Projects/OMS/OMS.md",
-    "Agenda/Daily/2025-10-13 - Monday.md",
     "Sushchnosti/Delta Desk/Documentation/Developers",
-    "Tasks/Lists/Task List.md",
-    "Daily Outline.md",
-    "Sushchnosti/Delta Desk/Delta Desk.md",
-    "Notes/Daily/2025-10-12 - Sunday.md",
     "Computing/MS SQL Server",
     "Computing",
     "Sushchnosti/Delta Desk/Documentation/Internal/Domain",
