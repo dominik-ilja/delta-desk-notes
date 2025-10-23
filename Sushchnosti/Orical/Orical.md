@@ -8,12 +8,18 @@ Type: Index
 ---
 # Orical
 
-https://github.com/delta-desk/Orical-Public
-
 ## People
 
-Madeline Kiel
+**Madeline Kiel** 
+Pronunciation: Last part of her first name is pronounced like the word "line"
 Email: mkiel@orical.org
+Position: 
 
-Zabelle Aslanian
+**Zabelle Aslanian**
+Nicknames: Za, Zaza
 Email: zaslanian@orical.org
+Position: 
+
+## Projects
+
+[[Sushchnosti/Orical/Website|Orical Website]]

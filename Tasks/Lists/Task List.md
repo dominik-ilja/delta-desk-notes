@@ -316,7 +316,7 @@ dv.taskList(tasks)
 
 ### NSDFC
 
-- [ ] [[Tasks/Backlog/Task - Update database with list sent from Josef (86acgav8c)]]
+- [ ] [[Tasks/Completed/2025/Task - Update database with list sent from Josef (86acgav8c)]]
 - [ ] Follow-up with NSDFC about this task: https://app.clickup.com/t/86acgv7pc?comment=90130179931669&threadedComment=90130181300273 [Priority:: High]
 - [ ] If a salesperson is not assigned, then our team, Natalie, and Josef will get notified of the call. #Document
 - [ ] Should the whole organization be considered sponsored if it is just the department that is sponsored.

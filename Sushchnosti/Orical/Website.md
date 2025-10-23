@@ -3,7 +3,8 @@ aliases:
   - Orical Website
 cssclasses:
 tags:
-Related: []
+Related:
+  - "[[Sushchnosti/Orical/Orical|Orical]]"
 Sources: []
 Type: Index
 ---
@@ -11,9 +12,13 @@ Type: Index
 
 This is an overview off all the information we need to know relating the Orical website.
 
-This site was built using Next.js for the frontend and Sanity as the CRM.
+## Technology Stack
 
-We have the data for Sanity being backed up by https://snapshooter.com/. Please look in 1Password for the information.
+- React with Nextjs
+- Sanity for CRM
+- Snapshooter for data backup
+
+<span class="text-faint">Snapshooter credentials are found in 1Password</span>
 
 ## Deployed Sites
 
