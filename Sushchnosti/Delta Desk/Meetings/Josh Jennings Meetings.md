@@ -1,19 +1,16 @@
 ---
 Complete: false
-Tasks: 59
-Tasks Remaining: 1
+Tasks: 60
+Tasks Remaining: 2
 Tasks Complete: 58
 Date Completed:
 ---
 
 # Josh Jennings meetings
 
+- [ ] Vu needs to update the stored procedures https://app.clickup.com/t/86acg9zqq?comment=90130178765824
 - [ ] This question comes from Bao. He was wanting to know how we should proceed with migrating the child pages of admin features:
       ![[Attachments/Pasted image 20250930080955.png]]
-
-## Wednesday, October 22, 2025
-
-
 
 ## Tuesday, October 21, 2025
 

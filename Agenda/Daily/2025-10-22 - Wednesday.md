@@ -1,11 +1,11 @@
 ---
-Complete: false
-Tasks: 34
-Tasks Remaining: 14
-Tasks Complete: 20
-Date Completed:
-Last Updated: October 23, 2025, at 8:04 AM
-File Size: 5.97 KB
+Complete: true
+Tasks: 25
+Tasks Remaining: 0
+Tasks Complete: 25
+Date Completed: 2025-10-23
+Last Updated: October 23, 2025, at 8:47 AM
+File Size: 5.08 KB
 aliases: []
 cssclasses:
   - full_width
@@ -111,30 +111,19 @@ dv.table(["Index", "Task", "Priority", "Due Date"], tableData);
 
 ## Tasks
 
-- [ ] Get on a call with Josef to discuss the following: [Priority:: Urgent] [Due:: 2025-10-22]
-    - [ ] Write out what we want to discuss in the meeting [Priority:: Urgent] #Focus 
-    - [ ] Should the whole organization be considered sponsored if it is just the department that is sponsored.
-    - [ ] Get on a call with Josef to discuss this issue. Some of the entries in Josef's list were not found in the database. Asking Josef if these entries should be a department of an organization or an organization itself.
-    - [ ] He wants confirmation that the mapping is correct before committing to it: ![[Attachments/Pasted image 20251022140943.png]]
-- [ ] Create task for ensuring that Omnicia deployment is successful
-- [ ] Double check the notes and send bulk email about the notes https://deltadesk.slack.com/archives/C08A20K9M4H/p1761148282210199
-    - [ ] Double check
-    - [ ] Send email
 
----
-
-- [ ] Perform reviews [Priority:: High]
-- [ ] ClickUp Notifications
+- [x] Perform reviews [Priority:: High]
+- [x] ClickUp Notifications
     - [x] 1-4
     - [x] Complete 2 notifications [Completed:: 2025-10-22T13:36]
-- [ ] Emails
+- [x] Emails
     - [x] Complete 6 emails [Completed:: 2025-10-22T12:11]
     - [x] Create tickets like Josh requested [Completed:: 2025-10-22T13:59]
         - [x] Lakeshore | DDOS/DLIT spx options trading: | Visdom ref: 20251022 1236.1
         - [x] 2
         - [x] 3
-- [ ] Slack
-    - [ ] 7
+- [x] Slack
+    - [x] 7
         - [x] Complete 1-4 [Completed:: 2025-10-22T13:35]
 
 ### Closed
