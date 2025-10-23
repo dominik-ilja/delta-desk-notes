@@ -33,11 +33,12 @@ Next Contact:
 Contact Frequency:
 Contact Types:
 Type: Mennesker
-Last Updated: September 19, 2025, at 10:01 PM
+Last Updated: October 17, 2025, at 3:11 PM
 ---
 # Zulqarnain Niazi
 
-<span class="placeholder">No description</span>
+- Paid around $1,250 a month
+- Lives in Pakistan
 
 ## Topics to follow up on
 

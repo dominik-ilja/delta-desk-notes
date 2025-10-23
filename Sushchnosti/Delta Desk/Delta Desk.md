@@ -34,49 +34,12 @@ OCR is the process of extracting text from a PDF
 
 ## Employees
 
-```base
-formulas:
-  Current: |-
-    if(
-    note["Company"].containsAny("Delta Desk", link("Sushchnosti/Organisasjon/Delta Desk", "Delta Desk")),"Yes", "No"
-    )
-  Positions: Positions.filter(value.toString().contains("Delta Desk")).map(value.toString().replace("Delta Desk · ", ""))
-properties:
-  formula.Current:
-    displayName: Current
-views:
-  - type: table
-    name: Current
-    filters:
-      or:
-        - Company.containsAny("Delta Desk", link("Sushchnosti/Organisasjon/Delta Desk", "Delta Desk"))
-    order:
-      - file.name
-      - formula.Current
-      - formula.Positions
-      - GitHub
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      file.name: 244
-      formula.Positions: 272
-    cardSize: 250
-  - type: table
-    name: Previous
-    filters:
-      and:
-        - note["Previous Companies"].containsAny("Delta Desk", link("Sushchnosti/Organisasjon/Delta Desk", "Delta Desk"))
-    order:
-      - file.name
-      - formula.Current
-      - formula.Positions
-      - GitHub
-    columnSize:
-      file.name: 244
-      formula.Positions: 202
+[[Sushchnosti/Delta Desk/People/Bao Do|Bao Do]]
+[[Sushchnosti/Delta Desk/People/Mikhail Pagoda|Mikhail Pagoda]]
+[[Sushchnosti/Delta Desk/People/Vu Nguyen Tuan|Vu Nguyen Tuan]]
+[[Sushchnosti/Delta Desk/People/Mostofa Reza|Mostofa Reza]]
+[[Sushchnosti/Delta Desk/People/Zulqarnain Niazi|Zulqarnain Niazi]]
 
-```
 
 - Mikhail
 - Quang Khuat

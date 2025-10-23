@@ -19,14 +19,25 @@ Natalie started NSDFC. Bill bought out Natalie, but kept her as a consultant.
 This section is in relation to the [Clients/National Student Debt Forgiveness Center]([Software Development - Documents - National Student Debt Forgiveness Center - All Documents](https://deltadesk.sharepoint.com/sites/SoftwareDevelopment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSoftwareDevelopment%2FShared%20Documents%2FClients%2FNational%20Student%20Debt%20Forgiveness%20Center&viewid=399b4dd2%2Da874%2D4ee7%2D8a5c%2D6a5937827150)) folder within SharePoint.
 
 - **Billing:** Contains information related to payments for the project.
-- **CRM Project:** This is information relating to the [[Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Customer Relationship Management|Customer Relationship Management]].
+- **CRM Project:** This is information relating to the [[Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management|Customer Relationship Management]].
 - **MS SQL Scripts:** Various SQL scripts. Unsure of what the purpose is.
 - **Old:** I'm assuming this is an archive folder.
 - **Training Videos:** Videos talking about the CRM.
 
 ## Projects
 
-[[Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Customer Relationship Management|Customer Relationship Management]]
+[[Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management|Customer Relationship Management]]
+
+## People
+
+- Kathleen
+    - Accounting
+- Emily
+    - Recertifications
+- John
+    - Accounting
+- Natalie
+    - ?
 
 ## Emails
 

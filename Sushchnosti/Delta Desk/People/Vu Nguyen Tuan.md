@@ -32,11 +32,11 @@ Next Contact:
 Contact Frequency:
 Contact Types:
 Type: Mennesker
-Last Updated: October 16, 2025, at 7:38 AM
+Last Updated: October 17, 2025, at 3:11 PM
 ---
 # Vu Nguyen Tuan
 
-<span class="placeholder">No description</span>
+- Paid around $2,500 a month
 
 ## Topics to follow up on
 

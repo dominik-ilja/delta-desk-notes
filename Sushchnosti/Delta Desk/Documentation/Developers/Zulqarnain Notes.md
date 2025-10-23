@@ -7,20 +7,120 @@ Sources: []
 Type: Documentation
 ---
 # Zulqarnain Notes
+## Tuesday, October 21, 2025
+### Tasks
+
+NSDFC:  
+
+- [[86acmcpdc]](https://app.clickup.com/t/86acmcpdc) Additions to note replies
+- [[86acmdbv8]](http://app.clickup.com/t/86acmdbv8) Update organization page
+
+FIN:  
+
+- [[86acj629z]](https://app.clickup.com/t/86acj629z) Fix overlapping controls in the firm-details page
+
+### Logs
+
+Hey, how's your internet doing today
+
+I'll look to review this today.
+- [86acmdbv8 - Update organization page - internal review (NSDFC - Backlog)](https://app.clickup.com/t/86acmdbv8)
+
+Who's the developer that is reviewing this?
+- [86acmcpdc - Additions to note replies - developer review (NSDFC - Backlog)](https://app.clickup.com/t/86acmcpdc)
+
+Who's the developer that is reviewing this?
+- [86acj629z - Fix overlapping controls in the firm-details page - developer review (FIN Searches - Backlog)](https://app.clickup.com/t/86acj629z)
+
+
+## Monday, October 20, 2025
+### Tasks
+
+NSDFC:  
+- [[86acn6677]](https://app.clickup.com/t/86acn6677) Add Request payment profile feature
+- [[86acmcpdc]](https://app.clickup.com/t/86acmcpdc) Additions to note replies
+- [[86acmdbv8]](http://app.clickup.com/t/86acmdbv8) Update organization page
+- [[86abz61g3]](https://app.clickup.com/t/86abz61g3) Add ability to reschedule payment from Accounting table
+
+FIN:  
+- [[86acm7ggf]](https://app.clickup.com/t/86acm7ggf) Fix filtering taking long time in "Firm Aliases and Affiliates" section
+
+### Logs
+
+Hello, hope you had a good weekend! Did you get to do anything fun on the break?
+
+---
+
+If you tell me when this is done, I'll review it
+
+- 86acn6677 - Add Request payment profile feature - Developer Review
+
+---
+
+How are these coming along? Could you give me an estimate on when these will be ready to review?
+
+- 86acm7ggf - Fix filtering taking long time in "Firm Aliases and Affiliates" section - In Progress
+- 86acmdbv8 - Update organization page - In Progress
+
+---
+
+Please do not work on this just yet. It isn't a priority to get done and needs more information.
+- 86abz61g3 - Add ability to reschedule payment from Accounting table - To Do
+
+Just a reminder that this is something Josh is wanting to get to NSDFC early this week
+- 86acmcpdc - Additions to note replies - To Do
+
+
+
+## Friday, October 17, 2025
+### Tasks
+
+NSDFC:  
+
+- [[86ac61ndk]](https://app.clickup.com/t/86ac61ndk) Payment plan can be deleted, but the estimated payment plans do not automatically disappear
+- [[86abz61g3]](https://app.clickup.com/t/86abz61g3) Add ability to reschedule payment from Accounting table
+- [[86achgkkt]](https://app.clickup.com/t/86achgkkt) Only show forms for the department of the user
+
+FIN:  
+
+- [[86ac89zk3]](https://app.clickup.com/t/86ac89zk3) Map page update
+
+NEOS:  
+
+- [[86ach2pkr]](https://app.clickup.com/t/86ach2pkr) Finish Definitions stuff
+
+### Logs
+
+FIN:
+What page is the map on?
+
+NSDFC:
+86ac61ndk - Internal Review - Payment plan can be deleted, but the estimated payment plans do not automatically disappear
+I'll review this later today
+
+86achgkkt - In progress - Only show forms for the department of the user
+How is this coming along? Are you facing any challenges? Are you waiting on anyone?
+
+86abz61g3 - Todo - Add ability to reschedule payment from Accounting table
+This I need to get better requirements on. You don't have to worry about this for now.
+
+
 ## Thursday, October 16, 2025
 ### Tasks
 
 NSDFC:  
 
-- [[86acj1ztz]](https://app.clickup.com/t/86acj1ztz) Payment Amount doesn't seem to be saving
-- [[86acjq7kq]](https://app.clickup.com/t/86acjq7kq) Recertification default date
-- [[86ac61ndk]](https://app.clickup.com/t/86ac61ndk) Payment plan can be deleted, but the estimated payment plans do not automatically disappear
-- [[86abz61g3]](https://app.clickup.com/t/86abz61g3) Add ability to reschedule payment from Accounting table
-- [[86acj47zn]](https://app.clickup.com/t/86acj47zn) If status is cancelled, highlight the card in red
-- [[86acek88a]](https://app.clickup.com/t/86acek88a) Specify that the age of an item is days
-- [[86acejxth]](https://app.clickup.com/t/86acejxth) Format numbers with a comma between groups of three
-- [[86achgkkt]](https://app.clickup.com/t/86achgkkt) Only show forms for the department of the user
-- [[86acjrcg9]](https://app.clickup.com/t/86acjrcg9) Update color for Estimated tag
+- [[86acj47zn]](https://app.clickup.com/t/86acj47zn) If status is cancelled, highlight the card in red - Internal Review
+- [[86acek88a]](https://app.clickup.com/t/86acek88a) Specify that the age of an item is days - Internal Review - Internal Review
+- [[86acejxth]](https://app.clickup.com/t/86acejxth) Format numbers with a comma between groups of three - Internal Review
+- [[86acjrcg9]](https://app.clickup.com/t/86acjrcg9) Update color for Estimated tag - Internal Review
+
+- [[86acjq7kq]](https://app.clickup.com/t/86acjq7kq) Recertification default date - In progress
+- [[86achgkkt]](https://app.clickup.com/t/86achgkkt) Only show forms for the department of the user - In progress
+
+- [[86acj1ztz]](https://app.clickup.com/t/86acj1ztz) Payment Amount doesn't seem to be saving - Todo
+- [[86ac61ndk]](https://app.clickup.com/t/86ac61ndk) Payment plan can be deleted, but the estimated payment plans do not automatically disappear - Todo
+- [[86abz61g3]](https://app.clickup.com/t/86abz61g3) Add ability to reschedule payment from Accounting table - Todo
 
 NEOS:  
 
@@ -28,6 +128,11 @@ NEOS:
 
 ### Log
 
+NSDFC:
+[86acb7g9e] Changes to how editing notes is handled Update according to Dominik Feedback - Complete
+[86acgv7pc] Update form actions - In progress
+[86achju5g] Add a "Sales Application" document type - Complete
+[86achgkkt] Only show forms for the department of the user - Under went some adjustments
 
 
 ## Wednesday, October 15, 2025

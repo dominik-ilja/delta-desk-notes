@@ -16,5 +16,20 @@ Around 6 million in revenue
 
 ## Projects
 
-- [[Sushchnosti/FIN Searches/Projects/Web Application/Web Application|Web Application]]
+- [[Sushchnosti/FIN Searches/Application/Application|Application]]
 
+## Q&A
+
+## Concepts & Terms
+
+Managers of Managers are people who work with other asset managers
+
+## Business
+
+- A FIN Searches subscription is typically 1 or more years. Typically, 1-3 years.
+- Biggest competitors
+    - Dakota
+    - Uvestment
+    - Market Lense
+    - Mandatewire
+- Primarily use Google products

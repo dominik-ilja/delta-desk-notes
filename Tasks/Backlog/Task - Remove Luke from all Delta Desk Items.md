@@ -11,7 +11,7 @@ Due Date:
 Start Date:
 Date Completed:
 Date Created:
-Last Updated: September 25, 2025, at 4:11 PM
+Last Updated: October 22, 2025, at 11:33 AM
 Time Estimate:
 Time Tracked:
 Waiting On:
@@ -23,7 +23,7 @@ Sources:
 ClickUp:
   - https://app.clickup.com/t/86ac3k4h6
 Type: Task
-File Size: 1.27 KB
+File Size: 1.25 KB
 cssclasses:
   - full_width
 ---
@@ -41,7 +41,7 @@ cssclasses:
 - [ ] Remove Luke from:
     - [ ] Remove Luke from admin on SendGrid
     - [ ] Remove Luke from Zoom
-    - [ ] We currently have two Google Accounts. One is the corporate account and the other is under "support@deltadesk.com". There's things tied to the support account which Luke made. We need to make sure that is taken care of. Josh would like this done before he gets Luke's laptop. [Priority:: High] 
+    - [ ] We currently have two Google Accounts. One is the corporate account and the other is under "support@deltadesk.com". There's things tied to the support account which Luke made. We need to make sure that is taken care of. Josh would like this done before he gets Luke's laptop.
         - [ ] Determine when Josh will be getting laptop
 
 ### Completed

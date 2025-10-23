@@ -32,11 +32,11 @@ Next Contact:
 Contact Frequency:
 Contact Types:
 Type: Mennesker
-Last Updated: October 16, 2025, at 7:43 AM
+Last Updated: October 17, 2025, at 3:09 PM
 ---
 # Bao Do
 
-Paid around $3,500~ a month. He lives in Vietnam.
+Paid around $3,500-$4,000~ a month. He lives in Vietnam.
 
 ## Topics to follow up on
 

@@ -32,3 +32,9 @@ These are additional repositories that I don't know what they're for:
 ## Resources
 
 https://docs.google.com/spreadsheets/d/1E0ES9QGFD5h5lYGQ1YPJshGQtdmLrv132QOImTIn66Y/edit?gid=0#gid=0 - Spreadsheet of all the pages that need worked on
+
+## General
+
+- Our system isn't a trading system. Carrick trades through Bloomberg. Bloomberg routers the orders.
+- How much should each person get? We solve this with the OMS.
+- We shadow what each person is supposed to get. Luke's spreadsheet was used to reconcile that. [[Sushchnosti/Carrick Lane/People/Tim Knowles|Tim Knowles]]'s spreadsheet is in sync with our system.

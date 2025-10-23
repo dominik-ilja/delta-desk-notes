@@ -8,20 +8,21 @@
           {
             "id": "d5916fc149235755",
             "type": "tabs",
+            "dimension": 65.49227799227798,
             "children": [
               {
-                "id": "c0d2e3ee52276af7",
+                "id": "ec17b24283d3e48d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Agenda/Daily/2025-10-02 - Thursday.md",
+                    "file": "Agenda/Daily/2025-10-22 - Wednesday.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "2025-10-02 - Thursday"
+                  "title": "2025-10-22 - Wednesday"
                 }
               }
             ]
@@ -29,6 +30,7 @@
           {
             "id": "668aab2e5300c7fc",
             "type": "tabs",
+            "dimension": 34.50772200772201,
             "children": [
               {
                 "id": "4e243c2d66e035c3",
@@ -46,44 +48,7 @@
                 }
               },
               {
-                "id": "523ce33d0481c897",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tasks/Lists/Question List.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Question List"
-                }
-              },
-              {
-                "id": "b6ef5951effe0a73",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Daily/2025-10-02 - Thursday.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-10-02 - Thursday"
-                }
-              }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "a9dd0ab7a588b797",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d476dbfedbc57816",
+                "id": "c4fc18407d0e1efd",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -98,63 +63,18 @@
                 }
               },
               {
-                "id": "56e967ecad3b58ff",
+                "id": "523ce33d0481c897",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sushchnosti/Delta Desk/Meetings/Vu one-on-one.md",
+                    "file": "Tasks/Lists/Question List.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Vu one-on-one"
-                }
-              },
-              {
-                "id": "52db4ab00b4d184e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sushchnosti/Delta Desk/Meetings/Mostofa one-on-one.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Mostofa one-on-one"
-                }
-              },
-              {
-                "id": "b6e87ae1354b6b29",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sushchnosti/Delta Desk/Meetings/Zulqarnain one-on-one.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Zulqarnain one-on-one"
-                }
-              },
-              {
-                "id": "08e3c2efec0142e1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "FIN Searches - Meetings"
+                  "title": "Question List"
                 }
               }
             ]
@@ -224,7 +144,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 482.5,
+        "width": 309.5,
         "collapsed": true
       },
       "right": {
@@ -234,7 +154,7 @@
           {
             "id": "59525e51d6ee8ee3",
             "type": "tabs",
-            "dimension": 40.1062416998672,
+            "dimension": 19.379844961240313,
             "children": [
               {
                 "id": "b0e1251cf497eb39",
@@ -242,20 +162,32 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Customer Relationship Management.md"
+                    "file": "Agenda/Daily/2025-10-22 - Wednesday.md"
                   },
                   "icon": "lucide-info",
-                  "title": "File properties for Customer Relationship Management"
+                  "title": "File properties for 2025-10-22 - Wednesday"
                 }
-              },
+              }
+            ]
+          },
+          {
+            "id": "bb3515cb27a68804",
+            "type": "tabs",
+            "dimension": 61.240310077519375,
+            "children": [
               {
-                "id": "b4d2507032b50c9d",
+                "id": "2c381be1674b5801",
                 "type": "leaf",
                 "state": {
-                  "type": "custom-frames-google-calendar",
-                  "state": {},
-                  "icon": "lucide-calendar",
-                  "title": "Google Calendar"
+                  "type": "outline",
+                  "state": {
+                    "file": "Agenda/Daily/2025-10-22 - Wednesday.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2025-10-22 - Wednesday"
                 }
               },
               {
@@ -288,35 +220,12 @@
                   "title": "Topics"
                 }
               }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "bb3515cb27a68804",
-            "type": "tabs",
-            "dimension": 33.33333333333333,
-            "children": [
-              {
-                "id": "2c381be1674b5801",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Customer Relationship Management.md",
-                    "followCursor": true,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline of Customer Relationship Management"
-                }
-              }
             ]
           },
           {
             "id": "d00dfa0430909c65",
             "type": "tabs",
-            "dimension": 26.560424966799467,
+            "dimension": 19.379844961240313,
             "children": [
               {
                 "id": "7e2e19d521bdbcb8",
@@ -406,8 +315,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 282.5,
-        "collapsed": true
+        "width": 282.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -426,8 +334,78 @@
           "notebook-navigator:Notebook Navigator": false
         }
       },
-      "active": "c0d2e3ee52276af7",
-      "mtime": "2025-10-02T15:41:49-04:00"
+      "floating": {
+        "id": "ef606babde8ce14b",
+        "type": "floating",
+        "children": [
+          {
+            "id": "bb3c2f179f615d60",
+            "type": "window",
+            "children": [
+              {
+                "id": "788dfbd2796790d8",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ac0ead39b18cdf48",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Templates/Dataview/Priority Table - All.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Priority Table - All"
+                    }
+                  },
+                  {
+                    "id": "f558d59940b0a4d7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes/Daily/2025-10-14 - Tuesday.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-10-14 - Tuesday"
+                    }
+                  },
+                  {
+                    "id": "74021d2c2d368c22",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Josh Jennings Meetings"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 980,
+            "y": 396,
+            "width": 600,
+            "height": 600,
+            "maximize": true,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "ec17b24283d3e48d",
+      "mtime": "2025-10-22T12:02:18-04:00"
     },
     "NSDFC": {
       "main": {
@@ -437,7 +415,7 @@
           {
             "id": "2dd2dbdb78d7b718",
             "type": "tabs",
-            "dimension": 20.618293306080737,
+            "dimension": 18.90625,
             "children": [
               {
                 "id": "f546c27ba07e3835",
@@ -459,7 +437,7 @@
           {
             "id": "0cc9169724e8784b",
             "type": "tabs",
-            "dimension": 20.618293306080737,
+            "dimension": 35.9765625,
             "children": [
               {
                 "id": "e612cf129509a402",
@@ -481,7 +459,7 @@
           {
             "id": "6b599c42cae7fa06",
             "type": "tabs",
-            "dimension": 29.381706693919263,
+            "dimension": 15.742187499999998,
             "children": [
               {
                 "id": "bf17de55d681f8bf",
@@ -503,7 +481,7 @@
           {
             "id": "4838bcb58ba311dc",
             "type": "tabs",
-            "dimension": 29.381706693919263,
+            "dimension": 29.375,
             "children": [
               {
                 "id": "5cba2a4d6e2f7c49",
@@ -587,7 +565,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 297.5
+        "width": 297.5,
+        "collapsed": true
       },
       "right": {
         "id": "5beeb383e9f6f6b8",
@@ -655,7 +634,7 @@
           {
             "id": "bb3515cb27a68804",
             "type": "tabs",
-            "dimension": 50.2906976744186,
+            "dimension": 50.29069767441861,
             "children": [
               {
                 "id": "2c381be1674b5801",
@@ -787,8 +766,8 @@
           "notebook-navigator:Notebook Navigator": false
         }
       },
-      "active": "e612cf129509a402",
-      "mtime": "2025-10-16T07:27:21-04:00"
+      "active": "f546c27ba07e3835",
+      "mtime": "2025-10-16T11:02:41-04:00"
     },
     "Developers": {
       "main": {
@@ -845,7 +824,7 @@
                 }
               },
               {
-                "id": "97b8e2d021dc6059",
+                "id": "23beb0f7269bbe3b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -875,18 +854,18 @@
                 }
               },
               {
-                "id": "a8c3786490699973",
+                "id": "5c6400eb95e45876",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
+                    "file": "Sushchnosti/Delta Desk/Documentation/Internal/Team Members.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Josh Jennings Meetings"
+                  "title": "Team Members"
                 }
               }
             ]
@@ -952,12 +931,11 @@
                   "title": "Notebook Navigator"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 602.5,
+        "width": 277.5,
         "collapsed": true
       },
       "right": {
@@ -975,10 +953,10 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "Notes/Daily/2025-10-14 - Tuesday.md"
+                    "file": "Sushchnosti/Delta Desk/Documentation/Developers/Bao Notes.md"
                   },
                   "icon": "lucide-info",
-                  "title": "File properties for 2025-10-14 - Tuesday"
+                  "title": "File properties for Bao Notes"
                 }
               },
               {
@@ -1034,13 +1012,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Notes/Daily/2025-10-14 - Tuesday.md",
+                    "file": "Sushchnosti/Delta Desk/Documentation/Developers/Bao Notes.md",
                     "followCursor": true,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of 2025-10-14 - Tuesday"
+                  "title": "Outline of Bao Notes"
                 }
               }
             ]
@@ -1048,7 +1026,7 @@
           {
             "id": "d00dfa0430909c65",
             "type": "tabs",
-            "dimension": 26.560424966799463,
+            "dimension": 26.560424966799467,
             "children": [
               {
                 "id": "7e2e19d521bdbcb8",
@@ -1138,7 +1116,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 282.5,
+        "width": 474.5,
         "collapsed": true
       },
       "left-ribbon": {
@@ -1159,8 +1137,324 @@
         }
       },
       "active": "3af335e2693765bc",
-      "mtime": "2025-10-16T07:28:38-04:00"
+      "mtime": "2025-10-21T21:18:36-04:00"
+    },
+    "Orical": {
+      "main": {
+        "id": "c5fee91b40f9f9d3",
+        "type": "split",
+        "children": [
+          {
+            "id": "e5680e5d3f680622",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b1deb9533dcf7b92",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sushchnosti/Orical/Website.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Website"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1956913001b07153",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d104c0868c93e27f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sushchnosti/FIN Searches/Application/Application.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Application"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "35ecc913854d3f80",
+        "type": "split",
+        "children": [
+          {
+            "id": "eee998b7c4bb6bdf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "221e327906bd4012",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "980d5f268cc23e98",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#ClickUp",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "97cd48c6949d8a98",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "99883151aba50a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "notebook-navigator",
+                  "state": {},
+                  "icon": "notebook",
+                  "title": "Notebook Navigator"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 649.5
+      },
+      "right": {
+        "id": "5beeb383e9f6f6b8",
+        "type": "split",
+        "children": [
+          {
+            "id": "59525e51d6ee8ee3",
+            "type": "tabs",
+            "dimension": 40.1062416998672,
+            "children": [
+              {
+                "id": "b0e1251cf497eb39",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Sushchnosti/Orical/Website.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Website"
+                }
+              },
+              {
+                "id": "b4d2507032b50c9d",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-google-calendar",
+                  "state": {},
+                  "icon": "lucide-calendar",
+                  "title": "Google Calendar"
+                }
+              },
+              {
+                "id": "5684304d91c51e68",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Dataview/Unfinished tasks in note.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Unfinished tasks in note"
+                }
+              },
+              {
+                "id": "778131103ac97a03",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Dataview/Topics.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Topics"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bb3515cb27a68804",
+            "type": "tabs",
+            "dimension": 33.33333333333333,
+            "children": [
+              {
+                "id": "2c381be1674b5801",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Sushchnosti/Orical/Website.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Website"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d00dfa0430909c65",
+            "type": "tabs",
+            "dimension": 26.560424966799467,
+            "children": [
+              {
+                "id": "7e2e19d521bdbcb8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "6502466cd265a798",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequencyReverse",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "9ae7a8d6e3e0746e",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Customer Relationship Management.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "72c6daff3a986617",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Agenda/Daily/2025-08-07 - Thursday.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2025-08-07 - Thursday"
+                }
+              },
+              {
+                "id": "6152dbdc3ca34bd9",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "NuGet Package Manager.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from NuGet Package Manager"
+                }
+              },
+              {
+                "id": "ef08a1998cd5e123",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "advanced-tables-toolbar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 474.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "command-palette:Open command palette": true,
+          "markdown-importer:Open format converter": true,
+          "templater-obsidian:Templater": false,
+          "obsidian-custom-frames:Open Google Calendar": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "oz-clear-unused-images:Clear Unused Images": false,
+          "daily-notes:Open today's daily note": false,
+          "notebook-navigator:Notebook Navigator": false
+        }
+      },
+      "active": "b1deb9533dcf7b92",
+      "mtime": "2025-10-22T08:10:44-04:00"
     }
   },
-  "active": "Developers"
+  "active": "Orical"
 }

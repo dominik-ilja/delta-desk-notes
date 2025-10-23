@@ -30,12 +30,14 @@ Contact Frequency: Every week
 Last Contacted: 2025-09-06
 Last Response: 2025-09-06
 Type: Mennesker
-Last Updated: October 2, 2025, at 3:42 PM
+Last Updated: October 17, 2025, at 3:36 PM
 Contact Types: Text
 Last Contact Type: In Person
 Last Response Type: In Person
 ---
 # Josh Jennings
+
+- reading a book called something like, "Science of Scaling".
 
 He was making around $500,000 at his previous company.
 

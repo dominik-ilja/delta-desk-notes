@@ -149,21 +149,34 @@ const tasks = dv.pages()
 dv.taskList(tasks)
 ```
 
-## To Review
 
-
-
-## Spillover
-
-<span class="placeholder">No tasks</span>
 
 ## General
 
-**Urgent:**
+- [ ] Create templates for asking developers for updates
+- [ ] Review the project for Aiden
+- [ ] Syncing developer work with ClickUp
+- [ ] Project timelines and estimates
+- [ ] Talk to developers about how they're using Git
+- [ ] How to properly do different development environments
+- [ ] Automate setting of custom fields
+- [ ] I'm thinking that the "Ready for Deployment" status should be an "In Progress" status rather than a "Done". The reasoning is that there's still more work to be done.
+- [ ] Get access to V0
+- [ ] [86ac1fqtv – Subtotaling premiums on the website | to do | Josh Jennings](https://app.clickup.com/t/86ac1fqtv), [86ac1ft8x – Automate the price input process | to do | Josh Jennings](https://app.clickup.com/t/86ac1ft8x) - These tasks also apply to the OMS and Visdom not just Carrick Lane.
+- [ ] Tell developers what the "Needs Internal Review" attribute means
 
-<span class="placeholder">No tasks</span>
+- [ ] Things to learn about:
+    - [ ] Learn about options
+        - [ ] XSP/SPX - Size of options
+        - [ ] What are "futures" in regards to options?
+    - [ ] What is an RIA? Is it a registered investment agent?
+    - [ ] MCP Server
+    - [ ] What is our process for doing security ratings?
 
-**High:**
+- [ ] Standardize how we do components
+    - [ ] Table
+        - [ ] Table columns should have a min-width to show all controls
+        - [ ] Remove pagination if all the rows are being shown
 
 - [ ] [[Tasks/Backlog/Task - Create system for sharing work with clients]] [Priority:: High]
 - [ ] Figure out how to answer these questions [Priority:: High]
@@ -174,18 +187,12 @@ dv.taskList(tasks)
 - [ ] How am I going to keep track of the work completed in the week for a client? [Priority:: High]
 - [ ] How will I keep track of what each individual developer is working on [Priority:: High]
 
-**Medium:**
-
 - [ ] [[Tasks/Backlog/Task - Review Notion|Task - Review Notion]] [Priority:: Medium]
 - [ ] [[Tasks/Backlog/Task - Figure out how to manage different schedules of each developer]] [Priority:: Medium]
 - [ ] [[Tasks/Backlog/Task - Creating assets to share with clients for project progress]] [Priority:: Medium]
 - [ ] How to see if ClickUp task is private or not? [Priority:: Medium]
 
-**Low:**
-
 - [ ] Josh will add me to his different subscriptions: Figma, V0, etc. [Priority:: Low]
-
-**None:**
 
 - [ ] Create documentation on how email signature should be done
 - [ ] Move documentation from ClickUp into Obsidian
@@ -209,7 +216,7 @@ dv.taskList(tasks)
     - [ ] List
     - [ ] Folder
     - [ ] Space
-- [ ] How to filter out specific entries in ClickUp so that clients don't see them
+- [x] How to filter out specific entries in ClickUp so that clients don't see them
 - [ ] Get access to the NSDFC Delta Desk Documents
 
 ## Groups
@@ -244,6 +251,23 @@ dv.taskList(tasks)
 ### FIN Searches
 
 - [ ] Look into how we can take advantage of screen spacing at smaller sizes
+- [ ] Terms to learn:
+    - [ ] Private equity
+    - [ ] Private equity manager
+    - [ ] Allocators
+    - [ ] Basis points
+    - [ ] Mandates
+    - [ ] What is a firm?
+    - [ ] Asset class
+    - [ ] What is a plan?
+    - [ ] What is a major/minor strategy?
+    - [ ] What does AuM stand for? - Assets under Management
+    - [ ] Institutional private wealth
+- [ ] Documentation
+    - [ ] RFP - Request for Proposal
+- [ ] `consultant-details/{id}` not filtering properly when he searched for "Denver"
+- [ ] Clearing chat/chat history/starting a new chat
+- [ ] Reach out to Rob Regan about the Infinity search button
 
 
 **Urgent:**
@@ -292,69 +316,37 @@ dv.taskList(tasks)
 
 ### NSDFC
 
-**Urgent:**
-
-<span class="placeholder">No tasks</span>
-
-**High:**
-
+- [ ] Follow-up with NSDFC about this task: https://app.clickup.com/t/86acgv7pc?comment=90130179931669&threadedComment=90130181300273 [Priority:: High]
+- [ ] If a salesperson is not assigned, then our team, Natalie, and Josef will get notified of the call. #Document
+- [ ] Should the whole organization be considered sponsored if it is just the department that is sponsored.
+- [ ] Get on a call with Josef to discuss this issue. Some of the entries in Josef's list were not found in the database. Asking Josef if these entries should be a department of an organization or an organization itself.
+- [ ] He wants confirmation that the mapping is correct before committing to it: https://files.slack.com/files-pri/T05CBUR61FV-F09MKQDGTEU/image.png
+- [ ] Remove unneeded filters
+- [ ] Adding hash for contact files page, so you can refresh and stay on the same tab you were on
+- [ ] Contact ID 10066 has messed up balances
+- [ ] Should a sponsor be the whole organization if it is just the department that is sponsored?
+- [ ] What automations do we have happening within the system?
+- [ ] File type of "Student Loan File" should be "FSA Text File"
+- [ ] Notifications for the Incoming calls should not disappear while the call is inbound. If a call is missed, then it should disappear after a couple minutes.
+- [ ] [[Tasks/Completed/2025/Task - UI & UX enhancements]] ^cyvu77
+---
 - [ ] Setup meetings with NSDFC for maintenance meetings [Priority:: High]
 - [ ] Demo for application. Schedule for next week [Priority:: High]
 - [ ] Look into what Blue Rock is: https://app.clickup.com/t/86ac3x9qq [Priority:: High]
-
-**Medium:**
-
-- [ ] [[Tasks/Backlog/Task - UI & UX enhancements]] ^cyvu77
 - [ ] Figure out what different services they provide [Priority:: Medium]
-
-**Low:**
-
 - [ ] Add process for sending update reports. Should be sent to Josef, Natalie, and Kathleen [Priority:: Low]
+- [ ] Do we need to add the permission to see the servicer password? Who should get these permissions? - Send to client #Todo  
+- [ ] If a salesperson is not assigned, then our team, Natalie, and Josef will get notified of the call. #Document
+- [ ] Create task to specify that forms should not be edited if they are not in a status of "Generated"
+- [ ] Task fix recertification Contact > Recertification tab
 
-**None:**
-
-- [ ] Add info about dropdowns that need added: https://app.clickup.com/t/86aby8dwn [Priority:: High]
 ### Orical
 
-**Urgent:**
 
-<span class="placeholder">No tasks</span>
-
-**High:**
-
-<span class="placeholder">No tasks</span>
-
-**Medium:**
-
-<span class="placeholder">No tasks</span>
-
-**Low:**
-
-<span class="placeholder">No tasks</span>
-
-**None:**
-
-<span class="placeholder">No tasks</span>
 
 ## Projects
 ### OMS
 
-**Urgent:**
-
-<span class="placeholder">No tasks</span>
-
-**High:**
-
-<span class="placeholder">No tasks</span>
-
-**Medium:**
-
-<span class="placeholder">No tasks</span>
-
-**Low:**
-
-<span class="placeholder">No tasks</span>
-
-**None:**
-
-<span class="placeholder">No tasks</span>
+- [ ] Column resizing is resizing every column
+- [ ] Spell out "Electronic Communication Approved"
+- [ ] Should be live by the end of October
