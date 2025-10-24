@@ -1,5 +1,6 @@
 ---
 aliases:
+  - FIN Searches Web Application
 cssclasses:
 tags:
 Related:

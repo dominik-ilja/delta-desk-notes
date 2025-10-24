@@ -18,7 +18,7 @@ Position:
 **Zabelle Aslanian**
 Nicknames: Za, Zaza
 Email: zaslanian@orical.org
-Position: 
+Position: Client Growth Associate
 
 ## Projects
 

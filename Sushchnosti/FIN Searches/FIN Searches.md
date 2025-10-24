@@ -16,7 +16,7 @@ Around 6 million in revenue
 
 ## Projects
 
-- [[Sushchnosti/FIN Searches/Application/Application|Application]]
+- [[Sushchnosti/FIN Searches/Application/Application|FIN Searches Web Application]]
 
 ## Q&A
 
