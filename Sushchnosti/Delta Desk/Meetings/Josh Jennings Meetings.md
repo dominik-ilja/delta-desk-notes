@@ -8,15 +8,14 @@ Date Completed:
 
 # Josh Jennings meetings
 
-- [ ] This question comes from Bao. He was wanting to know how we should proceed with migrating the child pages of admin features:
-      ![[Attachments/Pasted image 20250930080955.png]]
+- [ ] This question comes from Bao. He was wanting to know how we should proceed with migrating the child pages of admin features: ![[Attachments/Pasted image 20250930080955.png]]
 
 ## Tuesday, October 21, 2025
 
 - [x] Bao - https://app.clickup.com/t/86ace9164?comment=90130181119842
 - [x] Vu - https://app.clickup.com/t/86acj1vvb?comment=90130179294475
 - [x] Get access to Sanity [Completed:: 2025-10-21T13:38]
-- [x] Mikhail says that the button click automation is ready #Focus
+- [x] Mikhail says that the button click automation is ready
 - [x] This is ready for you to review - [86acg44xp - Automate Recons - developer review (Carrick Lane)](https://app.clickup.com/t/86acg44xp)
 - [x] Mikhail is unsure of if this is working or not and wanted to check in with you. [86abv6dt2 - Fix Document Export and Check Other Exports - ready to start (FIN Searches - Backlog)](https://app.clickup.com/t/86abv6dt2)
 
