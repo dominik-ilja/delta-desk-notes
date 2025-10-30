@@ -12,6 +12,16 @@ Tasks Complete: 0
 Date Completed:
 ---
 # Mikhail Notes
+## Thursday, October 30, 2025
+### Tasks
+
+### Logs
+#### Meeting at 8:00 AM
+
+Hi, yep, at least one is on my mind, what to do with organizations and sponsors do we need to create a new org records for missing organizations?
+
+Yes, we'll need to do that. Any record that isn't in the record should be created.
+
 ## Tuesday, October 21, 2025
 ### Tasks
 

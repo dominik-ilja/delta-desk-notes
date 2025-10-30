@@ -6,7 +6,6 @@
       {
         "id": "e5680e5d3f680622",
         "type": "tabs",
-        "dimension": 56.986729117876656,
         "children": [
           {
             "id": "d4efe3139aac8c1b",
@@ -14,99 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/Daily/2025-10-29 - Wednesday.md",
+                "file": "Agenda/Daily/2025-10-24 - Friday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-29 - Wednesday"
+              "title": "2025-10-24 - Friday"
             }
           },
           {
-            "id": "5cecef35bc247ca0",
+            "id": "332d666357eaeeba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily/2025-10-29 - Wednesday.md",
+                "file": "Notes/Daily/2025-10-24 - Friday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-29 - Wednesday"
+              "title": "2025-10-24 - Friday"
             }
           },
           {
-            "id": "5a19286cae2e1382",
+            "id": "6f535381cb8247e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md",
+                "file": "Sushchnosti/Delta Desk/Documentation/Developers/Mikhail Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Documentation"
+              "title": "Mikhail Notes"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "500c07ee494b079c",
-        "type": "tabs",
-        "dimension": 43.01327088212334,
-        "children": [
-          {
-            "id": "3f9a7a07b12f1651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Daily/2025-10-28 - Tuesday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-28 - Tuesday"
-            }
-          },
-          {
-            "id": "e032b56e04bb7c30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Josh Jennings Meetings"
-            }
-          },
-          {
-            "id": "d11e22e2ae7c568d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/Daily/2025-10-28 - Tuesday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-28 - Tuesday"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +131,7 @@
       {
         "id": "59525e51d6ee8ee3",
         "type": "tabs",
-        "dimension": 40.1062416998672,
+        "dimension": 40.106241699867205,
         "children": [
           {
             "id": "b0e1251cf497eb39",
@@ -192,10 +139,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md"
+                "file": "Sushchnosti/Delta Desk/Documentation/Developers/Mikhail Notes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Documentation"
+              "title": "File properties for Mikhail Notes"
             }
           },
           {
@@ -243,7 +190,7 @@
       {
         "id": "bb3515cb27a68804",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "2c381be1674b5801",
@@ -251,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md",
+                "file": "Sushchnosti/Delta Desk/Documentation/Developers/Mikhail Notes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Documentation"
+              "title": "Outline of Mikhail Notes"
             }
           }
         ]
@@ -265,7 +212,7 @@
       {
         "id": "d00dfa0430909c65",
         "type": "tabs",
-        "dimension": 26.560424966799467,
+        "dimension": 26.56042496679947,
         "children": [
           {
             "id": "7e2e19d521bdbcb8",
@@ -355,7 +302,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -374,31 +322,28 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "5a19286cae2e1382",
+  "active": "6f535381cb8247e5",
   "lastOpenFiles": [
-    "Notes/Daily/2025-10-29 - Wednesday.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md",
-    "Notes/Daily/2025-10-28 - Tuesday.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management.md",
-    "Attachments/Pasted image 20251029150821.png",
-    "Agenda/Daily/2025-10-29 - Wednesday.md",
-    "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
-    "Templates/Notes/Daily/Agenda.md",
-    "Agenda/Daily/2025-10-28 - Tuesday.md",
-    "Attachments/20251028-1652-05.9927413.mp4",
-    "Attachments/Pasted image 20251028125148.png",
+    "Notes/Daily/2025-10-24 - Friday.md",
+    "Agenda/Daily/2025-10-24 - Friday.md",
     "Agenda/Daily/2025-10-23 - Thursday.md",
+    "Attachments/20251028-1652-05.9927413.mp4",
+    "Attachments/Pasted image 20251029150821.png",
+    "Attachments/Pasted image 20251028125148.png",
+    "Agenda/Daily/2025-10-29 - Wednesday.md",
+    "Agenda/Daily/2025-10-28 - Tuesday.md",
     "Agenda/Daily/2025-10-27 - Monday.md",
     "Agenda/Daily/2025-10-26 - Sunday.md",
     "Agenda/Daily/2025-10-25 - Saturday.md",
-    "Agenda/Daily/2025-10-24 - Friday.md",
     "Sushchnosti/FIN Searches/Application/Application.md",
     "Sushchnosti/FIN Searches/FIN Searches.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management.md",
     "Sushchnosti/Orical/Orical.md",
     "Sushchnosti/Orical/Website.md",
     "Sushchnosti/Omnicia/Omnicia.md",
     "Sushchnosti/Omnicia/Website.md",
     "Sushchnosti/Omnicia",
+    "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
     "Tasks/Completed/2025/Task - Update database with list sent from Josef (86acgav8c).md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Meetings/2025-10-23 - Thursday.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Assets/Q4 - Group Updated Sheet.md",
@@ -407,9 +352,12 @@
     "Sushchnosti/Orical/Meetings/2025-10-22 - Wednesday.md",
     "Sushchnosti/Delta Desk/Documentation/Developers/Mikhail Notes.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Assets",
+    "Sushchnosti/National Student Debt Forgiveness Center/National Student Debt Forgiveness Center.md",
     "Attachments/Pasted image 20251022140943.png",
     "Sushchnosti/Orical/Meetings",
+    "Templates/ClickUp - Email Misc..md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Meetings",
+    "Templates/Dataview/Unfinished tasks in note.md",
     "Sushchnosti/Visdom",
     "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Agendas",
     "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management",
