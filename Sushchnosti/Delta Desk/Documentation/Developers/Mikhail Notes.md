@@ -22,6 +22,13 @@ Hi, yep, at least one is on my mind, what to do with organizations and sponsors 
 
 Yes, we'll need to do that. Any record that isn't in the record should be created.
 
+---
+
+We have Production, QA, and Dev environments. Not enough space in the elastic pool.
+
+- Bring up to Josh about the storage space running out in the elastic pool when trying to copy Production to QA.
+- Map page in FIN Searches
+
 ## Tuesday, October 21, 2025
 ### Tasks
 

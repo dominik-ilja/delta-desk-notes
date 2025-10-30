@@ -72,9 +72,9 @@ This table is the "History" tab within the `/dashboard/contacts/{id}` page.
 
 <span class="placeholder">No Description</span>
 
-### dbo.client
+### ==dbo.client==
 
-<span class="placeholder">No Description</span>
+I'm not sure where this came from.
 
 ### dbo.ConsolidationLoans
 
