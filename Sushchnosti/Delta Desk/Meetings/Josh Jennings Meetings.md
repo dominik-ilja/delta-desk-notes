@@ -1,14 +1,15 @@
 ---
-Complete: false
+Complete: true
 Tasks: 59
-Tasks Remaining: 1
-Tasks Complete: 58
-Date Completed:
+Tasks Remaining: 0
+Tasks Complete: 59
+Date Completed: 2025-10-29
 ---
 
 # Josh Jennings meetings
+## Wednesday, October 29, 2025
 
-- [ ] This question comes from Bao. He was wanting to know how we should proceed with migrating the child pages of admin features: ![[Attachments/Pasted image 20250930080955.png]]
+- [x] This question comes from Bao. He was wanting to know how we should proceed with migrating the child pages of admin features: ![[Attachments/Pasted image 20250930080955.png]]
 
 ## Tuesday, October 21, 2025
 

@@ -19,6 +19,461 @@ NSDFC makes money through performing various services for people. These services
     - https://deltadesk.sharepoint.com/:x:/s/SoftwareDevelopment/EenEBkj4sT1AqyUXspKweSgBi-7FcJC4QdyauEM1EP3w-g?e=ycFq53 
     - https://deltadesk.sharepoint.com/:x:/s/NSDFC-DeltaDesk/EdYF1wbOfmBAnKBpnVKCt-EBwCwdEJ1qT4KrLTV2uKCs9g?rtime=8jFML4b13Ug 
 
+## Database
+### bluerock.RequestLog
+
+<span class="placeholder">No Description</span>
+
+### dbo_.EFMigrationsHistory
+
+This table is created by the .NET Entity Framework package.
+
+### dbo.ActivityLogs
+
+This table is the "History" tab within the `/dashboard/contacts/{id}` page.
+
+### dbo.AGIPercentFactors
+
+<span class="placeholder">No Description</span>
+
+### dbo.Appointments
+
+<span class="placeholder">No Description</span>
+
+### dbo.Appointments_Backup250617
+
+<span class="placeholder">No Description</span>
+
+### dbo.ApptOriginTypeOptions
+
+<span class="placeholder">No Description</span>
+
+### dbo.AutomationLogs
+
+<span class="placeholder">No Description</span>
+
+### dbo.AutomationRequests
+
+<span class="placeholder">No Description</span>
+
+### dbo.AutomationRules
+
+<span class="placeholder">No Description</span>
+
+### dbo.BoroughTypeOptions
+
+<span class="placeholder">No Description</span>
+
+### dbo.CallHistory
+
+<span class="placeholder">No Description</span>
+
+### dbo.ChatServUsers
+
+<span class="placeholder">No Description</span>
+
+### dbo.client
+
+<span class="placeholder">No Description</span>
+
+### dbo.ConsolidationLoans
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactCallRecordings
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactEmployers
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactEmployers_250625
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactFiles
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactForms
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactHistory
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactLoanServicers
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactLoanServicersTmp
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactNotes
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactReferrals
+
+<span class="placeholder">No Description</span>
+
+### dbo.Contacts
+
+This is the main contacts table. It is basically a 1-to-1 mapping of the `/dashboard/contacts/{id}` profile tab.
+
+I noticed that they have an `OrganizationCode` column. This should be in the `Organizations` table.
+
+### dbo.Contacts_Backup250627
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactServices
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactStatuses
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactStatuses_250826
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactStatuses_Backup
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContactTypeOptions
+
+<span class="placeholder">No Description</span>
+
+### dbo.ContractReceivedClients_Temp
+
+<span class="placeholder">No Description</span>
+
+### dbo.Departments
+
+<span class="placeholder">No Description</span>
+
+### dbo.DevContactFiles
+
+<span class="placeholder">No Description</span>
+
+### dbo.devPaymentProfiles
+
+<span class="placeholder">No Description</span>
+
+### dbo.draft_plan
+
+<span class="placeholder">No Description</span>
+
+### dbo.EmailJobs
+
+<span class="placeholder">No Description</span>
+
+### dbo.EmailSignatures
+
+This contains the different email signatures. I don't
+
+### dbo.EmailTemplates
+
+This contains the various email templates that can be sent out. This is edited on the `/dashboard/settings` page.
+
+### dbo.EmailTemplates_Backup250617
+
+<span class="placeholder">No Description</span>
+
+### dbo.Employers
+
+<span class="placeholder">No Description</span>
+
+### dbo.Forbearance
+
+<span class="placeholder">No Description</span>
+
+### dbo.Forms
+
+<span class="placeholder">No Description</span>
+
+### dbo.FormsToConvert
+
+<span class="placeholder">No Description</span>
+
+### dbo.FSAFiles
+
+<span class="placeholder">No Description</span>
+
+### dbo.FSALoans
+
+<span class="placeholder">No Description</span>
+
+### dbo.FSAUploads
+
+<span class="placeholder">No Description</span>
+
+### dbo.FSAUploadsTest
+
+<span class="placeholder">No Description</span>
+
+### dbo.GlobalSettings
+
+<span class="placeholder">No Description</span>
+
+### dbo.LeadtracAppointmentFix
+
+<span class="placeholder">No Description</span>
+
+### dbo.ListImports
+
+<span class="placeholder">No Description</span>
+
+### dbo.LoanServicerOptions
+
+<span class="placeholder">No Description</span>
+
+### dbo.mapped_workflow_history
+
+<span class="placeholder">No Description</span>
+
+### dbo.MissingDocuments
+
+<span class="placeholder">No Description</span>
+
+### dbo.NoteCategories
+
+<span class="placeholder">No Description</span>
+
+### dbo.NoteCategoriesNorm
+
+<span class="placeholder">No Description</span>
+
+### dbo.NoteTemplates
+
+<span class="placeholder">No Description</span>
+
+### dbo.OrganizationDepartments
+
+<span class="placeholder">No Description</span>
+
+### dbo.Organizations
+
+<span class="placeholder">No Description</span>
+
+### dbo.PaymentPlans
+
+<span class="placeholder">No Description</span>
+
+### dbo.PaymentPlansBackup250617
+
+<span class="placeholder">No Description</span>
+
+### dbo.PaymentProfiles
+
+<span class="placeholder">No Description</span>
+
+### dbo.Payments
+
+<span class="placeholder">No Description</span>
+
+### dbo.PaymentsBackup250617
+
+<span class="placeholder">No Description</span>
+
+### dbo.Permissions
+
+<span class="placeholder">No Description</span>
+
+### dbo.PersonalReferences
+
+<span class="placeholder">No Description</span>
+
+### dbo.PovertyTable
+
+<span class="placeholder">No Description</span>
+
+### dbo.ProcessPaymentLogItems
+
+<span class="placeholder">No Description</span>
+
+### dbo.ProcessPaymentLogs
+
+<span class="placeholder">No Description</span>
+
+### dbo.ProgramTypes
+
+<span class="placeholder">No Description</span>
+
+### dbo.Recertifications
+
+<span class="placeholder">No Description</span>
+
+### dbo.reference
+
+<span class="placeholder">No Description</span>
+
+### dbo.ReferralTypeOptions
+
+<span class="placeholder">No Description</span>
+
+### dbo.Reminders
+
+<span class="placeholder">No Description</span>
+
+### dbo.Services
+
+<span class="placeholder">No Description</span>
+
+### dbo.ServiceWorkflows
+
+<span class="placeholder">No Description</span>
+
+### dbo.SignDocument
+
+<span class="placeholder">No Description</span>
+
+### dbo.SmsHistory
+
+<span class="placeholder">No Description</span>
+
+### dbo.SmsJobs
+
+<span class="placeholder">No Description</span>
+
+### dbo.SponsorTypes
+
+<span class="placeholder">No Description</span>
+
+### dbo.StandardRepaymentPeriod
+
+<span class="placeholder">No Description</span>
+
+### dbo.StatusJobs
+
+<span class="placeholder">No Description</span>
+
+### dbo.sysdiagrams
+
+<span class="placeholder">No Description</span>
+
+### dbo.TableSettings
+
+<span class="placeholder">No Description</span>
+
+### dbo.TempOrg
+
+<span class="placeholder">No Description</span>
+
+### dbo.TempQuote
+
+<span class="placeholder">No Description</span>
+
+### dbo.tmpWorkflowStepMap
+
+<span class="placeholder">No Description</span>
+
+### dbo.TriggerRules
+
+<span class="placeholder">No Description</span>
+
+### dbo.UFTFormSubmissions
+
+<span class="placeholder">No Description</span>
+
+### dbo.UserDepartments
+
+<span class="placeholder">No Description</span>
+
+### dbo.UserPermissions
+
+<span class="placeholder">No Description</span>
+
+### dbo.Users
+
+<span class="placeholder">No Description</span>
+
+### dbo.UserToChatServUser
+
+<span class="placeholder">No Description</span>
+
+### dbo.vw_allservices
+
+<span class="placeholder">No Description</span>
+
+### dbo.vw_allservices_missingprogram
+
+<span class="placeholder">No Description</span>
+
+### dbo.vw_appointments
+
+<span class="placeholder">No Description</span>
+
+### dbo.vw_assignee
+
+<span class="placeholder">No Description</span>
+
+### dbo.vw_miscellaneous
+
+<span class="placeholder">No Description</span>
+
+### dbo.vw_personal_information
+
+<span class="placeholder">No Description</span>
+
+### dbo.vw_personal_information_stag
+
+<span class="placeholder">No Description</span>
+
+### dbo.vw_workflow_history
+
+<span class="placeholder">No Description</span>
+
+### dbo.vw_workflow_history_stag
+
+<span class="placeholder">No Description</span>
+
+### dbo.Workflows
+
+<span class="placeholder">No Description</span>
+
+### dbo.WorkflowSteps
+
+<span class="placeholder">No Description</span>
+
+### dbo.ZipToCity
+
+<span class="placeholder">No Description</span>
+
+### dbo.zz_tmpWorkflowStepMap
+
+<span class="placeholder">No Description</span>
+
+### dbo.zzzCampaigns
+
+<span class="placeholder">No Description</span>
+
+### dbo.zzzLoanServicerOptionsLuke
+
+<span class="placeholder">No Description</span>
+
+### dbo.zzzOrganizations
+
+<span class="placeholder">No Description</span>
+
+### dbo.zzzSponsorDepartments
+
+<span class="placeholder">No Description</span>
+
+### dbo.zzzSponsorMembers
+
+<span class="placeholder">No Description</span>
+
+### dbo.zzzSponsors
+
+<span class="placeholder">No Description</span>
+
 ## Permissions
 
 ```sql

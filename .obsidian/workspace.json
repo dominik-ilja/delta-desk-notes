@@ -6,7 +6,7 @@
       {
         "id": "e5680e5d3f680622",
         "type": "tabs",
-        "dimension": 39.296875,
+        "dimension": 56.986729117876656,
         "children": [
           {
             "id": "d4efe3139aac8c1b",
@@ -14,21 +14,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/Daily/2025-10-28 - Tuesday.md",
+                "file": "Agenda/Daily/2025-10-29 - Wednesday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-28 - Tuesday"
+              "title": "2025-10-29 - Wednesday"
+            }
+          },
+          {
+            "id": "5cecef35bc247ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Daily/2025-10-29 - Wednesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-29 - Wednesday"
+            }
+          },
+          {
+            "id": "5a19286cae2e1382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Documentation"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "500c07ee494b079c",
         "type": "tabs",
-        "dimension": 60.703125,
+        "dimension": 43.01327088212334,
         "children": [
           {
             "id": "3f9a7a07b12f1651",
@@ -58,6 +89,21 @@
               },
               "icon": "lucide-file",
               "title": "Josh Jennings Meetings"
+            }
+          },
+          {
+            "id": "d11e22e2ae7c568d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/Daily/2025-10-28 - Tuesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-28 - Tuesday"
             }
           }
         ]
@@ -146,10 +192,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sushchnosti/Orical/Website.md"
+                "file": "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Website"
+              "title": "File properties for Documentation"
             }
           },
           {
@@ -205,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sushchnosti/Orical/Website.md",
+                "file": "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Website"
+              "title": "Outline of Documentation"
             }
           }
         ]
@@ -309,8 +355,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5,
-    "collapsed": true
+    "width": 474.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -329,13 +374,19 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "3f9a7a07b12f1651",
+  "active": "5a19286cae2e1382",
   "lastOpenFiles": [
+    "Notes/Daily/2025-10-29 - Wednesday.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md",
+    "Notes/Daily/2025-10-28 - Tuesday.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management.md",
+    "Attachments/Pasted image 20251029150821.png",
+    "Agenda/Daily/2025-10-29 - Wednesday.md",
+    "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
+    "Templates/Notes/Daily/Agenda.md",
+    "Agenda/Daily/2025-10-28 - Tuesday.md",
     "Attachments/20251028-1652-05.9927413.mp4",
     "Attachments/Pasted image 20251028125148.png",
-    "Agenda/Daily/2025-10-28 - Tuesday.md",
-    "Notes/Daily/2025-10-28 - Tuesday.md",
-    "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
     "Agenda/Daily/2025-10-23 - Thursday.md",
     "Agenda/Daily/2025-10-27 - Monday.md",
     "Agenda/Daily/2025-10-26 - Sunday.md",
@@ -343,7 +394,6 @@
     "Agenda/Daily/2025-10-24 - Friday.md",
     "Sushchnosti/FIN Searches/Application/Application.md",
     "Sushchnosti/FIN Searches/FIN Searches.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management.md",
     "Sushchnosti/Orical/Orical.md",
     "Sushchnosti/Orical/Website.md",
     "Sushchnosti/Omnicia/Omnicia.md",
@@ -357,12 +407,9 @@
     "Sushchnosti/Orical/Meetings/2025-10-22 - Wednesday.md",
     "Sushchnosti/Delta Desk/Documentation/Developers/Mikhail Notes.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Assets",
-    "Sushchnosti/National Student Debt Forgiveness Center/National Student Debt Forgiveness Center.md",
     "Attachments/Pasted image 20251022140943.png",
     "Sushchnosti/Orical/Meetings",
-    "Templates/ClickUp - Email Misc..md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Meetings",
-    "Templates/Dataview/Unfinished tasks in note.md",
     "Sushchnosti/Visdom",
     "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management/Agendas",
     "Sushchnosti/National Student Debt Forgiveness Center/Projects/Customer Relationship Management",
@@ -374,8 +421,6 @@
     "Attachments/Pasted image 20251016162044.png",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation",
     "Attachments/Pasted image 20251015103232.png",
-    "Attachments/Pasted image 20251015102740.png",
-    "Sushchnosti/Delta Desk/Documentation/Developers",
-    "Attachments/Pasted image 20251002080159.png"
+    "Attachments/Pasted image 20251015102740.png"
   ]
 }
