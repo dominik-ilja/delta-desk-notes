@@ -5,6 +5,30 @@ Related:
   - "[[Sushchnosti/FIN Searches/FIN Searches|FIN Searches]]"
 ---
 # FIN Searches - Meetings
+## Friday, October 31, 2025
+
+- [86acq3b4v – Dropdown options are not being filtered for the "Investment Strategy" | complete | Mostofa Reza](https://app.clickup.com/t/86acq3b4v)
+    - Fixed the bug where the investment strategies filter weren't getting narrowed down in the "/documents-search" page . This was a bug reported by Matt Poremba.
+- [86aakpj54 – Add a toggle ON RIA firm Search | complete | Mostofa Reza, Bao Do Van](https://app.clickup.com/t/86aakpj54)
+    - Added the "Any or All Firm Types" filter in the "/firm-search", "/firm-holding", and "/contact-search" pages. This was requested by Matt Poremba.
+- [86acm7y7t – Make updates to "Firm Aliases and Affiliates" section in "/firm-details/{id}" page | complete | Vu Nguyen](https://app.clickup.com/t/86acm7y7t)
+    - Renamed the "Firm Aliases and Affiliates" to "Teams and Affiliates". Renamed the "Alias Name" column to "Team/Affiliate Name". Prevent duplicate team/affiliate names to be created.
+
+
+- [86abzqg5w – Add "Minority Owned" data to data.finsearches | complete | Vu Nguyen](https://app.clickup.com/t/86abzqg5w)
+    - 
+- [86abzqfv9 – Add "Acquired by..." to data.finsearches | complete | Vu Nguyen](https://app.clickup.com/t/86abzqfv9)
+    - Added the "Acquired by" label to the left card in the "/manager-details\{id}" page.
+- [86acj629z – Fix overlapping controls in the firm-details page | complete | Zulqarnain Niazi](https://app.clickup.com/t/86acj629z)
+    - Fixed controls that were overlapping with the heading in the "Contacts" section in the "/firm-details/{id}" page.
+- [86ac7pr1x – Infinity search button | complete | Mostofa Reza](https://app.clickup.com/t/86ac7pr1x)
+    - Added the Infinity search button to the "/plan-details/{id}" page. This is only accessible by admins.
+- [86acr2p84 – Add captcha for the forms at v1 | complete | Mikhail](https://app.clickup.com/t/86acr2p84)
+    - Added the re-captcha to the finsearches.com website
+- Thumbnails URL 
+---
+- Follow-up with Matt McCue
+
 ## Friday, October 17, 2025
 
 - Moved different admin permissions to current site 

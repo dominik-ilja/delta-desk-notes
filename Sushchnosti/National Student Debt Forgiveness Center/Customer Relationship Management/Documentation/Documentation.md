@@ -176,7 +176,7 @@ I noticed that they have an `OrganizationCode` column. This should be in the `Or
 
 ### dbo.EmailSignatures
 
-This contains the different email signatures. I don't
+This contains the different email signatures. This was a table for a feature that was later dropped according to Bao.
 
 ### dbo.EmailTemplates
 
@@ -398,45 +398,9 @@ This contains the various email templates that can be sent out. This is edited o
 
 <span class="placeholder">No Description</span>
 
-### dbo.vw_allservices
-
-<span class="placeholder">No Description</span>
-
-### dbo.vw_allservices_missingprogram
-
-<span class="placeholder">No Description</span>
-
-### dbo.vw_appointments
-
-<span class="placeholder">No Description</span>
-
-### dbo.vw_assignee
-
-<span class="placeholder">No Description</span>
-
-### dbo.vw_miscellaneous
-
-<span class="placeholder">No Description</span>
-
-### dbo.vw_personal_information
-
-<span class="placeholder">No Description</span>
-
-### dbo.vw_personal_information_stag
-
-<span class="placeholder">No Description</span>
-
-### dbo.vw_workflow_history
-
-<span class="placeholder">No Description</span>
-
-### dbo.vw_workflow_history_stag
-
-<span class="placeholder">No Description</span>
-
 ### dbo.Workflows
 
-<span class="placeholder">No Description</span>
+This table correlates to the workflows of the system. A workflow is a top-level categorization within the CRM.
 
 ### dbo.WorkflowSteps
 
@@ -444,7 +408,7 @@ This contains the various email templates that can be sent out. This is edited o
 
 ### dbo.ZipToCity
 
-<span class="placeholder">No Description</span>
+This table is for mapping a Zip code to a city and state. This is for a feature that auto-fills inputs.
 
 ### dbo.zz_tmpWorkflowStepMap
 
