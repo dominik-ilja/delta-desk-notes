@@ -12,6 +12,10 @@ Type: Index
 ## Top Priorities
 
 - Page loading speed (October 21, 2025)
+- Application performance/load speeds
+- Movement of all admin features to data.finsearches
+- Consistency and responsiveness
+- Security and updating login
 
 ## Sites
 

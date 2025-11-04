@@ -1,12 +1,22 @@
 ---
 Complete: true
-Tasks: 59
+Tasks: 65
 Tasks Remaining: 0
-Tasks Complete: 59
-Date Completed: 2025-10-29
+Tasks Complete: 65
+Date Completed: 2025-11-04
 ---
 
 # Josh Jennings meetings
+
+Mozilla Observability and NPM packages
+
+- [x] How do we test websites for security? What would be our checklist that we'd do for each project?
+- [x] You mentioned before that you had some priorities for NSDFC. What are they?
+- [x] Is there a way to run only the query my cursor is in for MS SQL Server? I can highlight the text, but in other SQL flavors I can just be in the query to run only that query.
+- [x] Aiden - Is the Figma done and is the contract finalized or how close is to that closing?
+- [x] We have some tasks in the backlog for NYM FCU. We were to reach back out to them. I can reach out to them. I'd just need to know who I'm contacting. I'd use Mostofa/Zulqarnain to handle the front end tasks. We'd want to also send them an invoice for hosting, offer to fix email and DNS hosting, and test their HTTP headers.
+- [x] Do we do anything for the fact sheets that Passaic puts out?
+
 ## Wednesday, October 29, 2025
 
 - [x] This question comes from Bao. He was wanting to know how we should proceed with migrating the child pages of admin features: ![[Attachments/Pasted image 20250930080955.png]]

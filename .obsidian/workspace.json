@@ -6,6 +6,7 @@
       {
         "id": "f7bc6313f59901c3",
         "type": "tabs",
+        "dimension": 43.59375,
         "children": [
           {
             "id": "332d666357eaeeba",
@@ -13,13 +14,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily/2025-11-03 - Monday.md",
+                "file": "Notes/Daily/2025-11-04 - Tuesday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-03 - Monday"
+              "title": "2025-11-04 - Tuesday"
+            }
+          },
+          {
+            "id": "d2d325c3201e9b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Documentation"
             }
           }
         ]
@@ -27,39 +43,84 @@
       {
         "id": "be6a38d5548de1f6",
         "type": "tabs",
+        "dimension": 56.40625,
         "children": [
-          {
-            "id": "a0a864c13b751184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Daily/2025-10-31 - Friday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-31 - Friday"
-            }
-          },
           {
             "id": "21d2bc55594a0a40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/Daily/2025-11-03 - Monday.md",
+                "file": "Agenda/Daily/2025-11-04 - Tuesday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-03 - Monday"
+              "title": "2025-11-04 - Tuesday"
+            }
+          },
+          {
+            "id": "e0de3779d9346f63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Josh Jennings Meetings"
+            }
+          },
+          {
+            "id": "ddab9277338f2076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Customer Relationship Management"
+            }
+          },
+          {
+            "id": "82144a432d5620bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Customer Relationship Management"
+            }
+          },
+          {
+            "id": "ced9663e2791ee9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/FIN Searches/Application/Application.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Application"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -330,15 +391,24 @@
   },
   "active": "332d666357eaeeba",
   "lastOpenFiles": [
+    "Agenda/Daily/2025-11-04 - Tuesday.md",
     "Agenda/Daily/2025-11-03 - Monday.md",
-    "Notes/Daily/2025-11-03 - Monday.md",
+    "Notes/Daily/2025-11-04 - Tuesday.md",
     "Sushchnosti/FIN Searches/Application/Application.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/National Student Debt Forgiveness Center.md",
+    "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
+    "Sushchnosti/Passaic Partners/Passaic Partners.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md",
+    "Attachments/Pasted image 20251104092438.png",
+    "Sushchnosti/Passaic Partners",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/nsdfc_report.md",
+    "Notes/Daily/2025-11-03 - Monday.md",
     "Agenda/Daily/2025-10-31 - Friday.md",
     "Notes/Daily/2025-10-31 - Friday.md",
     "Notes/Daily/2025-11-01 - Saturday.md",
     "Notes/Daily/2025-11-02 - Sunday.md",
     "Sushchnosti/Orical/Website.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md",
     "Sushchnosti/Delta Desk/Documentation/Developers/Mikhail Notes.md",
     "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md",
     "Templates/ClickUp - Email Misc..md",
@@ -347,16 +417,9 @@
     "Templates/Dataview/Priority Table.md",
     "Agenda/Daily/2025-10-30 - Thursday.md",
     "Notes/Daily/2025-10-30 - Thursday.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management.md",
     "Attachments/Pasted image 20251030104950.png",
     "Agenda/Daily/2025-10-29 - Wednesday.md",
     "Agenda/Daily/2025-10-28 - Tuesday.md",
-    "Agenda/Daily/2025-10-27 - Monday.md",
-    "Agenda/Daily/2025-10-26 - Sunday.md",
-    "Agenda/Daily/2025-10-25 - Saturday.md",
-    "Agenda/Daily/2025-10-24 - Friday.md",
-    "Notes/Daily/2025-10-29 - Wednesday.md",
-    "Notes/Daily/2025-10-28 - Tuesday.md",
     "Attachments/20251028-1652-05.9927413.mp4",
     "Attachments/Pasted image 20251029150821.png",
     "Attachments/Pasted image 20251028125148.png",
@@ -373,8 +436,6 @@
     "Attachments/Pasted image 20251017165917.png",
     "Attachments/Pasted image 20251017110616.png",
     "Attachments/Pasted image 20251017100733.png",
-    "Attachments/Pasted image 20251016162044.png",
-    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation",
-    "Attachments/Pasted image 20251015103232.png"
+    "Attachments/Pasted image 20251016162044.png"
   ]
 }

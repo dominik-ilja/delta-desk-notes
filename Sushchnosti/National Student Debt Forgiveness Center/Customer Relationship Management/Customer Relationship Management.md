@@ -11,6 +11,16 @@ Type: Index
 
 The NSDFC CRM is a replacement to their old system, LeadTrac.
 
+## Top Priorities
+
+- Recertifications
+- Making the application have more guardrails to prevent bad data
+- Simplifying the user experience
+- Fixing existing data
+- Documenting how the software works
+- Data integrity
+- Data conversion issues
+
 ## Project Stack
 
 **Frontend:** React with Next.js
@@ -23,6 +33,7 @@ We use some additional services:
 - PDF Service #Todo - Allows viewing of PDFs
 - Calendly - https://calendly.com/ - For appointment scheduling
 - QuestPDF - 
+- Authorize.net
 
 ## Sites
 

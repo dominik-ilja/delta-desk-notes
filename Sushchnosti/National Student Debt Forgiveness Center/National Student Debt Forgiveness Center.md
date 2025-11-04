@@ -51,11 +51,10 @@ john@nsdfcgroup.com
 josef@nsdfcgroup.com
 kanako@nsdfcgroup.com
 kathleen@nsdfcgroup.com
+nmangano@nsdfcgroup.com
 natalie@nsdfcgroup.com
 samantha@nsdfcgroup.com
 yhenry@nsdfcgroup.com
 yramirez@nsdfcgroup.com
-
-Bulk email that Josh sent:
-
-"Josh Jennings" <josh@deltadesk.com>; "josef" <josef@nsdfcgroup.com>; "Natalie Luongo" <natalie@nsdfcgroup.com>; "John DiGregorio" <John@nsdfcgroup.com>; "Anthony Manza" <Anthony@nsdfcgroup.com>; "Kathleen Kenney" <Kathleen@nsdfcgroup.com>; "Kanako Iino" <Kanako@nsdfcgroup.com>; "Emily Jones" <Emily@nsdfcgroup.com>; "Dylan Harris" <Dylan@nsdfcgroup.com>; "Jacqueline Carr" <Jackie@nsdfcgroup.com>; "Joey Gaviola" <JoeyG@nsdfcgroup.com>; "Jessica Affe" <Jessica@nsdfcgroup.com>; "Samantha Woerner" <Samantha@nsdfcgroup.com>; "Yasmine Henry" <yhenry@nsdfcgroup.com>; "Yosselyn Ramirez" <yramirez@nsdfcgroup.com>; "Michael Squillante" <MSquillante@nsdfcgroup.com>
+---
+msquillante@nsdfcgroup.com
