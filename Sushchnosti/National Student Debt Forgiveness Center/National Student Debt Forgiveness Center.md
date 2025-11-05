@@ -9,7 +9,7 @@ Type: Index
 ---
 # National Student Debt Forgiveness Center
 
-NSDFC is a student loan repayment program consulting company that helps borrowers reduce or eliminate student loan debt through federal programs. 
+NSDFC is a student loan repayment program consulting company that helps borrowers reduce or eliminate student loan debt through federal programs. NSDFC will prepare federal forms for individuals on their behalf for a fee. The majority of the services that they offer relate to federal programs. However, they do have some other services like consulting.
 
 Bill is the "Big Boss" of NSDFC. He own's a law firm that works with unions.
 Natalie started NSDFC. Bill bought out Natalie, but kept her as a consultant.

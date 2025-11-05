@@ -2,7 +2,8 @@
 aliases:
 cssclasses:
 tags:
-Related: []
+Related:
+  - "[[Sushchnosti/National Student Debt Forgiveness Center/National Student Debt Forgiveness Center|National Student Debt Forgiveness Center]]"
 Sources: []
 Type: Documentation
 ---
@@ -437,6 +438,60 @@ This table is for mapping a Zip code to a city and state. This is for a feature 
 ### dbo.zzzSponsors
 
 <span class="placeholder">No Description</span>
+
+## Services
+
+A service is a unit of work that NSDFC will do. The different services are defined in the `dbo.Services`. Most of the services that NSDFC does is related to filing federal forms on an individual's behalf.
+
+- **Consolidation** - Merges one or more student loans into one direct consolidation loan. [Source](https://studentaid.gov/manage-loans/consolidation)
+- **Double Consolidation** - Double consolidation is when a borrower consolidates their Parent PLUS loans twice in order to create a new Direct Loan that is eligible for all available IDR plans and Public Service Loan Forgiveness (PSLF). [Source](https://protectborrowers.org/double-consolidation-for-a-limited-time-a-way-for-parent-plus-borrowers-to-get-on-the-save-plan/)
+- PSLF Backtracking
+- IDR Backtracking
+- IDR Recalculation
+- Rehabilitation
+- Title 1 Forgiveness
+- Disability Discharge - [Source](https://studentaid.gov/manage-loans/forgiveness-cancellation/disability-discharge)
+- Annual Recertification – IDR Only
+- Annual Recertification with PSLF
+- Consultation
+- Unknown
+- Change of Repayment - 
+- Re-Activation fee - What is this?
+
+Services related to federal programs:
+
+- Annual Recertification – IDR Only
+- Annual Recertification with PSLF
+- Change of Repayment
+- Consolidation
+- Consultation
+- Disability Discharge
+- Double Consolidation
+- IDR Backtracking
+- IDR Recalculation
+- PSLF Backtracking
+- Re-Activation fee
+- Rehabilitation
+- Title 1 Forgiveness
+- Unknown
+
+There are certain federal programs that require you to update your income and family size every year. This is called "recertifying" your plan. These recertifications typically happen with Income Driven Repayment (IDR) programs that base your payments on your income.
+
+The Public Service Loan Forgiveness (PSLF) is a program that requires you to make 120 qualifying payments. It is recommended to submit the PSLF form every year to ensure that you're making qualifying payments. However, it isn't a requirement. For this reason, NSDFC offers an "Annual Recertification with PSLF" service to automatically resubmit the PSLF form each year. 
+
+- https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service/public-service-loan-forgiveness-application
+- https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service/public-service-loan-forgiveness-buyback
+
+
+---
+
+The different forms are located in the `Forms` table of the database.
+
+A service can be purchased, but the form used may differ.
+
+Group Advantage Agreement - Is a form that outlines the timeframe for a service that was chosen, what the service will do to the individuals debt, the payment schedule, and some other things. 
+
+UFT Service Agreement - An agreement that is specifically for people who are a part of the "United Federation of Teachers" or UFT.
 
 ## Permissions
 
