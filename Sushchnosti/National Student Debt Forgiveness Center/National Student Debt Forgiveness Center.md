@@ -14,6 +14,8 @@ NSDFC is a student loan repayment program consulting company that helps borrower
 Bill is the "Big Boss" of NSDFC. He own's a law firm that works with unions.
 Natalie started NSDFC. Bill bought out Natalie, but kept her as a consultant.
 
+https://nationalstudentdebtforgivenesscenter.com/
+
 ## SharePoint Folders
 
 This section is in relation to the [Clients/National Student Debt Forgiveness Center]([Software Development - Documents - National Student Debt Forgiveness Center - All Documents](https://deltadesk.sharepoint.com/sites/SoftwareDevelopment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSoftwareDevelopment%2FShared%20Documents%2FClients%2FNational%20Student%20Debt%20Forgiveness%20Center&viewid=399b4dd2%2Da874%2D4ee7%2D8a5c%2D6a5937827150)) folder within SharePoint.
@@ -30,14 +32,80 @@ This section is in relation to the [Clients/National Student Debt Forgiveness Ce
 
 ## People
 
-- Kathleen
-    - Accounting
-- Emily
-    - Recertifications
-- John
-    - Accounting
-- Natalie
-    - ?
+**Anthony Manza**
+Department: Sales
+Email: anthony@nsdfcgroup.com
+Position: Student Loan Consultant
+
+**Dylan Harris**
+Department: Sales
+Email: dylan@nsdfcgroup.com
+Position: ?
+
+**Emily Jones**
+Department: Recertifications 
+Email: emily@nsdfcgroup.com
+Position: Student Loan Support Specialist
+
+**Jacqueline Carr**
+Department:
+Email: jackie@nsdfcgroup.com
+Position:
+
+**Jessica Affe**
+Department: 
+Email: jessica@nsdfcgroup.com
+Position: 
+
+**Joey Gaviola**
+Department:
+Email: joeyg@nsdfcgroup.com
+Position:
+
+**John DiGregorio**
+Department: Accounting
+Email: john@nsdfcgroup.com
+Position: 
+
+**Josef Basmagy**
+Department: All
+Email: josef@nsdfcgroup.com
+Position: Director
+
+**Kanako Lino**
+Department: 
+Email: kanako@nsdfcgroup.com
+Position: 
+
+**Kathleen Kenney**
+Department: 
+Email: kathleen@nsdfcgroup.com
+Position: Accounting
+
+**?**
+Department: 
+Email: nmangano@nsdfcgroup.com
+Position: 
+
+**Natalie Luongo**
+Department: Marketing
+Email: natalie@nsdfcgroup.com
+Position: Head of marketing
+
+**Samantha Woerner**
+Department: 
+Email: samantha@nsdfcgroup.com
+Position: 
+
+**Yasmine Henry**
+Department: 
+Email: yhenry@nsdfcgroup.com
+Position: 
+
+**Yosselyn Ramirez**
+Department: 
+Email: yramirez@nsdfcgroup.com
+Position: 
 
 ## Emails
 

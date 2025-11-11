@@ -11,16 +11,6 @@ Type: Index
 
 The NSDFC CRM is a replacement to their old system, LeadTrac.
 
-## Top Priorities
-
-- Recertifications
-- Making the application have more guardrails to prevent bad data
-- Simplifying the user experience
-- Fixing existing data
-- Documenting how the software works
-- Data integrity
-- Data conversion issues
-
 ## Project Stack
 
 **Frontend:** React with Next.js
@@ -29,7 +19,7 @@ The NSDFC CRM is a replacement to their old system, LeadTrac.
 
 We use some additional services:
 
-- Bluerock - https://www.1bluerock.com/site/
+- Bluerock - https://www.1bluerock.com/site/ - A contact center service. When people call in, the calls can be routed to the appropriate representative.
 - PDF Service #Todo - Allows viewing of PDFs
 - Calendly - https://calendly.com/ - For appointment scheduling
 - QuestPDF - 
@@ -52,6 +42,10 @@ I'm unsure of what these are for, but they have NSDFC in their name:
 - [https://github.com/delta-desk/NSDFCCallbacks](https://github.com/delta-desk/NSDFCCallbacks)
 - [https://github.com/delta-desk/NSDFC_Parser](https://github.com/delta-desk/NSDFC_Parser)
 - _[https://github.com/delta-desk/NSDFC-Domain](https://github.com/delta-desk/NSDFC-Domain)I last updated these times on Wednesday, September 10, 2025_
+
+## Processes
+
+When sending updates, we can send them to the whole team. You can find the emails here: [[Sushchnosti/National Student Debt Forgiveness Center/National Student Debt Forgiveness Center#Emails|NSDFC People]]
 
 ## References
 

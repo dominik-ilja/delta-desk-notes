@@ -18,6 +18,31 @@ Around 6 million in revenue
 
 - [[Sushchnosti/FIN Searches/Application/Application|FIN Searches Web Application]]
 
+## People
+
+**Gar Chung**
+Email: gchung@fin-news.com
+Position: Co-owner
+
+**Gene Dilinsky**
+Email: gdolinsky@finsearches.com
+Position:
+
+**Rob Regan**
+Email: rob@fin-news.com
+
+**Matt McCue**
+Email: mmccue@fin-news.com
+Position: Co-owner
+
+**Matt Poremba**
+Email: mporemba@fin-news.com
+Position: 
+
+## Procedures
+
+When sending out updates, we should send the email to the following people: gchung@fin-news.com, gdolinsky@finsearches.com, mmccue@fin-news.com, rob@fin-news.com
+
 ## Q&A
 
 ## Concepts & Terms

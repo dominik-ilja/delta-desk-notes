@@ -1,12 +1,47 @@
 ---
 Complete: true
-Tasks: 65
+Tasks: 73
 Tasks Remaining: 0
-Tasks Complete: 65
-Date Completed: 2025-11-04
+Tasks Complete: 73
+Date Completed: 2025-11-10
 ---
 
 # Josh Jennings meetings
+## Monday, November 10, 2025
+
+He found issues with 
+
+Aiden whoever is working on it will have like 5 days for the first 3 pages. 
+
+Carrick Lane calculations need to be perfect. They didn't spend a lot of time for the individual 
+
+Dale Carnegie
+
+Never split the difference
+
+influence book
+
+
+
+## Thursday, November 6, 2025
+
+- [x] What would be a good email to use for sending notifications to NSDFC about replies to notes?
+
+## Wednesday, November 5, 2025
+
+- [x] Let him know that Flora isn't licensed for PA
+- [x] What changes do you need to make to the universal search?
+    - [x] Automation of updating of search index. When a record is updated on the site, then 
+    - [x] Relevancy of the dates when doing certain searches it would focus on more recent documents
+    - [x] Summaries
+- [x] What exactly is Bluerock?
+- [x] Working with Josef to understand how NSDFC's services and the programs relate to each other.
+
+Calendly does a round robin for NSDFC. Speaking with Calendly support on the different issue.
+
+Bluerock is a call center service or phone sales people. It allows them to route to correct representative, it records the calls, and it can include other logic. You can add in a bunch of phone numbers and it'll call all of them. When someone actually picks-up, it'll alert you. Mikhail is the guy to go to for bluerock.
+
+## Tuesday, November 4, 2025
 
 Mozilla Observability and NPM packages
 

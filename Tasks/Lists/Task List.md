@@ -194,29 +194,13 @@ dv.taskList(tasks)
 
 - [ ] Josh will add me to his different subscriptions: Figma, V0, etc. [Priority:: Low]
 
-- [ ] Create documentation on how email signature should be done
-- [ ] Move documentation from ClickUp into Obsidian
-    - [x] Dominik's space [Completed:: 2025-09-30T19:25]
-    - [x] Delta Desk [Completed:: 2025-09-30]
-        - [x] Delta Desk - Wiki [Completed:: 2025-09-30]
-        - [x] Project Management [Completed:: 2025-09-30T19:45]
-        - [x] Software [Completed:: 2025-09-30T19:45]
-    - [x] FIN Searches - Wiki [Completed:: 2025-09-30T19:50]
-    - [ ] NSDFC - Wiki
-- [ ] We need to figure out a way to see what ClickUp items
+- [ ] Create documentation on how email signature should be done [Priority:: None]
+
 - [ ] Look into these shirts: https://www.charlestyrwhitt.com/us/mens-shirts/classic-fit+slim-fit/?prefn1=iron&prefv1=Yes&ppr=4&tib=TIB-text-shirts-ss23&isFiltersHidden=false
 - [ ] Get professional headshots taken
 - [ ] How could we sync GitHub commits with ClickUp tasks
 - [ ] How could we start to standardize our components?
     - [ ] What makes a good table?
-- [ ] Access to Fireflies
-- [ ] Updates to healthcare plan
-- [ ] Generate templates for ClickUp
-    - [ ] List View
-    - [ ] List
-    - [ ] Folder
-    - [ ] Space
-- [x] How to filter out specific entries in ClickUp so that clients don't see them
 - [ ] Get access to the NSDFC Delta Desk Documents
 
 ## Groups
@@ -226,27 +210,8 @@ dv.taskList(tasks)
 
 ### Delta Desk
 
-**Urgent:**
-
-<span class="placeholder">No tasks</span>
-
-**High:**
-
-<span class="placeholder">No tasks</span>
-
-
-**Medium:**
-
-<span class="placeholder">No tasks</span>
-
-**Low:**
-
 - [ ] Add notes about Zoom login and email [Priority:: Low]
 - [ ] Bao would like me to review things another time when it is in production [Priority:: Low]
-
-**None:**
-
-<span class="placeholder">No tasks</span>
 
 ### FIN Searches
 
@@ -267,78 +232,33 @@ dv.taskList(tasks)
     - [ ] RFP - Request for Proposal
 - [ ] `consultant-details/{id}` not filtering properly when he searched for "Denver"
 - [ ] Clearing chat/chat history/starting a new chat
-- [ ] Reach out to Rob Regan about the Infinity search button
-
-
-**Urgent:**
-
-<span class="placeholder">No tasks</span>
-
-
-**High:**
-
-<span class="placeholder">No tasks</span>
-
-**Medium:**
-
-<span class="placeholder">No tasks</span>
-
-**Low:**
-- [ ] Add process for sending update reports. Should be sent to Gar Chung, Gene Dilinsky, and Rob Regan [Priority:: Low]
-
-**None:**
-
-<span class="placeholder">No tasks</span>
-
-
-### NEOS
-
-**Urgent:**
-
-<span class="placeholder">No tasks</span>
-
-**High:**
-
-<span class="placeholder">No tasks</span>
-
-**Medium:**
-
-<span class="placeholder">No tasks</span>
-
-**Low:**
-
-<span class="placeholder">No tasks</span>
-
-**None:**
-
-<span class="placeholder">No tasks</span>
-
 
 ### NSDFC
 
-- [ ] [[Tasks/Completed/2025/Task - Update database with list sent from Josef (86acgav8c)]]
+- Main focuses
+    - Recertifications
+    - Making the application have more guardrails to prevent bad data
+    - Simplifying the user experience
+    - Fixing existing data
+    - Documenting how the software works
+    - Data integrity
+    - Data conversion issues
+    - Allowing users to do things so we don't have do them
+
+---
 - [ ] Follow-up with NSDFC about this task: https://app.clickup.com/t/86acgv7pc?comment=90130179931669&threadedComment=90130181300273 [Priority:: High]
 - [ ] If a salesperson is not assigned, then our team, Natalie, and Josef will get notified of the call. #Document
-- [ ] Should the whole organization be considered sponsored if it is just the department that is sponsored.
-- [ ] Get on a call with Josef to discuss this issue. Some of the entries in Josef's list were not found in the database. Asking Josef if these entries should be a department of an organization or an organization itself.
-- [ ] He wants confirmation that the mapping is correct before committing to it: https://files.slack.com/files-pri/T05CBUR61FV-F09MKQDGTEU/image.png
 - [ ] Remove unneeded filters
 - [ ] Adding hash for contact files page, so you can refresh and stay on the same tab you were on
 - [ ] Contact ID 10066 has messed up balances
 - [ ] Should a sponsor be the whole organization if it is just the department that is sponsored?
 - [ ] What automations do we have happening within the system?
-- [ ] File type of "Student Loan File" should be "FSA Text File"
 - [ ] Notifications for the Incoming calls should not disappear while the call is inbound. If a call is missed, then it should disappear after a couple minutes.
-- [ ] [[Tasks/Completed/2025/Task - UI & UX enhancements]] ^cyvu77
 ---
 - [ ] Setup meetings with NSDFC for maintenance meetings [Priority:: High]
 - [ ] Demo for application. Schedule for next week [Priority:: High]
-- [ ] Look into what Blue Rock is: https://app.clickup.com/t/86ac3x9qq [Priority:: High]
-- [ ] Figure out what different services they provide [Priority:: Medium]
-- [ ] Add process for sending update reports. Should be sent to Josef, Natalie, and Kathleen [Priority:: Low]
 - [ ] Do we need to add the permission to see the servicer password? Who should get these permissions? - Send to client #Todo  
 - [ ] If a salesperson is not assigned, then our team, Natalie, and Josef will get notified of the call. #Document
-- [ ] Create task to specify that forms should not be edited if they are not in a status of "Generated"
 - [ ] Task fix recertification Contact > Recertification tab
 
 ### Orical

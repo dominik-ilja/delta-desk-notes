@@ -7,6 +7,7 @@ Related:
 Sources: []
 Type: Documentation
 ---
+
 # Documentation
 
 - What are the high level concepts we need to understand about the organization/project?
@@ -17,15 +18,67 @@ NSDFC makes money through performing various services for people. These services
 
 - [List of what Bao created](https://docs.google.com/spreadsheets/d/1_pr02AbDeXAwz5F7z2ew5fKFrIQCfshKqcXYpnW41f8/edit?gid=0#gid=0)
 - Documents from Luke:
-    - https://deltadesk.sharepoint.com/:x:/s/SoftwareDevelopment/EenEBkj4sT1AqyUXspKweSgBi-7FcJC4QdyauEM1EP3w-g?e=ycFq53 
-    - https://deltadesk.sharepoint.com/:x:/s/NSDFC-DeltaDesk/EdYF1wbOfmBAnKBpnVKCt-EBwCwdEJ1qT4KrLTV2uKCs9g?rtime=8jFML4b13Ug 
+  - https://deltadesk.sharepoint.com/:x:/s/SoftwareDevelopment/EenEBkj4sT1AqyUXspKweSgBi-7FcJC4QdyauEM1EP3w-g?e=ycFq53
+  - https://deltadesk.sharepoint.com/:x:/s/NSDFC-DeltaDesk/EdYF1wbOfmBAnKBpnVKCt-EBwCwdEJ1qT4KrLTV2uKCs9g?rtime=8jFML4b13Ug
+
+### Forms
+#### Group Advantage Agreement
+
+When a Group Advantage Agreement is signed and the service is a recertification, the following statuses are created for the contact:
+
+- Sales
+    - Contract Received
+- Processing
+    - New File To Process
+- Recertification
+    - Contract Received
+    - New File To Process
+
+When a Group Advantage Agreement is signed and the service **IS NOT** a recertification, the following statuses are created for the contact:
+
+- Sales
+    - Contract Received
+- Processing
+    - New File To Process
+
+#### NSDFC Loan Watch Agreement
+
+When an NSDFC Loan Watch agreement is signed, the following workflow statuses are created for the contact:
+
+- Recertification workflow
+    - New Recert File To Process
+    - Contract Received
+
+#### UFT Service Agreement
+
+When a UFT Service Agreement is signed and the service is a recertification, the following statuses are created for the contact:
+
+- Sales
+    - Contract Received
+- Processing
+    - New File To Process
+- Recertification
+    - Contract Received
+    - New File To Process
+
+When a UFT Service Agreement is signed and the service **IS NOT** a recertification, the following statuses are created for the contact:
+
+- Sales
+    - Contract Received
+- Processing
+    - New File To Process
+
+### Workflows
+
+The different automations that are attached to workflow steps are defined in the `/dashboard/settings` page under the "System Automations" tab.
 
 ## Database
+
 ### bluerock.RequestLog
 
 <span class="placeholder">No Description</span>
 
-### dbo_.EFMigrationsHistory
+### dbo\_.EFMigrationsHistory
 
 This table is created by the .NET Entity Framework package.
 
@@ -455,7 +508,7 @@ A service is a unit of work that NSDFC will do. The different services are defin
 - Annual Recertification with PSLF
 - Consultation
 - Unknown
-- Change of Repayment - 
+- Change of Repayment -
 - Re-Activation fee - What is this?
 
 Services related to federal programs:
@@ -477,11 +530,10 @@ Services related to federal programs:
 
 There are certain federal programs that require you to update your income and family size every year. This is called "recertifying" your plan. These recertifications typically happen with Income Driven Repayment (IDR) programs that base your payments on your income.
 
-The Public Service Loan Forgiveness (PSLF) is a program that requires you to make 120 qualifying payments. It is recommended to submit the PSLF form every year to ensure that you're making qualifying payments. However, it isn't a requirement. For this reason, NSDFC offers an "Annual Recertification with PSLF" service to automatically resubmit the PSLF form each year. 
+The Public Service Loan Forgiveness (PSLF) is a program that requires you to make 120 qualifying payments. It is recommended to submit the PSLF form every year to ensure that you're making qualifying payments. However, it isn't a requirement. For this reason, NSDFC offers an "Annual Recertification with PSLF" service to automatically resubmit the PSLF form each year.
 
 - https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service/public-service-loan-forgiveness-application
 - https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service/public-service-loan-forgiveness-buyback
-
 
 ---
 
@@ -489,7 +541,7 @@ The different forms are located in the `Forms` table of the database.
 
 A service can be purchased, but the form used may differ.
 
-Group Advantage Agreement - Is a form that outlines the timeframe for a service that was chosen, what the service will do to the individuals debt, the payment schedule, and some other things. 
+Group Advantage Agreement - Is a form that outlines the timeframe for a service that was chosen, what the service will do to the individuals debt, the payment schedule, and some other things.
 
 UFT Service Agreement - An agreement that is specifically for people who are a part of the "United Federation of Teachers" or UFT.
 
@@ -528,33 +580,33 @@ A "Notice of Cancellation" must have two pages. This is a compliance rule.
 ---
 
 **From Bao:**
-I'll try to answer as much as possible, based on my knowledge. but I believe these are related to business logic mostly, right? Luke should have more detailed views for you  
+I'll try to answer as much as possible, based on my knowledge. but I believe these are related to business logic mostly, right? Luke should have more detailed views for you
 
 - What is a sponsor in relation to an Organization?
-    - in our system, we only know which person is a sponsor of an Organization. we don't use it anywhere. so it's just kind of information
+  - in our system, we only know which person is a sponsor of an Organization. we don't use it anywhere. so it's just kind of information
 - What is a contact within our system?
 - What is a "File"?
-    - Contact and File are the same, I believe. basically, NSDFC is a system related to consulting / assistance services for people with student loans, helping them understand and apply for **student loan forgiveness, repayment plans, consolidations.** when a person applies to any programs, we'll create a Contact record ("File") for him/her and the client (NSDFC staff) will do some processes for that Contact - "File"
+  - Contact and File are the same, I believe. basically, NSDFC is a system related to consulting / assistance services for people with student loans, helping them understand and apply for **student loan forgiveness, repayment plans, consolidations.** when a person applies to any programs, we'll create a Contact record ("File") for him/her and the client (NSDFC staff) will do some processes for that Contact - "File"
 - What is forbearance?
-    - Forbearance is a temporary pause or reduction in required payments that the system allows a Contact, usually because the Contact is experiencing financial hardship.
+  - Forbearance is a temporary pause or reduction in required payments that the system allows a Contact, usually because the Contact is experiencing financial hardship.
 - What is a servicer?
-    - the company that manages Contact's loan on a day-to-day basis
+  - the company that manages Contact's loan on a day-to-day basis
 - What is the dummy contact ID we use?
-    - here is my dummy contact: 17214
-    - Luke's dummy contact 17179
-    - you probably can create a dummy for your own. but let's confirm with Luke
+  - here is my dummy contact: 17214
+  - Luke's dummy contact 17179
+  - you probably can create a dummy for your own. but let's confirm with Luke
 - What is a workflow?
-    - firstly, I think you should know NSDFC has some departments and each department will be responsible for some processes that I mentioned above. a workflow is a step that reflects what is going on with a Contact (File). for example, when a Contact is created, the Intake department will have an appointment with that Contact to discuss something and in our system, there is a status that will be created under Intake workflow to help us know that progress. when Intake finishs the appoitment, they will request a FSAFile, a new status will be created - FSA request, etc.
+  - firstly, I think you should know NSDFC has some departments and each department will be responsible for some processes that I mentioned above. a workflow is a step that reflects what is going on with a Contact (File). for example, when a Contact is created, the Intake department will have an appointment with that Contact to discuss something and in our system, there is a status that will be created under Intake workflow to help us know that progress. when Intake finishs the appoitment, they will request a FSAFile, a new status will be created - FSA request, etc.
 - What is a recertification?
-    - we have some concepts that are related to "Recertification" - recertification services, recertifications, etc.. but I'm not really familiar with them. sorry I can't provide more information for this question
+  - we have some concepts that are related to "Recertification" - recertification services, recertifications, etc.. but I'm not really familiar with them. sorry I can't provide more information for this question
 - What does the number for "Age of Status" represent?
-    - it's the number of days between the Date Created of a status and today
+  - it's the number of days between the Date Created of a status and today
 
 ---
 
-#Todo 
+#Todo
 
-The task this was pulled from: https://app.clickup.com/t/86abz6255 ^sljeuh 
+The task this was pulled from: https://app.clickup.com/t/86abz6255 ^sljeuh
 
 I created this file. I'll write down the automation information
 [https://docs.google.com/spreadsheets/d/1_pr02AbDeXAwz5F7z2ew5fKFrIQCfshKqcXYpnW41f8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1_pr02AbDeXAwz5F7z2ew5fKFrIQCfshKqcXYpnW41f8/edit?usp=sharing)
