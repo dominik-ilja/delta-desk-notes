@@ -21,8 +21,6 @@ Never split the difference
 
 influence book
 
-
-
 ## Thursday, November 6, 2025
 
 - [x] What would be a good email to use for sending notifications to NSDFC about replies to notes?
