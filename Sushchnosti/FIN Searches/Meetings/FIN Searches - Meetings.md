@@ -7,8 +7,6 @@ Related:
 # FIN Searches - Meetings
 ## Friday, November 14, 2025
 
-
-
 - [86ad4z7v2 – Push both the user activity from the finsearches and data.finsearches into the FS activity for Salesforce | complete | Mikhail](https://app.clickup.com/t/86ad4z7v2)
 - [86ad6kbu5 – Update FS Activity for logged in user | complete | Not assigned](https://app.clickup.com/t/86ad6kbu5)
 - [86acan7jm – Implement "Create Contact Using LinkedIn" | complete | Vu Nguyen](https://app.clickup.com/t/86acan7jm)
