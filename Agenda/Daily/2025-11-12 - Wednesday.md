@@ -1,0 +1,44 @@
+---
+Complete: false
+Tasks: 16
+Tasks Remaining: 16
+Tasks Complete: 0
+Date Completed:
+Last Updated: November 12, 2025, at 7:24 PM
+File Size: 1.22 KB
+aliases: []
+cssclasses:
+  - full_width
+tags: []
+Related:
+  - "[[/Notes/Daily/2025-11-12 - Wednesday]]"
+---
+# Wednesday, November 12, 2025
+
+[[/Agenda/Yearly/2025|2025]] ❯ [[/Agenda/Quarterly/2025 - Q4|Q4]] ❯ [[/Agenda/Monthly/2025 - November|November]] ❯ [[/Agenda/Weekly/2025 - Week 46|Week 46]]
+
+❮ [[/Agenda/Daily/2025-11-11 - Tuesday|Tuesday, November 11, 2025]] · Wednesday, November 12, 2025 · [[/Agenda/Daily/2025-11-13 - Thursday|Thursday, November 13, 2025]] ❯
+
+## Tasks
+
+[[Task List]] · [[Tasks/Lists/Question List|Question List]] · [[Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings|Josh Jennings Meetings]]
+
+- [ ] Let the developers know I'm online in the morning
+- [ ] Setup tasks
+- [ ] Attend to ClickUp tasks
+- [ ] Attend to ClickUp notifications
+- [ ] Attend to Slack messages
+- [ ] Attend to Slack saved messages
+- [ ] Attend to Teams messages
+- [ ] Attend to email
+- [ ] Review tasks
+- [ ] Create tasks
+- [ ] Communicate with developers
+    - [ ] Bao
+    - [ ] Mikhail
+    - [ ] Mostofa
+    - [ ] Vu
+    - [ ] Zulqarnain
+
+### Complete
+

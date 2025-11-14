@@ -6,7 +6,6 @@
       {
         "id": "ef9b70fc36a45c16",
         "type": "tabs",
-        "dimension": 51.403777437468094,
         "children": [
           {
             "id": "8828ac6f6988bd6d",
@@ -14,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/Daily/2025-11-10 - Monday.md",
+                "file": "Notes/Daily/2025-11-14 - Friday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-10 - Monday"
+              "title": "2025-11-14 - Friday"
+            }
+          },
+          {
+            "id": "365cf48df075b47d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/Daily/2025-11-13 - Thursday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-13 - Thursday"
             }
           },
           {
@@ -37,76 +51,45 @@
               "icon": "lucide-file",
               "title": "Website (November 2025)"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f3ab560ada7604c7",
+        "type": "tabs",
+        "children": [
           {
-            "id": "5bb4b122f934d51d",
+            "id": "d08b9733a4eac90f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing/MS SQL Server/MS SQL Server.md",
+                "file": "Notes/Daily/2025-11-13 - Thursday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MS SQL Server"
+              "title": "2025-11-13 - Thursday"
+            }
+          },
+          {
+            "id": "81b18356c78dd908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/Daily/2025-11-14 - Friday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-14 - Friday"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "abe933a547de8339",
-        "type": "tabs",
-        "dimension": 48.596222562531906,
-        "children": [
-          {
-            "id": "1b547a5edb7fcae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/Weekly/2025 - Week 46.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025 - Week 46"
-            }
-          },
-          {
-            "id": "e0de3779d9346f63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Josh Jennings Meetings"
-            }
-          },
-          {
-            "id": "bdd3ed96f459c2c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Lists/Task List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Task List"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,8 +152,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,10 +173,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Agenda/Weekly/2025 - Week 46.md"
+                "file": "Notes/Daily/2025-11-14 - Friday.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025 - Week 46"
+              "title": "File properties for 2025-11-14 - Friday"
             }
           },
           {
@@ -250,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agenda/Weekly/2025 - Week 46.md",
+                "file": "Notes/Daily/2025-11-14 - Friday.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025 - Week 46"
+              "title": "Outline of 2025-11-14 - Friday"
             }
           }
         ]
@@ -374,17 +356,26 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "1b547a5edb7fcae1",
+  "active": "8828ac6f6988bd6d",
   "lastOpenFiles": [
-    "Computing/MS SQL Server/MS SQL Server.md",
+    "Agenda/Daily/2025-11-13 - Thursday.md",
+    "Notes/Daily/2025-11-14 - Friday.md",
+    "Agenda/Daily/2025-11-14 - Friday.md",
+    "Notes/Daily/2025-11-13 - Thursday.md",
     "Sushchnosti/Aiden/Projects/Website/Website (November 2025).md",
+    "Sushchnosti/FIN Searches/Application/Application.md",
+    "Attachments/Pasted image 20251113072954.png",
+    "Attachments/Pasted image 20251113072802.png",
+    "Agenda/Daily/2025-11-12 - Wednesday.md",
+    "Agenda/Daily/2025-11-11 - Tuesday.md",
+    "Agenda/Daily/2025-11-10 - Monday.md",
+    "Computing/MS SQL Server/MS SQL Server.md",
+    "Agenda/Weekly/2025 - Week 46.md",
     "Sushchnosti/Aiden/Aiden.md",
     "Sushchnosti/Aiden/Projects/Website",
     "Sushchnosti/Aiden/Projects",
     "Sushchnosti/Aiden",
-    "Agenda/Daily/2025-11-10 - Monday.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md",
-    "Agenda/Weekly/2025 - Week 46.md",
     "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
     "Notes/Daily/2025-11-07 - Friday.md",
     "Sushchnosti/National Student Debt Forgiveness Center/National Student Debt Forgiveness Center.md",
@@ -398,14 +389,7 @@
     "Sushchnosti/Passaic Partners/Passaic Partners.md",
     "Sushchnosti/Carrick Lane/Carrick Lane.md",
     "Notes/Daily/2025-11-05 - Wednesday.md",
-    "Agenda/Daily/2025-11-05 - Wednesday.md",
-    "Sushchnosti/Business Technology Partners/Business Technology Partners.md",
-    "Sushchnosti/Business Technology Partners/Website.md",
-    "Sushchnosti/Orical/Orical.md",
-    "Sushchnosti/Orical/Website.md",
     "Sushchnosti/Business Technology Partners",
-    "Sushchnosti/FIN Searches/FIN Searches.md",
-    "Agenda/Daily/2025-11-04 - Tuesday.md",
     "Attachments/Pasted image 20251104092438.png",
     "Sushchnosti/Passaic Partners",
     "Attachments/Pasted image 20251030104950.png",
@@ -419,8 +403,6 @@
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Meetings",
     "Attachments/Pasted image 20251017165946.png",
     "Attachments/Pasted image 20251017165917.png",
-    "Attachments/Pasted image 20251017110616.png",
-    "Attachments/Pasted image 20251017100733.png",
-    "Attachments/Pasted image 20251016162044.png"
+    "Attachments/Pasted image 20251017110616.png"
   ]
 }
