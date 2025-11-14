@@ -1,0 +1,69 @@
+# FIN Searches Report (November 9, 2025 to November 15, 2025)
+- **86ad7tg97 - When viewing the mandates within a fund under the performance section, the sort button does not sort correctly. - complete**
+    - No description
+- **86ad6kbu5 - Update FS Activity for logged in user - complete**
+    - No description
+- **86ad55m1u - FS Activity Link only goes to old site - ready for deployment**
+    - No description
+- **86ad55j4m - FS Activity - complete**
+    - No description
+- **86ad502gt - Create a new map search page - complete**
+    - No description
+- **86ad4z7v2 - Push both the user activity from the finsearches and data.finsearches into the FS activity for Salesforce - complete**
+    - No description
+- **86ad4wnv5 - Comparison chart is going blank - complete**
+    - No description
+- **86ad3urcp - charts are not showing for any fixed income fund in the performance metrics section - complete**
+    - No description
+- **86ad3u1fm - Detail pages should always have a description - complete**
+    - No description
+- **86ad3hxf8 - Manage Search index on update\insert - complete**
+    - No description
+- **86ad2y0kd - Limit rows per page to 500 - complete**
+    - No description
+- **86ad2wp52 - mandate dates are default sorting from oldest to newest on consultant and manager pages - complete**
+    - Updated the consultant details page to display the newest mandates first. We investigated the manager page and didn't see an issue with the sorting.
+- **86ad1zn3f - general investment consultant not showing up in plan search - complete**
+    - No description
+- **86ad0tdc3 - Verify Mom - Firm Contacts - complete**
+    - No description
+- **86ad0t76w - Verify Consultant Contacts - complete**
+    - No description
+- **86ad0nzty - Implement CRUD for Consultant details -> Offices - complete**
+    - No description
+- **86ad0e04n - User isn't receiving daily document email - complete**
+    - No description
+- **86aczratz - File Export activity - complete**
+    - No description
+- **86aczpcny - New Map search endpoint - complete**
+    - No description
+- **86acyatcc - Create search box - complete**
+    - No description
+- **86acw9k95 - Allow Edit Allocation - complete**
+    - No description
+- **86acv9bba - Remove Manager Roster action - complete**
+    - No description
+- **86acv9aw2 - Verify Plan Contacts/Consultant/Allocation action - complete**
+    - No description
+- **86acrc06v - Update "Fees" section in manager-details page - complete**
+    - Added the "Fees" section to the "/manager-details/{id}" page.
+- **86acrbmhv - Management fee size range filters are not working in the manager fee section - complete**
+    - No description
+- **86acr7xuq - Check the roles and the permissions to access document in old site. Migrate to the v3 site - complete**
+    - No description
+- **86acq36gn - Consultants not linked to their FS profile - complete**
+    - No description
+- **86acp4tqe - Create add/edit plan form on frontend - complete**
+    - No description
+- **86acnj29y - "Highlighting" the sorting direction in table columns - complete**
+    - No description
+- **86acan7jm - Implement "Create Contact Using LinkedIn" - complete**
+    - No description
+- **86ac660mb - Allow Add/Edit Employee - complete**
+    - No description
+- **86ac3x9dg - LinkedIn employeeSearch updates - complete**
+    - No description
+- **86abvbr3b - Inconsistencies with Area codes - complete**
+    - No description
+- **86ab1kb55 - Schedule the SP to run automatically to fix General Consultant Not Showing on Plan Search Page - complete**
+    - No description

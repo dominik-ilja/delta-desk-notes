@@ -5,6 +5,65 @@ Related:
   - "[[Sushchnosti/FIN Searches/FIN Searches|FIN Searches]]"
 ---
 # FIN Searches - Meetings
+## Friday, November 14, 2025
+
+
+
+- [86ad4z7v2 – Push both the user activity from the finsearches and data.finsearches into the FS activity for Salesforce | complete | Mikhail](https://app.clickup.com/t/86ad4z7v2)
+- [86ad6kbu5 – Update FS Activity for logged in user | complete | Not assigned](https://app.clickup.com/t/86ad6kbu5)
+- [86acan7jm – Implement "Create Contact Using LinkedIn" | complete | Vu Nguyen](https://app.clickup.com/t/86acan7jm)
+- [86ac660mb – Allow Add/Edit Employee | complete | Vu Nguyen](https://app.clickup.com/t/86ac660mb)
+- [86acq36gn – Consultants not linked to their FS profile | complete | Vu Nguyen](https://app.clickup.com/t/86acq36gn)
+- [86acr7xuq – Check the roles and the permissions to access document in old site. Migrate to the v3 site | complete | Bao Do Van, Mostofa Reza](https://app.clickup.com/t/86acr7xuq)
+- [86acrc06v – Update "Fees" section in manager-details page | complete | Zulqarnain Niazi](https://app.clickup.com/t/86acrc06v)
+- [86ad4wnv5 – Comparison chart is going blank | complete | Zulqarnain Niazi](https://app.clickup.com/t/86ad4wnv5)
+- [86aczratz – File Export activity | complete | Zulqarnain Niazi, Mikhail](https://app.clickup.com/t/86aczratz)
+- [86ad2y0kd – Limit rows per page to 500 | complete | Zulqarnain Niazi](https://app.clickup.com/t/86ad2y0kd)
+- [86ad3u1fm – Detail pages should always have a description | complete | Vu Nguyen, Mikhail](https://app.clickup.com/t/86ad3u1fm)
+- [86ab1kb55 – Schedule the SP to run automatically to fix General Consultant Not Showing on Plan Search Page | complete | Josh Jennings, Mikhail](https://app.clickup.com/t/86ab1kb55)
+- [86ad55j4m – FS Activity | complete | Mikhail](https://app.clickup.com/t/86ad55j4m)
+- [86acrbmhv – Management fee size range filters are not working in the manager fee section | complete | Mostofa Reza](https://app.clickup.com/t/86acrbmhv)
+- [86abvbr3b – Inconsistencies with Area codes | complete | Mostofa Reza](https://app.clickup.com/t/86abvbr3b)
+- [86ad0nzty – Implement CRUD for Consultant details -> Offices | complete | Zulqarnain Niazi, Vu Nguyen](https://app.clickup.com/t/86ad0nzty)
+- [86ad0t76w – Verify Consultant Contacts | complete | Zulqarnain Niazi](https://app.clickup.com/t/86ad0t76w)
+- [86acp4tqe – Create add/edit plan form on frontend | complete | Vu Nguyen](https://app.clickup.com/t/86acp4tqe)
+- [86acv9aw2 – Verify Plan Contacts/Consultant/Allocation action | complete | Vu Nguyen, Zulqarnain Niazi](https://app.clickup.com/t/86acv9aw2)
+- [86acv9bba – Remove Manager Roster action | complete | Vu Nguyen, Zulqarnain Niazi](https://app.clickup.com/t/86acv9bba)
+- [86acw9k95 – Allow Edit Allocation | complete | Vu Nguyen, Zulqarnain Niazi](https://app.clickup.com/t/86acw9k95)
+- [86ad0tdc3 – Verify Mom - Firm Contacts | complete | Zulqarnain Niazi](https://app.clickup.com/t/86ad0tdc3)
+- [86aczpcny – New Map search endpoint | complete | Vu Nguyen, Josh Jennings](https://app.clickup.com/t/86aczpcny)
+- [86ad502gt – Create a new map search page | complete | Vu Nguyen, Zulqarnain Niazi](https://app.clickup.com/t/86ad502gt)
+- [86ad7tg97 – When viewing the mandates within a fund under the performance section, the sort button does not sort correctly. | complete | Vu Nguyen](https://app.clickup.com/t/86ad7tg97)
+
+## Friday, November 7, 2025
+
+From last week's meeting, we're aiming to get the following done this week:  
+- 86aaqaf9k - Firms with CRD numbers that don't have 13F data  
+- 86ad4wnv5 - Comparison chart is going blank  
+- 86ad4zc0w - Documents not showing after certain date  
+- 86acq36gn - Consultants not linked to their FS profile  
+- 86acrbmhv - Management fee size range filters are not working in the manager fee section  
+- 86acyatcc - Create search box  
+- 86ad3urcp - charts are not showing for any fixed income fund in the performance metrics section  
+- 86ad2wp52 - mandate dates are default sorting from oldest to newest on consultant and manager pages  
+- 86ad1zn3f - general investment consultant not showing up in plan search  
+- 86aczratz - File Export activity  
+- 86ad2y0kd - Limit rows per page to 500  
+- 86acrc06v - Update "Fees" section in manager-details page  
+- 86ab1kb55 - General Consultant Not Showing on Plan Search Page  
+- 86acnj29y - "Highlighting" the sorting direction in table columns  
+- 86ad3u1fm - Detail pages should always have a description  
+- 86ad4z7v2 - Push both the user activity from the finsearches and data.finsearches into the FS activity for Salesforce  
+- 86ad0e04n - User isn't receiving daily document email  
+- 86aczpcny - New Map search endpoint  
+- 86ad502gt - Create a new map search page
+
+We'll continue on the other long term projects on the side:  
+- 86acbbfbu - FIN Security and Login  
+- 86abz4xmn - Application Migration - Add all features from v1 & v2 to v3  
+- 86acq264d - Consistency and responsiveness across the application  
+- 86acq234t - Page Loading Performance
+
 ## Friday, October 31, 2025
 
 - [86acq3b4v – Dropdown options are not being filtered for the "Investment Strategy" | complete | Mostofa Reza](https://app.clickup.com/t/86acq3b4v)
