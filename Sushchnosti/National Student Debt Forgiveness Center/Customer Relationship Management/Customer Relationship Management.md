@@ -24,6 +24,7 @@ We use some additional services:
 - Calendly - https://calendly.com/ - For appointment scheduling
 - QuestPDF - 
 - Authorize.net
+- ChatServ
 
 ## Sites
 
