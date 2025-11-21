@@ -45,7 +45,7 @@
               "state": {
                 "file": "Agenda/Daily/2025-11-21 - Friday.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -139,10 +139,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sushchnosti/Delta Desk/Documentation/Developers/Mikhail Notes.md"
+                "file": "Agenda/Daily/2025-11-21 - Friday.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Mikhail Notes"
+              "title": "File properties for 2025-11-21 - Friday"
             }
           },
           {
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sushchnosti/Delta Desk/Documentation/Developers/Mikhail Notes.md",
+                "file": "Agenda/Daily/2025-11-21 - Friday.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mikhail Notes"
+              "title": "Outline of 2025-11-21 - Friday"
             }
           }
         ]
@@ -324,8 +324,8 @@
   },
   "active": "9eea9a28eff6022d",
   "lastOpenFiles": [
-    "Sushchnosti/FIN Searches/Application/Application.md",
     "Agenda/Daily/2025-11-21 - Friday.md",
+    "Sushchnosti/FIN Searches/Application/Application.md",
     "Agenda/Daily/2025-11-20 - Thursday.md",
     "Sushchnosti/FIN Searches/FIN Searches.md",
     "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md",
