@@ -32,6 +32,10 @@ FIN Searches has three different versions currently:
     - QA: [http://qadata.finsearches.com](http://qadata.finsearches.com)
     - Development: [https://gentle-moss-01d780c0f-dev.eastus2.1.azurestaticapps.net/](https://gentle-moss-01d780c0f-dev.eastus2.1.azurestaticapps.net/)
 
+## Contacts
+
+- bhimpele@aapryl.com - Backup aapryl contact
+
 ## Ticket Forms
 
 - [Feature Request Form](https://docs.google.com/forms/d/16ReUv_ACv1mJm33VYX8g66VfAsuBQQTYPWrZM5EV7Gg/edit?usp=sharing_eip&ts=68cc312f) - Feature Request Forms

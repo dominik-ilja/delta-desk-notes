@@ -5,6 +5,44 @@ Related:
   - "[[Sushchnosti/FIN Searches/FIN Searches|FIN Searches]]"
 ---
 # FIN Searches - Meetings
+## Friday, November 21, 2025
+
+**Questions:**
+
+- [86ad8mgz1 - Update times of FS activity to be pulled at 11am & 4pm ET - client review (FIN Searches - External Feature Submissions)](https://app.clickup.com/t/86ad8mgz1) - Rob, is the FS activity coming in as expected. Are you seeing any issues with this?
+- [86adadayb - company office HQ updates - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86adadayb) - Can you walk us through what's going on with this?
+
+**Follow-up:**
+
+- [86adaq2nw - New Map Search Updates - internal review (FIN Searches - Backlog)](https://app.clickup.com/t/86adaq2nw)
+
+**Bugs Squashed:**
+
+- [86ada08e7 - individual showing up twice despite no reason why - internal review (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86ada08e7)
+    - For this contact https://ria.finsearches.com/contact/394491, they have two roles with the same name.
+- [86ada0vpe - Firm information isn't populating edit modal for contact - ready for deployment (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86ada0vpe)
+    - This was updated - https://ria.finsearches.com/contact/911103
+- [86adaf3j0 - user activity needs time stamp - ready for deployment (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86adaf3j0)
+    - The timestamp for user activity just needs to be pushed.
+- [86ad7cde3 - Investigate profile - client review (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86ad7cde3)
+    - The departure date is now there. Mikhail worked on this.
+
+**Admin Features:**
+
+- [86acv9b22 – Edit Box document path action | ready for deployment | Vu Nguyen](https://app.clickup.com/t/86acv9b22)
+- [86acxaaxy – Add Document to Manager Roster | ready for deployment | Vu Nguyen](https://app.clickup.com/t/86acxaaxy)
+- [86acxab6t – Download Document | ready for deployment | Vu Nguyen](https://app.clickup.com/t/86acxab6t)
+- [86ad7p6g2 – Video preview image not showing in video gallery | ready for deployment | Bao Do Van, Mikhail](https://app.clickup.com/t/86ad7p6g2)
+
+**Next week:**
+
+- [86adb3jyf - Form D automated report of new filings - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86adb3jyf)
+- [86ad8n092 - Global search input improvement - to do (FIN Searches - External Feature Submissions)](https://app.clickup.com/t/86ad8n092)
+    - I want to work with Rob the coming week on this task
+- I want to pay more attention to performance this next week.
+- Mikhail will be out on vacation, so progress may be a bit slower next week.
+
+
 ## Friday, November 14, 2025
 
 - [86ad4z7v2 – Push both the user activity from the finsearches and data.finsearches into the FS activity for Salesforce | complete | Mikhail](https://app.clickup.com/t/86ad4z7v2)
