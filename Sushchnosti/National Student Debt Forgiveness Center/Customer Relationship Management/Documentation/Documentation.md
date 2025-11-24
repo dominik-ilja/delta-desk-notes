@@ -545,6 +545,11 @@ Group Advantage Agreement - Is a form that outlines the timeframe for a service 
 
 UFT Service Agreement - An agreement that is specifically for people who are a part of the "United Federation of Teachers" or UFT.
 
+## Pages
+### /dashboard
+
+- The dashboard statuses only show the "Active" contact statuses.
+
 ## Permissions
 
 ```sql
