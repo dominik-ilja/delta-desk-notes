@@ -7,6 +7,12 @@ Date Completed: 2025-11-10
 ---
 
 # Josh Jennings meetings
+
+- What is institutional data?
+- What is a 930 report/form?
+- I'm going to have Mikhail look into what Gar shared for the CUSIPs
+- 
+
 ## Monday, November 10, 2025
 
 He found issues with 
