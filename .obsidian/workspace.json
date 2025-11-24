@@ -45,15 +45,14 @@
               "state": {
                 "file": "Agenda/Daily/2025-11-21 - Friday.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "2025-11-21 - Friday"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
       {
         "id": "59525e51d6ee8ee3",
         "type": "tabs",
-        "dimension": 40.106241699867205,
+        "dimension": 40.1062416998672,
         "children": [
           {
             "id": "b0e1251cf497eb39",
@@ -190,7 +189,7 @@
       {
         "id": "bb3515cb27a68804",
         "type": "tabs",
-        "dimension": 33.333333333333336,
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "2c381be1674b5801",
@@ -212,7 +211,7 @@
       {
         "id": "d00dfa0430909c65",
         "type": "tabs",
-        "dimension": 26.56042496679947,
+        "dimension": 26.560424966799463,
         "children": [
           {
             "id": "7e2e19d521bdbcb8",
@@ -322,7 +321,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "9eea9a28eff6022d",
+  "active": "1b7dea259d5be0f0",
   "lastOpenFiles": [
     "Agenda/Daily/2025-11-21 - Friday.md",
     "Sushchnosti/FIN Searches/Application/Application.md",
