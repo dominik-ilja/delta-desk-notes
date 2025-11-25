@@ -6,39 +6,47 @@
       {
         "id": "eb36c45e22d3c53c",
         "type": "tabs",
+        "dimension": 51.15546218487395,
         "children": [
           {
-            "id": "1b7dea259d5be0f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "FIN Searches - Meetings"
-            }
-          },
-          {
-            "id": "f14c60264000bb46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sushchnosti/FIN Searches/Application/Application.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Application"
-            }
-          },
-          {
             "id": "9eea9a28eff6022d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/Daily/2025-11-25 - Tuesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-25 - Tuesday"
+            }
+          }
+        ]
+      },
+      {
+        "id": "30281eb8409d2b8a",
+        "type": "tabs",
+        "dimension": 48.844537815126046,
+        "children": [
+          {
+            "id": "014f40b07388db57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Josh Jennings Meetings"
+            }
+          },
+          {
+            "id": "0ce78ff207113968",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,22 +61,7 @@
             }
           },
           {
-            "id": "0e264225634f1d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Daily/2025-11-24 - Monday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-24 - Monday"
-            }
-          },
-          {
-            "id": "db6a304539f9f0e3",
+            "id": "5e334523e10dec3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "5beeb383e9f6f6b8",
@@ -160,7 +154,7 @@
       {
         "id": "59525e51d6ee8ee3",
         "type": "tabs",
-        "dimension": 40.1062416998672,
+        "dimension": 40.106241699867205,
         "children": [
           {
             "id": "b0e1251cf497eb39",
@@ -168,10 +162,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Agenda/Daily/2025-11-25 - Tuesday.md"
+                "file": "Agenda/Weekly/2025 - Week 48.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-11-25 - Tuesday"
+              "title": "File properties for 2025 - Week 48"
             }
           },
           {
@@ -219,7 +213,7 @@
       {
         "id": "bb3515cb27a68804",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "2c381be1674b5801",
@@ -227,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agenda/Daily/2025-11-25 - Tuesday.md",
+                "file": "Agenda/Weekly/2025 - Week 48.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-25 - Tuesday"
+              "title": "Outline of 2025 - Week 48"
             }
           }
         ]
@@ -241,7 +235,7 @@
       {
         "id": "d00dfa0430909c65",
         "type": "tabs",
-        "dimension": 26.560424966799463,
+        "dimension": 26.56042496679947,
         "children": [
           {
             "id": "7e2e19d521bdbcb8",
@@ -331,7 +325,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,35 +345,35 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "db6a304539f9f0e3",
+  "active": "0ce78ff207113968",
   "lastOpenFiles": [
-    "Templates/ClickUp Task Steps.md",
     "Agenda/Daily/2025-11-25 - Tuesday.md",
-    "Agenda/Daily/2025-11-24 - Monday.md",
-    "Sushchnosti/Aiden/Aiden.md",
-    "Notes/Daily/2025-11-24 - Monday.md",
     "Agenda/Weekly/2025 - Week 48.md",
-    "Sushchnosti/Aiden/Projects/Website/Website (November 2025).md",
-    "Sushchnosti/FIN Searches/Documentation.md",
-    "Sushchnosti/FIN Searches/Application/Documentation/Pages.md",
-    "Sushchnosti/FIN Searches/Application/Documentation/Documentation.md",
+    "Sushchnosti/FIN Searches/Application/Application.md",
+    "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md",
+    "Agenda/Daily/2025-11-24 - Monday.md",
+    "Templates/ClickUp Task Steps.md",
+    "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
     "Sushchnosti/FIN Searches/Application/Documentation/Automations.md",
+    "Sushchnosti/FIN Searches/Application/Documentation/Pages.md",
+    "Sushchnosti/FIN Searches/Application/Issues.md",
     "Sushchnosti/FIN Searches/Application/Documentation",
+    "Sushchnosti/FIN Searches/Application/Documentation/Documentation.md",
+    "Sushchnosti/FIN Searches/FIN Searches.md",
+    "Sushchnosti/FIN Searches/Documentation.md",
     "Agenda/Daily/2025-11-23 - Sunday.md",
     "Agenda/Daily/2025-11-22 - Saturday.md",
     "Agenda/Daily/2025-11-21 - Friday.md",
+    "Notes/Daily/2025-11-24 - Monday.md",
     "Notes/Daily/2025-11-21 - Friday.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management.md",
-    "Sushchnosti/Passaic Partners/Passaic Partners.md",
-    "Sushchnosti/FIN Searches/Application/Application.md",
     "Agenda/Daily/2025-11-20 - Thursday.md",
-    "Sushchnosti/FIN Searches/FIN Searches.md",
-    "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md",
     "Sushchnosti/Chart National/Chart National.md",
     "Notes/Daily/2025-11-18 - Tuesday.md",
     "Agenda/Daily/2025-11-19 - Wednesday.md",
     "Agenda/Daily/2025-11-18 - Tuesday.md",
+    "Notes/Daily/2025-11-17 - Monday.md",
+    "Agenda/Daily/2025-11-17 - Monday.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management.md",
     "Sushchnosti/Business Technology Partners",
     "Sushchnosti/Aiden/Projects/Website",
     "Sushchnosti/Aiden/Projects",
