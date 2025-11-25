@@ -1,0 +1,6 @@
+- [ ] Add a task for 
+    - [ ] Create task
+    - [ ] Add email data
+    - [ ] Assign to developer
+    - [ ] Message developer about task
+    - [ ] Respond to email
