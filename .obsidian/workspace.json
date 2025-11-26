@@ -6,7 +6,7 @@
       {
         "id": "eb36c45e22d3c53c",
         "type": "tabs",
-        "dimension": 64.97373029772329,
+        "dimension": 51.155462184873954,
         "children": [
           {
             "id": "9eea9a28eff6022d",
@@ -28,7 +28,7 @@
       {
         "id": "30281eb8409d2b8a",
         "type": "tabs",
-        "dimension": 35.02626970227671,
+        "dimension": 48.844537815126046,
         "children": [
           {
             "id": "014f40b07388db57",
@@ -162,10 +162,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Agenda/Weekly/2025 - Week 48.md"
+                "file": "Agenda/Daily/2025-11-25 - Tuesday.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025 - Week 48"
+              "title": "File properties for 2025-11-25 - Tuesday"
             }
           },
           {
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agenda/Weekly/2025 - Week 48.md",
+                "file": "Agenda/Daily/2025-11-25 - Tuesday.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025 - Week 48"
+              "title": "Outline of 2025-11-25 - Tuesday"
             }
           }
         ]
@@ -347,9 +347,8 @@
   },
   "active": "9eea9a28eff6022d",
   "lastOpenFiles": [
-    "Notes/Daily/2025-11-25 - Tuesday.md",
-    "Agenda/Daily/2025-11-25 - Tuesday.md",
     "Agenda/Weekly/2025 - Week 48.md",
+    "Agenda/Daily/2025-11-25 - Tuesday.md",
     "Sushchnosti/FIN Searches/Application/Application.md",
     "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md",
     "Agenda/Daily/2025-11-24 - Monday.md",
@@ -374,6 +373,7 @@
     "Agenda/Daily/2025-11-18 - Tuesday.md",
     "Notes/Daily/2025-11-17 - Monday.md",
     "Agenda/Daily/2025-11-17 - Monday.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management.md",
     "Sushchnosti/Business Technology Partners",
     "Sushchnosti/Aiden/Projects/Website",
     "Sushchnosti/Aiden/Projects",
