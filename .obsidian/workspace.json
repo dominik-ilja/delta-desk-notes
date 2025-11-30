@@ -6,7 +6,6 @@
       {
         "id": "eb36c45e22d3c53c",
         "type": "tabs",
-        "dimension": 51.155462184873954,
         "children": [
           {
             "id": "9eea9a28eff6022d",
@@ -22,61 +21,60 @@
               "icon": "lucide-file",
               "title": "2025-11-25 - Tuesday"
             }
-          }
-        ]
-      },
-      {
-        "id": "30281eb8409d2b8a",
-        "type": "tabs",
-        "dimension": 48.844537815126046,
-        "children": [
+          },
           {
-            "id": "014f40b07388db57",
+            "id": "a15c2bf70bcca880",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
+                "file": "Agenda/Daily/2025-11-26 - Wednesday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Josh Jennings Meetings"
+              "title": "2025-11-26 - Wednesday"
             }
           },
           {
-            "id": "0ce78ff207113968",
+            "id": "19d452f60b33134e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/Weekly/2025 - Week 48.md",
+                "file": "Sushchnosti/FIN Searches/FIN Searches.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025 - Week 48"
-            }
-          },
-          {
-            "id": "5e334523e10dec3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/Daily/2025-11-25 - Tuesday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-25 - Tuesday"
+              "title": "FIN Searches"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "d5cf9a749df4204d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8fdd1e351e94967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Daily/2025-11-26 - Wednesday.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-26 - Wednesday"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,10 +160,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Agenda/Daily/2025-11-25 - Tuesday.md"
+                "file": "Agenda/Daily/2025-11-26 - Wednesday.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-11-25 - Tuesday"
+              "title": "File properties for 2025-11-26 - Wednesday"
             }
           },
           {
@@ -221,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agenda/Daily/2025-11-25 - Tuesday.md",
+                "file": "Agenda/Daily/2025-11-26 - Wednesday.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-25 - Tuesday"
+              "title": "Outline of 2025-11-26 - Wednesday"
             }
           }
         ]
@@ -345,10 +343,15 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "9eea9a28eff6022d",
+  "active": "a15c2bf70bcca880",
   "lastOpenFiles": [
-    "Agenda/Weekly/2025 - Week 48.md",
+    "Notes/Daily/2025-11-26 - Wednesday.md",
+    "Agenda/Daily/2025-11-26 - Wednesday.md",
+    "Sushchnosti/FIN Searches/FIN Searches.md",
     "Agenda/Daily/2025-11-25 - Tuesday.md",
+    "Attachments/follow-up.md",
+    "Notes/Daily/2025-11-25 - Tuesday.md",
+    "Agenda/Weekly/2025 - Week 48.md",
     "Sushchnosti/FIN Searches/Application/Application.md",
     "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md",
     "Agenda/Daily/2025-11-24 - Monday.md",
@@ -359,7 +362,6 @@
     "Sushchnosti/FIN Searches/Application/Issues.md",
     "Sushchnosti/FIN Searches/Application/Documentation",
     "Sushchnosti/FIN Searches/Application/Documentation/Documentation.md",
-    "Sushchnosti/FIN Searches/FIN Searches.md",
     "Sushchnosti/FIN Searches/Documentation.md",
     "Agenda/Daily/2025-11-23 - Sunday.md",
     "Agenda/Daily/2025-11-22 - Saturday.md",
@@ -370,10 +372,6 @@
     "Sushchnosti/Chart National/Chart National.md",
     "Notes/Daily/2025-11-18 - Tuesday.md",
     "Agenda/Daily/2025-11-19 - Wednesday.md",
-    "Agenda/Daily/2025-11-18 - Tuesday.md",
-    "Notes/Daily/2025-11-17 - Monday.md",
-    "Agenda/Daily/2025-11-17 - Monday.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Customer Relationship Management.md",
     "Sushchnosti/Business Technology Partners",
     "Sushchnosti/Aiden/Projects/Website",
     "Sushchnosti/Aiden/Projects",
