@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/Daily/2025-12-01 - Monday.md",
+                "file": "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-01 - Monday"
+              "title": "Notes"
             }
           },
           {
@@ -100,12 +100,11 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 382.5
   },
   "right": {
     "id": "5beeb383e9f6f6b8",
@@ -114,7 +113,7 @@
       {
         "id": "59525e51d6ee8ee3",
         "type": "tabs",
-        "dimension": 40.1062416998672,
+        "dimension": 40.106241699867205,
         "children": [
           {
             "id": "b0e1251cf497eb39",
@@ -173,7 +172,7 @@
       {
         "id": "bb3515cb27a68804",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "2c381be1674b5801",
@@ -195,7 +194,7 @@
       {
         "id": "d00dfa0430909c65",
         "type": "tabs",
-        "dimension": 26.560424966799467,
+        "dimension": 26.56042496679947,
         "children": [
           {
             "id": "7e2e19d521bdbcb8",
@@ -307,8 +306,16 @@
   },
   "active": "a15c2bf70bcca880",
   "lastOpenFiles": [
-    "Notes/Daily/2025-12-01 - Monday.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Release Notes/Release Notes.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Notes.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Enhancements.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Logs.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Release Notes",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Release Notes/nsdfc_report.md",
+    "Sushchnosti/Aiden/Projects/Website/Notes.md",
+    "Sushchnosti/Aiden/Projects/Website/Website (November 2025).md",
     "Agenda/Daily/2025-12-01 - Monday.md",
+    "Notes/Daily/2025-12-01 - Monday.md",
     "Notes/Daily/2025-11-30 - Sunday.md",
     "Notes/Daily/2025-11-29 - Saturday.md",
     "Notes/Daily/2025-11-28 - Friday.md",
@@ -326,14 +333,7 @@
     "Agenda/Weekly/2025 - Week 48.md",
     "Sushchnosti/FIN Searches/Application/Application.md",
     "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md",
-    "Agenda/Daily/2025-11-24 - Monday.md",
-    "Templates/ClickUp Task Steps.md",
-    "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
-    "Sushchnosti/FIN Searches/Application/Documentation/Automations.md",
-    "Sushchnosti/FIN Searches/Application/Documentation/Pages.md",
-    "Sushchnosti/FIN Searches/Application/Issues.md",
     "Sushchnosti/FIN Searches/Application/Documentation",
-    "Sushchnosti/FIN Searches/Application/Documentation/Documentation.md",
     "Sushchnosti/Business Technology Partners",
     "Sushchnosti/Aiden/Projects/Website",
     "Sushchnosti/Aiden/Projects",
@@ -349,7 +349,6 @@
     "Sushchnosti/Omnicia",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Assets",
     "Attachments/Pasted image 20251022140943.png",
-    "Sushchnosti/Orical/Meetings",
     "Attachments/Pasted image 20251017165946.png",
     "Attachments/Pasted image 20251017165917.png",
     "Attachments/Pasted image 20251017110616.png"

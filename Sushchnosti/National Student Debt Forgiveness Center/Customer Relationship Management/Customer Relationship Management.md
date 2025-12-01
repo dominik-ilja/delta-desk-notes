@@ -51,7 +51,7 @@ When sending updates, we can send them to the whole team. You can find the email
 ## References
 
 [[Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Documentation|Documentation]]
-[[Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Release Notes|Release Notes]]
+[[Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Release Notes/Release Notes|Release Notes]]
 
 ## Resources
 
