@@ -11,7 +11,10 @@ Type: Documentation
 ## Monday, December 1, 2025
 ### Stagnant Leads - 2:00 PM
 
-<span class="placeholder">No description</span>
+- Intake complete is not autocompleted
+    - Look for anyone who is in Intake complete without an FSA text file
+- What email statuses trigger what emails
+- 
 
 ### Meeting with Natalie - 10:00 AM
 
