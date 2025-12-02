@@ -4,65 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb36c45e22d3c53c",
+        "id": "2e54014c36d8f1a7",
         "type": "tabs",
-        "dimension": 37.34375,
         "children": [
           {
-            "id": "a15c2bf70bcca880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "48de39f1e7ee3c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/Daily/2025-12-02 - Tuesday.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-02 - Tuesday"
-            }
-          },
-          {
-            "id": "a25bb18b042b1a2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Responsibilities.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "My Responsibilities"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4bb44aba99c5151a",
-        "type": "tabs",
-        "dimension": 31.328125,
-        "children": [
-          {
-            "id": "e8fdd1e351e94967",
+            "id": "e2236599e28a373a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,12 +25,32 @@
         ]
       },
       {
-        "id": "ef8409d5bae3eeed",
+        "id": "b5e84ec37549693a",
         "type": "tabs",
-        "dimension": 31.328125,
         "children": [
           {
-            "id": "b9ee9a7c0788b476",
+            "id": "cfe3c720dadf439f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/Daily/2025-12-02 - Tuesday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-02 - Tuesday"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a893c21e6e1435df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa41a40df5e53df1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
+    "width": 429.5,
     "collapsed": true
   },
   "right": {
@@ -175,7 +141,7 @@
       {
         "id": "59525e51d6ee8ee3",
         "type": "tabs",
-        "dimension": 40.106241699867205,
+        "dimension": 40.1062416998672,
         "children": [
           {
             "id": "b0e1251cf497eb39",
@@ -234,7 +200,7 @@
       {
         "id": "bb3515cb27a68804",
         "type": "tabs",
-        "dimension": 33.333333333333336,
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "2c381be1674b5801",
@@ -256,7 +222,7 @@
       {
         "id": "d00dfa0430909c65",
         "type": "tabs",
-        "dimension": 26.56042496679947,
+        "dimension": 26.560424966799467,
         "children": [
           {
             "id": "7e2e19d521bdbcb8",
@@ -366,19 +332,17 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e8fdd1e351e94967",
+  "active": "cfe3c720dadf439f",
   "lastOpenFiles": [
     "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
     "Agenda/Daily/2025-12-02 - Tuesday.md",
-    "Sushchnosti/Delta Desk/Meetings/2025-12-02.md",
-    "Sushchnosti/Delta Desk/Meetings/2025-09-30 - Tuesday - Josh Jennings Meetup.md",
     "Agenda/Daily/2025-12-01 - Monday.md",
-    "Templates/Notes/Daily/Agenda.md",
-    "My Responsibilities.md",
     "Notes/Daily/2025-12-01 - Monday.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Notes.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Testing/Removing FSA files.md",
+    "My Responsibilities.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Testing",
+    "Untitled.canvas",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Release Notes/Release Notes.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Enhancements.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Logs.md",
@@ -396,6 +360,9 @@
     "Agenda/Daily/2025-11-28 - Friday.md",
     "Agenda/Daily/2025-11-27 - Thursday.md",
     "Agenda/Daily/2025-11-26 - Wednesday.md",
+    "Sushchnosti/FIN Searches/FIN Searches.md",
+    "Agenda/Daily/2025-11-25 - Tuesday.md",
+    "Attachments/follow-up.md",
     "Sushchnosti/FIN Searches/Application/Documentation",
     "Sushchnosti/Business Technology Partners",
     "Sushchnosti/Aiden/Projects/Website",
