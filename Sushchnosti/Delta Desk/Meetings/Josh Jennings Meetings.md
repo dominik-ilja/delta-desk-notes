@@ -13,6 +13,28 @@ Date Completed: 2025-11-10
 - I'm going to have Mikhail look into what Gar shared for the CUSIPs
 - 
 
+## Tuesday, December 2, 2025
+
+What the developers are currently working on:
+
+- Zulqarnain - Admin Features with Vu
+- Vu - Admin Features
+    - He's waiting for Mostofa to review his PRs
+- Bao
+    - OMS
+    - NEOS
+    - FIN
+- Mostofa
+    - Aiden
+    - FIN - Admin Features
+- Mikhail
+    - Login
+    - 13F
+
+FIN Searches:
+
+
+
 ## Monday, November 10, 2025
 
 He found issues with 
