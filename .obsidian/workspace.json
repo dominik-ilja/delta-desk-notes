@@ -6,6 +6,7 @@
       {
         "id": "2e54014c36d8f1a7",
         "type": "tabs",
+        "dimension": 31.455399061032864,
         "children": [
           {
             "id": "e2236599e28a373a",
@@ -72,6 +73,7 @@
       {
         "id": "5661d77ce994b41c",
         "type": "tabs",
+        "dimension": 68.54460093896714,
         "children": [
           {
             "id": "42f99c35f20501dd",
@@ -79,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/Daily/2025-12-03 - Wednesday.md",
+                "file": "Notes/Daily/2025-12-03 - Wednesday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -356,10 +358,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e2236599e28a373a",
+  "active": "42f99c35f20501dd",
   "lastOpenFiles": [
-    "Sushchnosti/Delta Desk/Documentation/Developers/Vu Notes.md",
     "Agenda/Daily/2025-12-03 - Wednesday.md",
+    "Notes/Daily/2025-12-03 - Wednesday.md",
+    "Sushchnosti/Delta Desk/Documentation/Developers/Vu Notes.md",
     "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
     "Developer Tasks.md",
     "Agenda/Daily/2025-12-02 - Tuesday.md",
@@ -386,7 +389,6 @@
     "Notes/Daily/2025-11-30 - Sunday.md",
     "Notes/Daily/2025-11-29 - Saturday.md",
     "Notes/Daily/2025-11-28 - Friday.md",
-    "Notes/Daily/2025-11-27 - Thursday.md",
     "Sushchnosti/FIN Searches/Application/Documentation",
     "Sushchnosti/Business Technology Partners",
     "Sushchnosti/Aiden/Projects/Website",

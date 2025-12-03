@@ -1,11 +1,11 @@
 ---
 Complete: false
-Tasks: 288
-Tasks Remaining: 268
-Tasks Complete: 20
+Tasks: 298
+Tasks Remaining: 271
+Tasks Complete: 27
 Date Completed:
-Last Updated: December 3, 2025, at 8:57 AM
-File Size: 44.77 KB
+Last Updated: December 3, 2025, at 9:47 AM
+File Size: 45.16 KB
 aliases: []
 cssclasses:
   - full_width
@@ -329,15 +329,11 @@ Related:
 ## Logs
 
 - [x] [[Agenda/Daily/2025-12-03 - Wednesday#^42kwqb]] [Completed:: 2025-12-03T08:20]
-- [ ] Follow-up with Developers
+- [x] Follow-up with Developers
     - [x] Vu: [Completed:: 2025-12-03T08:32]
         - [x] [Perch Bay Group | 86adnqqth | Update Curt's picture on the "People" tab | ready for deployment | Due: December 3, 2025 | Follow up: N/A | Vu Nguyen](https://app.clickup.com/t/86adnqqth)
         - [x] [Orical | 86adnrcqr | Help Zabelle with uploading a YouTube video onto the Orical site | to do | Due: December 3, 2025 | Follow up: N/A | Josh Jennings, Vu Nguyen](https://app.clickup.com/t/86adnrcqr)
         - [x] [86adnr53m - Form submission handling - to do (Aiden)](https://app.clickup.com/t/86adnr53m)
-    - [ ] Bao
-    - [ ] Mikhail
-    - [ ] Zulqarnain
-    - [ ] Mostofa
 - [x] [Perch Bay Group | 86adnqqth | Update Curt's picture on the "People" tab | ready for deployment | Due: December 3, 2025 | Follow up: N/A | Vu Nguyen](https://app.clickup.com/t/86adnqqth)
 - [x] Compare emails
     - [x] Perch bay | josh@deltadesk.com | Tue, 02 Dec 2025 22:03:35 GMT
@@ -345,4 +341,20 @@ Related:
     - [x] NYM FCU Site update  | josh@deltadesk.com | Fri, 21 Nov 2025 18:07:25 GMT
     - [x] DDOS/DLIT spx options trading: lakeshore | Visdom ref: 20251126 1219.1 | mzigmont@visdomig.com | Wed, 26 Nov 2025 18:18:47 GMT [Completed:: 2025-12-03T08:51]
     - [x] NYMFCU Change | josh@deltadesk.com | Mon, 01 Dec 2025 17:05:52 GMT [Completed:: 2025-12-03T08:53]
-- [ ] 
+- [x] Group meeting [Time:: 09:42]
+- [x] Slack Messages [Time:: 09:47]
+    1. [x] Threads
+    2. [x] aiden
+    3. [x] daily-delta-desk
+    4. [x] fin-searches
+
+- [ ] Write out requirements that was discussed here: https://deltadesk.slack.com/archives/D09D6PBUC23/p1764768992853319
+
+- [ ] Follow-up with Developers:
+    - [ ] Bao
+    - [ ] Mikhail
+    - [ ] Zulqarnain
+    - [ ] Mostofa
+- [ ] Slack Messages
+    1. [ ] nsdfc
+    2. [ ] 3 - Josh, mattmccue, Mikhail - 9+
