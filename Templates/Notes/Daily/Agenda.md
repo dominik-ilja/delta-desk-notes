@@ -13,22 +13,43 @@ _%>
 
 [[Task List]] · [[Tasks/Lists/Question List|Question List]] · [[Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings|Josh Jennings Meetings]]
 
-- [ ] Let the developers know I'm online in the morning
-- [ ] Setup tasks
-- [ ] Attend to ClickUp tasks
-- [ ] Attend to ClickUp notifications
-- [ ] Attend to Slack messages
-- [ ] Attend to Slack saved messages
-- [ ] Attend to Teams messages
-- [ ] Attend to email
-- [ ] Review tasks
-- [ ] Create tasks
-- [ ] Communicate with developers
-    - [ ] Bao
-    - [ ] Mikhail
-    - [ ] Mostofa
-    - [ ] Vu
-    - [ ] Zulqarnain
+<span class="placeholder">No tasks</span>
 
-### Complete
+### Due Today
+
+<span class="placeholder">No tasks</span>
+
+### Follow-up
+
+<span class="placeholder">No tasks</span>
+
+### Overdue
+
+<span class="placeholder">No tasks</span>
+
+### To Review
+
+<span class="placeholder">No tasks</span>
+
+### ClickUp Notifications
+
+<span class="placeholder">No tasks</span>
+
+### Emails
+
+<span class="placeholder">No tasks</span>
+
+### Slack Messages
+
+<span class="placeholder">No tasks</span>
+
+### Slack Saved Messages
+
+<span class="placeholder">No tasks</span>
+
+### Teams Messages
+
+<span class="placeholder">No tasks</span>
+
+## Logs
 

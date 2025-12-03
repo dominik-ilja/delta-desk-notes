@@ -12,6 +12,27 @@ Tasks Complete: 3
 Date Completed: 2025-10-16
 ---
 # Vu Notes
+## Wednesday, December 3, 2025
+### Tasks
+
+- FIN
+    - [86adj4f71] Audit History page
+    - [86adn3hyr] Create insight details page
+    - [86adh9pp1] Submit a Conference (UI)
+- Orical
+    - [86adnrcqr] Uploading a YouTube video onto the Orical site
+- Aiden
+    - [86adnr53m] Form submission handling
+- Perch Bay Group
+    - [Perch Bay Group | 86adnqqth | Update Curt's picture on the "People" tab | ready for deployment | Due: December 3, 2025 | Follow up: N/A | Vu Nguyen](https://app.clickup.com/t/86adnqqth)
+
+### Logs
+
+- Perch Bay Group - Complete
+- Aiden - I requested him to share what will need to be done in the code for this
+- Orical - He has everything he needs for the YouTube link.
+
+
 ## Tuesday, October 21, 2025
 ### Tasks
 
