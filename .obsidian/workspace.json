@@ -6,6 +6,7 @@
       {
         "id": "2e54014c36d8f1a7",
         "type": "tabs",
+        "dimension": 46.3671875,
         "children": [
           {
             "id": "e2236599e28a373a",
@@ -13,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/Daily/2025-12-03 - Wednesday.md",
+                "file": "Agenda/Daily/2025-12-04 - Thursday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-03 - Wednesday"
+              "title": "2025-12-04 - Thursday"
             }
           }
         ]
@@ -27,6 +28,7 @@
       {
         "id": "b5e84ec37549693a",
         "type": "tabs",
+        "dimension": 53.63281250000001,
         "children": [
           {
             "id": "cfe3c720dadf439f",
@@ -72,9 +74,39 @@
               "icon": "lucide-file",
               "title": "Josh Jennings Meetings"
             }
+          },
+          {
+            "id": "6940cd0626767b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Lists/Task List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Task List"
+            }
+          },
+          {
+            "id": "7f43d8954742e5e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Dataview/Priority Table.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Priority Table"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -342,12 +374,15 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "df70a3e90982fe2b",
+  "active": "e2236599e28a373a",
   "lastOpenFiles": [
+    "Agenda/Daily/2025-12-03 - Wednesday.md",
+    "Agenda/Daily/2025-12-04 - Thursday.md",
+    "Tasks/Lists/Task List.md",
+    "Templates/Dataview/Priority Table.md",
+    "Notes/Daily/2025-12-04 - Thursday.md",
     "Notes/Daily/2025-12-03 - Wednesday.md",
     "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
-    "Notes/Daily/2025-12-04 - Thursday.md",
-    "Agenda/Daily/2025-12-03 - Wednesday.md",
     "Agenda/Daily/2025-12-02 - Tuesday.md",
     "Sushchnosti/Delta Desk/Meetings/Bao one-on-one.md",
     "Agenda/Daily/2025-12-01 - Monday.md",
@@ -370,9 +405,6 @@
     "Notes/Daily/2025-11-27 - Thursday.md",
     "Notes/Daily/2025-11-26 - Wednesday.md",
     "Agenda/Daily/2025-11-30 - Sunday.md",
-    "Agenda/Daily/2025-11-29 - Saturday.md",
-    "Agenda/Daily/2025-11-28 - Friday.md",
-    "Agenda/Daily/2025-11-27 - Thursday.md",
     "Sushchnosti/FIN Searches/Application/Documentation",
     "Sushchnosti/Business Technology Partners",
     "Sushchnosti/Aiden/Projects/Website",

@@ -149,12 +149,117 @@ const tasks = dv.pages()
 dv.taskList(tasks)
 ```
 
+## Priority
 
+```dataviewjs
+(() => {
+// Get tasks from the current file
+const file = app.workspace.getActiveFile();
+if (!file) return;
+
+const hideCompletedSubtasks = (task) => {
+    return {
+        ...task,
+        children: task.children
+            .filter((subtask) => subtask.task && !subtask.fullyCompleted)
+            .map(hideCompletedSubtasks)
+    }
+}
+
+const tasks = dv.page(file.path).file.tasks.where(task => !task.fullyCompleted);
+tasks.values = tasks.values.map(hideCompletedSubtasks)
+
+// Define priority order (lower number = higher priority)
+const priorityOrder = {
+    "Urgent": 1,
+    "High": 2,
+    "Medium": 3,
+    "Low": 4,
+    "None": 5,
+    "": 5  // Default for tasks without priority
+};
+
+// Function to extract priority from task text
+function getPriority(task) {
+    const priorityMatch = task.text.match(/\[Priority::\s*([^\]]+)\]/);
+    return priorityMatch ? priorityMatch[1].trim() : "";
+}
+
+// Function to extract due date from task text
+function getDueDate(task) {
+    const dueDateMatch = task.text.match(/\[Due::\s*([^\]]+)\]/);
+    if (dueDateMatch) {
+        return dv.date(dueDateMatch[1].trim());
+    }
+    return null;
+}
+
+// Function to clean task text by removing dataview tags
+function cleanTaskText(task) {
+    return task.text
+        .replace(/\[Priority::\s*[^\]]+\]/g, '')  // Remove priority tags
+        .replace(/\[Due::\s*[^\]]+\]/g, '')       // Remove due date tags
+        .replace(/\s+/g, ' ')                     // Replace multiple spaces with single space
+        .trim();                                  // Remove leading/trailing whitespace
+}
+
+// Create a custom comparator function for sorting
+function taskComparator(a, b) {
+    const dateA = getDueDate(a);
+    const dateB = getDueDate(b);
+    const priorityA = getPriority(a);
+    const priorityB = getPriority(b);
+    
+    // First sort by date
+    if (dateA && dateB) {
+        const dateComparison = dateA.ts - dateB.ts;
+        if (dateComparison !== 0) return dateComparison;
+    } else if (dateA && !dateB) {
+        return -1; // Tasks with dates come first
+    } else if (!dateA && dateB) {
+        return 1; // Tasks with dates come first
+    }
+    
+    // Then sort by priority
+    const priorityOrderA = priorityOrder[priorityA] || priorityOrder[""];
+    const priorityOrderB = priorityOrder[priorityB] || priorityOrder[""];
+    
+    return priorityOrderA - priorityOrderB;
+}
+
+// Sort tasks using Dataview's sort method with custom comparator
+const sortedTasks = tasks.sort(t => t, "asc", taskComparator);
+
+// Display the sorted tasks in a table format
+const tableData = sortedTasks.map((task, index) => {
+    return [
+        index + 1,                           // Index (1-based)
+        cleanTaskText(task),                 // Task text (cleaned)
+        getPriority(task) || "None",         // Priority
+        getDueDate(task) || ""               // Due Date
+    ];
+});
+
+dv.table(["Index", "Task", "Priority", "Due Date"], tableData);
+})()
+```
 
 ## General
 
+- [ ] Schedule headshots for Josh and I - There's this "Alexandra Zak Photography" with 5 stars and 182 reviews. It's 10 minutes from my place. She does everything which includes corporate photos [Priority:: Urgent]
+- [ ] Setup tasks for tomorrow [Priority:: Urgent]
+    - [ ] FIN Searches
+    - [ ] NSDFC
+        - [ ] Add tasks from Josh's note: https://docs.google.com/document/d/13Aej7H_D4K0cKhHfvZcH9QDuhgSpMKdUBk-MTVd4o7U/edit?pli=1&tab=t.0
+    - [ ] Aiden
+        - [ ] Is the branch setup now to automatically deploy or do we have to manually do it?
+    - [ ] NYM FCU
+
+
+
+---
+
 - [ ] Create templates for asking developers for updates
-- [ ] Review the project for Aiden
 - [ ] Syncing developer work with ClickUp
 - [ ] Project timelines and estimates
 - [ ] Talk to developers about how they're using Git
@@ -163,7 +268,6 @@ dv.taskList(tasks)
 - [ ] I'm thinking that the "Ready for Deployment" status should be an "In Progress" status rather than a "Done". The reasoning is that there's still more work to be done.
 - [ ] Get access to V0
 - [ ] [86ac1fqtv – Subtotaling premiums on the website | to do | Josh Jennings](https://app.clickup.com/t/86ac1fqtv), [86ac1ft8x – Automate the price input process | to do | Josh Jennings](https://app.clickup.com/t/86ac1ft8x) - These tasks also apply to the OMS and Visdom not just Carrick Lane.
-- [ ] Tell developers what the "Needs Internal Review" attribute means
 
 - [ ] Things to learn about:
     - [ ] Learn about options
@@ -206,7 +310,7 @@ dv.taskList(tasks)
 ## Groups
 ### Carrick Lane
 
-<span class="placeholder">No tasks</span>
+- [ ] Go through the tickets that were added by Andrew [Priority:: High]
 
 ### Delta Desk
 
@@ -263,11 +367,9 @@ dv.taskList(tasks)
 
 ### Orical
 
+<span class="placeholder">No tasks</span>
 
+## ✓ Projects
+### ✓ OMS
 
-## Projects
-### OMS
-
-- [ ] Column resizing is resizing every column
-- [ ] Spell out "Electronic Communication Approved"
-- [ ] Should be live by the end of October
+<span class="placeholder">No tasks</span>
