@@ -12,6 +12,13 @@ Tasks Complete: 3
 Date Completed: 2025-10-20
 ---
 # Bao Notes
+## Thursday, December 4, 2025
+### Tasks
+
+### Logs
+
+- 
+
 ## Tuesday, October 21, 2025
 ### Tasks
 

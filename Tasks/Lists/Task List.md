@@ -246,14 +246,7 @@ dv.table(["Index", "Task", "Priority", "Due Date"], tableData);
 
 ## General
 
-- [ ] Schedule headshots for Josh and I - There's this "Alexandra Zak Photography" with 5 stars and 182 reviews. It's 10 minutes from my place. She does everything which includes corporate photos [Priority:: Urgent]
-- [ ] Setup tasks for tomorrow [Priority:: Urgent]
-    - [ ] FIN Searches
-    - [ ] NSDFC
-        - [ ] Add tasks from Josh's note: https://docs.google.com/document/d/13Aej7H_D4K0cKhHfvZcH9QDuhgSpMKdUBk-MTVd4o7U/edit?pli=1&tab=t.0
-    - [ ] Aiden
-        - [ ] Is the branch setup now to automatically deploy or do we have to manually do it?
-    - [ ] NYM FCU
+
 
 
 
