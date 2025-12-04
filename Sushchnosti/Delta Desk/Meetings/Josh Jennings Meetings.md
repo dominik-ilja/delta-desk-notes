@@ -11,7 +11,17 @@ Date Completed: 2025-11-10
 - What is institutional data?
 - What is a 930 report/form?
 - I'm going to have Mikhail look into what Gar shared for the CUSIPs
-- 
+
+## Wednesday, December 3, 2025
+
+I think that our couple of things we can do are:
+
+- Recertification tab
+- Reports
+- History tab
+- New Group Advantage Forms
+
+We could do a couple of minor things throughout the week as well.
 
 ## Tuesday, December 2, 2025
 
