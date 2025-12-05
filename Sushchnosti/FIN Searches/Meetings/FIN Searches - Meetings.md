@@ -10,6 +10,50 @@ Tasks Complete: 1
 Date Completed: 2025-11-21
 ---
 # FIN Searches - Meetings
+## Friday, December 5, 2025
+
+**Completed:**
+
+- [86ad0t91q – Implement CRUD for Consultant Contact | complete | Zulqarnain Niazi, Vu Nguyen](https://app.clickup.com/t/86ad0t91q)
+- [86ad0tah0 – Add/Edit/Delete consultant contact on consultant contact search page | complete | Not assigned](https://app.clickup.com/t/86ad0tah0)
+- [86ad0tan9 – Edit consultant contact on consultant contact detail page | complete | Not assigned](https://app.clickup.com/t/86ad0tan9)
+- [86ad0t93w – Implement CRUD for Investment Manager Research | complete | Zulqarnain Niazi](https://app.clickup.com/t/86ad0t93w)
+- [86ad0tdbv – Implement CRUD for MoM - Firm Contacts | complete | Zulqarnain Niazi, Vu Nguyen](https://app.clickup.com/t/86ad0tdbv)
+- [86ad0tdjr – Implement CRUD for MoM Contacts | complete | Vu Nguyen, Zulqarnain Niazi](https://app.clickup.com/t/86ad0tdjr)
+- [86ad8mgz1 – Update times of FS activity to be pulled at 11am & 4pm ET | complete | Not assigned](https://app.clickup.com/t/86ad8mgz1)
+- [86accvkk9 – Manage Terminated crd Firms | complete | Not assigned](https://app.clickup.com/t/86accvkk9)
+- [86accvnwt – Add Admin Filter to see terminated or active firms only | complete | Not assigned](https://app.clickup.com/t/86accvnwt)
+- [86accx2ue – Contacts work experience | complete | Not assigned](https://app.clickup.com/t/86accx2ue)
+- [86ad4zc0w – Documents not showing after certain date | complete | Not assigned](https://app.clickup.com/t/86ad4zc0w)
+- [86acq4wbq – Check the overheight of the filter dropdown of the last grid in every details page | complete | Not assigned](https://app.clickup.com/t/86acq4wbq)
+- [86ac211wa – Create Blocked Titles page on v3 site | complete | Not assigned](https://app.clickup.com/t/86ac211wa)
+- [86aczjhm7 – Test PeopleMovesConsolidated | complete | Mikhail](https://app.clickup.com/t/86aczjhm7)
+- [86ad9nm8f – Implement Frontend Login Using /auth/login Endpoint with HttpOnly JWT Cookie | complete | Zulqarnain Niazi](https://app.clickup.com/t/86ad9nm8f)
+- [86adfm9nf – Scrape tickers from  https://13f.info/ | complete | Mikhail](https://app.clickup.com/t/86adfm9nf)
+
+**To Discuss:**
+
+One of the big things that has been a struggle is testing all the different items that come down the pipeline from the developers. There's a lot of admin features that are currently ready to be tested. It would be greatly beneficial in getting things done faster for you to help us test and verify that things are working properly.
+
+Here's how this would work:
+
+- When a large feature comes through like the migration of the admin controls, there's going to be a lot of items to review. After the developer has done his initial round of testing, we'll merge it into the QA environment. I believe that you should have access to it.
+- I will tell you when these things have been added and give you information about what was done. You guys can go in and see if it is working the way you expect it or not.
+- You give me your feedback and we can get that back into the developers hands and this will repeat until you're content with it.
+- We will then merge these items into production.
+
+---
+
+- [86adb3jyf - Form D automated report of new filings - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86adb3jyf) - Could you tell me more about the Form D? He wrote the following:
+    - "We would like to receive an automated report each day of any new Form D filings for our sales team. This would be part of us automating Form D filings into the database for users as well."
+- [86ade11z2 - remove about section from specific mandates - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86ade11z2)
+    - Mikhail had a question about this, "do we need to hide 'about' for all mandates records? they asked to add this a month ago"
+- [86ade1tm7 - Can't tag newly added plan contact in news - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86ade1tm7) - Hey Gar, could you demonstrate this issue for us?
+
+**Follow-up**
+
+- [86adadayb - company office HQ updates - client review (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86adadayb) - Have you been experiencing any issues with updating head quarters since we last talked?
+
 ## Friday, November 21, 2025
 
 **Questions:**

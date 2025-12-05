@@ -301,6 +301,10 @@ dv.table(["Index", "Task", "Priority", "Due Date"], tableData);
 - [ ] Get access to the NSDFC Delta Desk Documents
 
 ## Groups
+### Aiden
+
+
+
 ### Carrick Lane
 
 - [ ] Go through the tickets that were added by Andrew [Priority:: High]
@@ -311,6 +315,11 @@ dv.table(["Index", "Task", "Priority", "Due Date"], tableData);
 - [ ] Bao would like me to review things another time when it is in production [Priority:: Low]
 
 ### FIN Searches
+
+- [ ] [86adb3jyf - Form D automated report of new filings - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86adb3jyf) - Get information for Bao and Mikhail on this task. [Priority:: Urgent]
+- [ ] [86ade11z2 - remove about section from specific mandates - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86ade11z2) - Get information for Mikhail on this task. [Priority:: Urgent]
+
+---
 
 - [ ] Look into how we can take advantage of screen spacing at smaller sizes
 - [ ] Terms to learn:
