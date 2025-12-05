@@ -31,6 +31,16 @@ Date Completed: 2025-11-21
 - [86ad9nm8f – Implement Frontend Login Using /auth/login Endpoint with HttpOnly JWT Cookie | complete | Zulqarnain Niazi](https://app.clickup.com/t/86ad9nm8f)
 - [86adfm9nf – Scrape tickers from  https://13f.info/ | complete | Mikhail](https://app.clickup.com/t/86adfm9nf)
 
+**Updates:**
+
+We've reviewed the following search pages for performance issues:
+
+- /aum-flow-search
+- /conference-search
+- /conference-speaker-search
+- /consultant-contact-search
+- /consultant-search
+
 **To Discuss:**
 
 One of the big things that has been a struggle is testing all the different items that come down the pipeline from the developers. There's a lot of admin features that are currently ready to be tested. It would be greatly beneficial in getting things done faster for you to help us test and verify that things are working properly.
@@ -42,6 +52,71 @@ Here's how this would work:
 - You give me your feedback and we can get that back into the developers hands and this will repeat until you're content with it.
 - We will then merge these items into production.
 
+These are all the things coming down the pipe that I need assistance with:
+
+1. [86acrv592 – Implement CRUD for Plan Contact | internal review | Vu Nguyen](https://app.clickup.com/t/86acrv592)
+2. [86acu71cg – Implement CRUD for Plan Consultant | internal review | Vu Nguyen, Mostofa Reza](https://app.clickup.com/t/86acu71cg)
+3. [86acu903c – Create Add new/Edit mandate style form | internal review | Mostofa Reza, Vu Nguyen](https://app.clickup.com/t/86acu903c)
+4. [86acv9aqt – Implement CRUD for Plan Manager Roster | internal review | Zulqarnain Niazi, Vu Nguyen](https://app.clickup.com/t/86acv9aqt)
+5. [86ad0pvfz – Allow duplicate plan mandate | internal review | Mostofa Reza](https://app.clickup.com/t/86ad0pvfz)
+6. [86ad0tack – Implement CRUD for Consultant Mandate | internal review | Mostofa Reza, Vu Nguyen](https://app.clickup.com/t/86ad0tack)
+7. [86ad0tapw – Allow Add/Edit Manager | internal review | Mostofa Reza, Vu Nguyen](https://app.clickup.com/t/86ad0tapw)
+8. [86ad0tat9 – Edit manager on manger details page | to do | Not assigned](https://app.clickup.com/t/86ad0tat9)
+9. [86ad0tazv – Allow create Manager - Funds & Strategies | internal review | Mostofa Reza, Vu Nguyen](https://app.clickup.com/t/86ad0tazv)
+10. [86ad0tb0r – Implement CRUD for Manager of Managers on Manager details | internal review | Vu Nguyen, Mostofa Reza](https://app.clickup.com/t/86ad0tb0r)
+11. [86ad0tb1f – Allow Edit Mangers - Mandate | internal review | Mostofa Reza, Vu Nguyen](https://app.clickup.com/t/86ad0tb1f)
+12. [86ad0tb2g – Implement CRUD:  Plan section on Manager details page | internal review | Zulqarnain Niazi, Vu Nguyen](https://app.clickup.com/t/86ad0tb2g)
+13. [86ad0tb4e – Allow Add/Edit Manger of Manger - MoM search page | internal review | Vu Nguyen, Mostofa Reza](https://app.clickup.com/t/86ad0tb4e)
+14. [86ad0tb5y – Edit in MoM details page | to do | Not assigned](https://app.clickup.com/t/86ad0tb5y)
+15. [86ad0tdb0 – Implement CRUD for MoM - Funds & Strategies | internal review | Vu Nguyen, Mostofa Reza](https://app.clickup.com/t/86ad0tdb0)
+16. [86ad0tdef – Implement CRUD for MoM - Investment Manager Research | internal review | Zulqarnain Niazi, Vu Nguyen](https://app.clickup.com/t/86ad0tdef)
+17. [86ad0tdf6 – Implement CRUD for MoM - Manager Line Up | internal review | Vu Nguyen, Mostofa Reza](https://app.clickup.com/t/86ad0tdf6)
+18. [86ad0tdfw – Allow Edit MoM - Mandates | internal review | Mostofa Reza, Vu Nguyen](https://app.clickup.com/t/86ad0tdfw)
+19. [86ad0tdgp – Implement CRUD for MoM - Plans | internal review | Vu Nguyen, Zulqarnain Niazi](https://app.clickup.com/t/86ad0tdgp)
+20. [86ad0tewk – Implement CRUD for Manager Funds & Strategies | internal review | Vu Nguyen, Mostofa Reza](https://app.clickup.com/t/86ad0tewk)
+21. [86ad0tfb0 – Implement CRUD for Manager Fees | developer review | Mostofa Reza](https://app.clickup.com/t/86ad0tfb0)
+22. [86ad0tfq8 – Implement CRUD for Conferences Event | internal review | Vu Nguyen, Zulqarnain Niazi](https://app.clickup.com/t/86ad0tfq8)
+23. [86ad0tg3u – Allow Edit/Delete task on task search page | internal review | Mostofa Reza](https://app.clickup.com/t/86ad0tg3u)
+24. [86ad0tgdv – Allow Add/Edit/Duplicate Mandate on Mandates search page | internal review | Vu Nguyen, Mostofa Reza](https://app.clickup.com/t/86ad0tgdv)
+25. [86ad0tgtd – Allow Add/Edit/Duplicate RFPs | developer review | Mostofa Reza, Vu Nguyen](https://app.clickup.com/t/86ad0tgtd)
+26. [86adbpz53 – Implement image upload functionality in all remaining forms. | internal review | Vu Nguyen](https://app.clickup.com/t/86adbpz53)
+27. [86adcktaw – Implement CRUD for Video | internal review | Vu Nguyen](https://app.clickup.com/t/86adcktaw)
+28. [86adggbjp – Implement Insights blog page | internal review | Vu Nguyen, Zulqarnain Niazi](https://app.clickup.com/t/86adggbjp)
+29. [86adgjzw5 – Add new/edit/delete plan contact on Plan Contact search page | internal review | Zulqarnain Niazi](https://app.clickup.com/t/86adgjzw5)
+30. [86adgvq45 – Plans - Admin export | internal review | Zulqarnain Niazi](https://app.clickup.com/t/86adgvq45)
+31. [86adgw41j – Implement "Possible LinkedIn Profiles" section | internal review | Zulqarnain Niazi](https://app.clickup.com/t/86adgw41j)
+32. [86adgw8tu – Consultants - Admin export | internal review | Zulqarnain Niazi](https://app.clickup.com/t/86adgw8tu)
+33. [86adh9pp1 – Submit a Conference | internal review | Vu Nguyen](https://app.clickup.com/t/86adh9pp1)
+34. [86adhc9uf – Implement CRD Numbers section | internal review | Zulqarnain Niazi](https://app.clickup.com/t/86adhc9uf)
+35. [86adhcbeq – Create "User Activity Summary" page | internal review | Vu Nguyen, Zulqarnain Niazi](https://app.clickup.com/t/86adhcbeq)
+36. [86adhm8h8 – Add "Verify" icon on plan contact search | internal review | Vu Nguyen](https://app.clickup.com/t/86adhm8h8)
+37. [86adhndqp – Edit CRD Number on consultant details page | internal review | Zulqarnain Niazi, Vu Nguyen](https://app.clickup.com/t/86adhndqp)
+38. [86adj35cq – Implement Audit Trail Search page | internal review | Zulqarnain Niazi, Vu Nguyen](https://app.clickup.com/t/86adj35cq)
+39. [86adj35jd – Implement Site Updates search page | internal review | Vu Nguyen, Zulqarnain Niazi](https://app.clickup.com/t/86adj35jd)
+40. [86adj3a29 – User Manager page | internal review | Bao Do Van](https://app.clickup.com/t/86adj3a29)
+41. [86adj4guf – Add new user and edit user | internal review | Bao Do Van, Mostofa Reza](https://app.clickup.com/t/86adj4guf)
+42. [86adj4h94 – Reset password, Reset doc trial, Change username | internal review | Bao Do Van, Mostofa Reza](https://app.clickup.com/t/86adj4h94)
+43. [86adj4hb1 – Choose Action | internal review | Bao Do Van, Mostofa Reza](https://app.clickup.com/t/86adj4hb1)
+44. [86adj4hm0 – Search page | internal review | Bao Do Van, Mostofa Reza](https://app.clickup.com/t/86adj4hm0)
+45. [86adj4f71 – Audit History page | internal review | Vu Nguyen](https://app.clickup.com/t/86adj4f71)
+46. [86adj6qvp – Implement CRUD for site updates page | internal review | Zulqarnain Niazi](https://app.clickup.com/t/86adj6qvp)
+47. [86adkqddv – Full Data Export | internal review | Bao Do Van, Zulqarnain Niazi](https://app.clickup.com/t/86adkqddv)
+48. [86adkqxbc – Add/edit consultant on consultant search page | internal review | Bao Do Van, Zulqarnain Niazi](https://app.clickup.com/t/86adkqxbc)
+49. [86adkqz1m – Investment Manager Notes table | internal review | Bao Do Van, Zulqarnain Niazi](https://app.clickup.com/t/86adkqz1m)
+50. [86adkr59e – Verify MoM Contact on MoM Contact search | internal review | Zulqarnain Niazi, Vu Nguyen](https://app.clickup.com/t/86adkr59e)
+51. [86adn3hyr – Create insight details page | internal review | Vu Nguyen](https://app.clickup.com/t/86adn3hyr)
+52. [86adnrvfj – Implement add audit log feature | internal review | Bao Do Van](https://app.clickup.com/t/86adnrvfj)
+53. [86adp7yta – Allow editing plan description | internal review | Vu Nguyen](https://app.clickup.com/t/86adp7yta)
+54. [86adpt3vv – Implement Document section on mandate details page | internal review | Vu Nguyen](https://app.clickup.com/t/86adpt3vv)
+55. [86adpt52y – View Results as Box Plot | developer review | Zulqarnain Niazi, Vu Nguyen](https://app.clickup.com/t/86adpt52y)
+56. [86adpx29j – Allow editing Manager Fund details | internal review | Vu Nguyen](https://app.clickup.com/t/86adpx29j)
+57. [86adq58jd – Fix loading mandate | to do | Not assigned](https://app.clickup.com/t/86adq58jd)
+58. [86adqp2mq – Date Time issue on Plan and Consultant form | to do | Not assigned](https://app.clickup.com/t/86adqp2mq)
+59. [86adgu1pa – Add more filters on People Moves search page | internal review | Zulqarnain Niazi](https://app.clickup.com/t/86adgu1pa)
+60. [86adprqw9 – v2 Employee Search | internal review | Bao Do Van, Zulqarnain Niazi](https://app.clickup.com/t/86adprqw9)
+61. [86adpru9w – v2 LinkedIn Processing Search | developer review | Bao Do Van, Zulqarnain Niazi](https://app.clickup.com/t/86adpru9w)
+62. [86adprvzw – v2 LinkedIn Processing Queue Search | internal review | Zulqarnain Niazi, Bao Do Van](https://app.clickup.com/t/86adprvzw)
+
 ---
 
 - [86adb3jyf - Form D automated report of new filings - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86adb3jyf) - Could you tell me more about the Form D? He wrote the following:
@@ -49,10 +124,12 @@ Here's how this would work:
 - [86ade11z2 - remove about section from specific mandates - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86ade11z2)
     - Mikhail had a question about this, "do we need to hide 'about' for all mandates records? they asked to add this a month ago"
 - [86ade1tm7 - Can't tag newly added plan contact in news - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86ade1tm7) - Hey Gar, could you demonstrate this issue for us?
+-  [86adneeuu - Mandates from prior day are included in current day's export - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86adneeuu) - Mikhail and Bao were not able to reproduce this issue.
 
 **Follow-up**
 
 - [86adadayb - company office HQ updates - client review (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86adadayb) - Have you been experiencing any issues with updating head quarters since we last talked?
+- 13F data
 
 ## Friday, November 21, 2025
 

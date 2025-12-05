@@ -28,6 +28,10 @@ _%>
 
 <span class="placeholder">No tasks</span>
 
+### Ready to Deploy
+
+<span class="placeholder">No tasks</span>
+
 ### To Review
 
 <span class="placeholder">No tasks</span>
