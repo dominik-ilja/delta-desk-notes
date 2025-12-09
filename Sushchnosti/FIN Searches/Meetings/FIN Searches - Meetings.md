@@ -14,6 +14,8 @@ Date Completed: 2025-11-21
 
 **Completed:**
 
+Send these to FIN
+
 - [86ad0t91q – Implement CRUD for Consultant Contact | complete | Zulqarnain Niazi, Vu Nguyen](https://app.clickup.com/t/86ad0t91q)
 - [86ad0tah0 – Add/Edit/Delete consultant contact on consultant contact search page | complete | Not assigned](https://app.clickup.com/t/86ad0tah0)
 - [86ad0tan9 – Edit consultant contact on consultant contact detail page | complete | Not assigned](https://app.clickup.com/t/86ad0tan9)
@@ -124,7 +126,7 @@ These are all the things coming down the pipe that I need assistance with:
 - [86ade11z2 - remove about section from specific mandates - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86ade11z2)
     - Mikhail had a question about this, "do we need to hide 'about' for all mandates records? they asked to add this a month ago"
 - [86ade1tm7 - Can't tag newly added plan contact in news - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86ade1tm7) - Hey Gar, could you demonstrate this issue for us?
--  [86adneeuu - Mandates from prior day are included in current day's export - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86adneeuu) - Mikhail and Bao were not able to reproduce this issue.
+- [86adneeuu - Mandates from prior day are included in current day's export - to do (FIN Searches - External Issue Submissions)](https://app.clickup.com/t/86adneeuu) - Mikhail and Bao were not able to reproduce this issue.
 
 **Follow-up**
 
