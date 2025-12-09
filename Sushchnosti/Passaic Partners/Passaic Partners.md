@@ -21,6 +21,8 @@ They have an email distribution that has different material coming out each week
 - Week 3 - Cross-Asset Volatility
 - Week 4 - Podcast
 
+The podcast is automatically populated with the https://rss.com/ API. The end point is `https://media.rss.com/macroandvolatility/feed.xml`
+
 ## Projects
 ### Passaic Partners Website
 #### Project Stack

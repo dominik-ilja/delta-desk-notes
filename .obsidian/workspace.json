@@ -13,6 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Agenda/Daily/2025-12-08 - Monday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-08 - Monday"
+            }
+          },
+          {
+            "id": "02743dc49dbdbe44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Agenda/Daily/2025-12-05 - Friday.md",
                 "mode": "source",
                 "source": false,
@@ -66,22 +81,34 @@
               "icon": "lucide-file",
               "title": "FIN Searches - Meetings"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8d6eec588751d884",
+        "type": "tabs",
+        "children": [
           {
             "id": "42f99c35f20501dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Daily/2025-12-04 - Thursday.md",
+                "file": "Notes/Daily/2025-12-08 - Monday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-04 - Thursday"
+              "title": "2025-12-08 - Monday"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9174923fcefd9e69",
+        "type": "tabs",
+        "children": [
           {
             "id": "50a07fd3fddec0a5",
             "type": "leaf",
@@ -96,39 +123,8 @@
               "icon": "lucide-file",
               "title": "Task List"
             }
-          },
-          {
-            "id": "7fc1a80d73564774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Notes/Daily/Agenda.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Agenda"
-            }
-          },
-          {
-            "id": "7f37abaea5790469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sushchnosti/FIN Searches/Application/Documentation/Pages.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Pages"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +209,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md"
+                "file": "Notes/Daily/2025-12-09 - Tuesday.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for FIN Searches - Meetings"
+              "title": "File properties for 2025-12-09 - Tuesday"
             }
           },
           {
@@ -272,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md",
+                "file": "Notes/Daily/2025-12-09 - Tuesday.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FIN Searches - Meetings"
+              "title": "Outline of 2025-12-09 - Tuesday"
             }
           }
         ]
@@ -396,21 +392,85 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "125c8ea636bfdfca",
+  "floating": {
+    "id": "3431f74e01e9a061",
+    "type": "floating",
+    "children": [
+      {
+        "id": "20bab15b7ecc781e",
+        "type": "window",
+        "children": [
+          {
+            "id": "5ff1f2332fb7f1fd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "10dc9a06693191c4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Daily/2025-12-09 - Tuesday.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-12-09 - Tuesday"
+                }
+              },
+              {
+                "id": "018ce64d93a53491",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Agenda/Daily/2025-12-09 - Tuesday.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-12-09 - Tuesday"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "10dc9a06693191c4",
   "lastOpenFiles": [
-    "Notes/Daily/2025-12-05 - Friday.md",
-    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Pages.md",
+    "Agenda/Daily/2025-12-09 - Tuesday.md",
+    "Notes/Daily/2025-12-09 - Tuesday.md",
+    "Tasks/Lists/Task List.md",
+    "Agenda/Daily/2025-12-08 - Monday.md",
+    "Sushchnosti/Passaic Partners/Passaic Partners.md",
+    "Notes/Daily/2025-12-08 - Monday.md",
     "Agenda/Daily/2025-12-05 - Friday.md",
+    "Agenda/Daily/2025-12-06 - Saturday.md",
+    "Agenda/Daily/2025-12-07 - Sunday.md",
+    "Notes/Daily/2025-12-07 - Sunday.md",
+    "Notes/Daily/2025-12-06 - Saturday.md",
+    "Notes/Daily/2025-12-05 - Friday.md",
     "Notes/Daily/2025-12-04 - Thursday.md",
+    "Sushchnosti/FIN Searches/Application/Documentation/Pages.md",
+    "Templates/Notes/Daily/Agenda.md",
     "Sushchnosti/FIN Searches/Meetings/FIN Searches - Meetings.md",
+    "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Pages.md",
     "Sushchnosti/FIN Searches/Application/Documentation/Documentation.md",
     "Sushchnosti/FIN Searches/Application/Documentation/Topics.md",
     "Untitled.md",
     "Templates/HTML/placeholder.md",
-    "Sushchnosti/FIN Searches/Application/Documentation/Pages.md",
     "Sushchnosti/FIN Searches/FIN Searches.md",
-    "Tasks/Lists/Task List.md",
-    "Templates/Notes/Daily/Agenda.md",
     "Agenda/Daily/2025-12-04 - Thursday.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Agendas/2025-09-18.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Pages/Dashboard.md",
@@ -418,15 +478,6 @@
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Pages/Pages",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Documentation/Pages",
     "Sushchnosti/Delta Desk/Documentation/Developers/Bao Notes.md",
-    "Sushchnosti/Delta Desk/Documentation/Developers/Vu Notes.md",
-    "Developer Tasks.md",
-    "Agenda/Daily/2025-12-03 - Wednesday.md",
-    "Notes/Daily/2025-12-03 - Wednesday.md",
-    "Sushchnosti/Delta Desk/Meetings/Josh Jennings Meetings.md",
-    "Agenda/Daily/2025-12-02 - Tuesday.md",
-    "Sushchnosti/Delta Desk/Documentation/Developers/Mikhail Notes.md",
-    "Sushchnosti/Delta Desk/Meetings/Zulqarnain one-on-one.md",
-    "Sushchnosti/Delta Desk/Meetings/Vu one-on-one.md",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Testing",
     "Untitled.canvas",
     "Sushchnosti/National Student Debt Forgiveness Center/Customer Relationship Management/Release Notes",
